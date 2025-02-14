@@ -1,0 +1,455 @@
+Origem,Estado,Distância hub carga,Distância original carga
+Aeroporto Internacional de Taiwan Taoyuan,Alagoas,17092.0,17006
+Aeroporto de Gatwick (Londres),Alagoas,7751.0,11382
+Aeroporto de Barcelona-El Prat (Espanha),Alagoas,6814.0,6786
+Aeroporto de Frankfurt,Alagoas,8130.0,7829
+Aeroporto Internacional de Hong Kong,Alagoas,16607.0,19979
+Aeroporto Internacional de Pequim Capital,Alagoas,15935.0,16643
+Aeroporto de Heathrow (Londres),Alagoas,7765.0,11397
+Aeroporto Adolfo Suárez Madrid-Barajas,Alagoas,6718.0,6407
+Aeroporto Internacional de Xangai Pudong,Alagoas,16691.0,17663
+Aeroporto Internacional de Pequim Capital,Amapá,16734.0,15391
+Aeroporto Internacional de Kansai (Osaka),Amapá,17293.0,16132
+Aeroporto Internacional de Taiwan Taoyuan,Amapá,18598.0,17106
+Aeroporto Internacional de Narita (Tóquio),Amapá,17116.0,15869
+Aeroporto de Praga,Amapá,9675.0,8273
+Aeroporto Internacional Don Mueang,Amapá,16989.0,16548
+Aeroporto Internacional de Xangai Pudong,Amapá,18197.0,16473
+Aeroporto Internacional de Haneda (Tóquio),Amapá,17147.0,15908
+Aeroporto de Toulouse-Blagnac (França),Amapá,8466.0,7087
+Aeroporto Internacional de Suvarnabhumi,Amapá,17007.0,16572
+Aeroporto Internacional de Haneda (Tóquio),Amazonas,18092.0,15553
+Aeroporto de Barcelona-El Prat (Espanha),Amazonas,9217.0,7955
+Aeroporto de Frankfurt,Amazonas,9864.0,8763
+Aeroporto Internacional de Viena,Amazonas,10583.0,9271
+Aeroporto de Tallinn,Amazonas,11295.0,10004
+Aeroporto de Praga,Amazonas,10572.0,9156
+Aeroporto Internacional de Kuala Lumpur (Sepang),Amazonas,18035.0,18008
+Aeroporto Internacional de Kansai (Osaka),Amazonas,18238.0,15914
+Aeroporto de Zurique,Amazonas,10061.0,8672
+Aeroporto de Roma-Fiumicino,Amazonas,9904.0,8780
+Aeroporto Internacional Don Mueang,Amazonas,17886.0,17585
+Aeroporto de Schiphol (Amsterdã),Amazonas,9821.0,8601
+Aeroporto Internacional de Suvarnabhumi,Amazonas,17904.0,17610
+Aeroporto de Dublin,Amazonas,9411.0,7996
+Aeroporto Internacional de Noi Bai,Amazonas,18269.0,17487
+Aeroporto de Milão-Malpensa,Amazonas,9939.0,8623
+Aeroporto Adolfo Suárez Madrid-Barajas,Amazonas,8452.0,7484
+Aeroporto de Toulouse-Blagnac (França),Amazonas,9363.0,7999
+Aeroporto Internacional de Vilnius,Amazonas,11475.0,9981
+Aeroporto Internacional de Hong Kong,Amazonas,19010.0,17777
+Aeroporto de Bruxelas,Amazonas,9702.0,8524
+Aeroporto Internacional de Taiwan Taoyuan,Amazonas,19495.0,17561
+Aeroporto Internacional de Penang (Penang),Amazonas,17915.0,17839
+Aeroporto Internacional de Tan Son Nhat,Amazonas,18574.0,18326
+Aeroporto de Sófia,Amazonas,10745.0,9703
+Aeroporto Internacional de Pyongyang Sunan,Amazonas,18162.0,15955
+Aeroporto Internacional de Budapeste Ferenc Liszt,Amazonas,10712.0,9454
+Aeroporto Internacional de Narita (Tóquio),Amazonas,18061.0,15498
+Aeroporto de Estocolmo-Arlanda,Amazonas,10964.0,9623
+Aeroporto Internacional Ninoy Aquino,Amazonas,20030.0,18730
+Aeroporto Internacional Indira Gandhi,Amazonas,15272.0,14684
+Aeroporto Internacional de Changi,Amazonas,18259.0,18252
+Aeroporto de Heathrow (Londres),Amazonas,9499.0,8235
+Aeroporto Internacional de Pequim Capital,Amazonas,17669.0,15888
+Aeroporto de Helsinque,Amazonas,11346.0,10022
+Aeroporto Internacional de Incheon,Amazonas,18368.0,16135
+Aeroporto de Gatwick (Londres),Amazonas,9485.0,8235
+Aeroporto de Varsóvia Chopin,Amazonas,11090.0,9661
+Aeroporto Internacional de Xangai Pudong,Amazonas,19094.0,16887
+Aeroporto Internacional Ngurah Rai (Bali),Amazonas,19062.0,18601
+Aeroporto Internacional Soekarno-Hatta (Jacarta),Amazonas,18325.0,18234
+Aeroporto Internacional de Kansai (Osaka),Distrito Federal,18002.0,17923
+Aeroporto Internacional de Hong Kong,Distrito Federal,18020.0,17993
+Aeroporto de Estocolmo-Arlanda,Distrito Federal,10259.0,11751
+Aeroporto Internacional de Taiwan Taoyuan,Distrito Federal,18505.0,18498
+Aeroporto Internacional de Penang (Penang),Distrito Federal,16731.0,16369
+Aeroporto Internacional Indira Gandhi,Distrito Federal,14282.0,14242
+Aeroporto Internacional de Viena,Distrito Federal,9593.0,10956
+Aeroporto Internacional de Pequim Capital,Distrito Federal,16964.0,16936
+Aeroporto de Helsinque,Distrito Federal,10641.0,12128
+Aeroporto Internacional de Budapeste Ferenc Liszt,Distrito Federal,9722.0,9670
+Aeroporto Internacional de Xangai Pudong,Distrito Federal,18104.0,18024
+Aeroporto de Schiphol (Amsterdã),Distrito Federal,9116.0,9094
+Aeroporto Internacional Ninoy Aquino,Distrito Federal,19040.0,18838
+Aeroporto de Barcelona-El Prat (Espanha),Distrito Federal,8227.0,8156
+Aeroporto de Frankfurt,Distrito Federal,9159.0,9150
+Aeroporto Internacional de Incheon,Distrito Federal,17663.0,19144
+Aeroporto Internacional de Changi,Distrito Federal,17075.0,16555
+Aeroporto de Praga,Distrito Federal,9582.0,9494
+Aeroporto Internacional de Kuala Lumpur (Sepang),Distrito Federal,16851.0,16401
+Aeroporto de Varsóvia Chopin,Distrito Federal,10100.0,10016
+Aeroporto de Dublin,Distrito Federal,8706.0,8648
+Aeroporto Francisco Sá Carneiro (Porto),Distrito Federal,7522.0,8851
+Aeroporto de Zurique,Distrito Federal,9071.0,10260
+Aeroporto de Heathrow (Londres),Distrito Federal,8794.0,8763
+Aeroporto Internacional de Narita (Tóquio),Distrito Federal,17825.0,17653
+Aeroporto Internacional de Haneda (Tóquio),Distrito Federal,17856.0,17695
+Aeroporto de Gatwick (Londres),Distrito Federal,8780.0,8751
+Aeroporto Humberto Delgado (Lisboa),Distrito Federal,7284.0,8600
+Aeroporto de Toulouse-Blagnac (França),Distrito Federal,8373.0,8280
+Aeroporto Adolfo Suárez Madrid-Barajas,Distrito Federal,7747.0,7742
+Aeroporto Internacional de Suvarnabhumi,Espírito Santo,16828.0,15830
+Aeroporto de Zurique,Espírito Santo,8985.0,8947
+Aeroporto de Milão-Malpensa,Espírito Santo,8863.0,8815
+Aeroporto Internacional de Narita (Tóquio),Espírito Santo,18301.0,18284
+Aeroporto Internacional Ngurah Rai (Bali),Espírito Santo,17685.0,15832
+Aeroporto Internacional de Haneda (Tóquio),Espírito Santo,18332.0,18309
+Aeroporto Adolfo Suárez Madrid-Barajas,Espírito Santo,7892.0,7726
+Aeroporto de Toulouse-Blagnac (França),Espírito Santo,8287.0,8255
+Aeroporto de Bruxelas,Espírito Santo,9142.0,9017
+Aeroporto Internacional de Kansai (Osaka),Espírito Santo,18478.0,18374
+Aeroporto Internacional de Taiwan Taoyuan,Espírito Santo,18419.0,18059
+Aeroporto de Istambul,Espírito Santo,10001.0,11474
+Aeroporto de Varsóvia Chopin,Espírito Santo,10014.0,9968
+Aeroporto Internacional de Hong Kong,Espírito Santo,17934.0,17349
+Aeroporto Internacional Soekarno-Hatta (Jacarta),Espírito Santo,16948.0,15376
+Aeroporto Internacional de Penang (Penang),Espírito Santo,16538.0,15458
+Aeroporto Internacional de Pyongyang Sunan,Espírito Santo,17602.0,17515
+Aeroporto Internacional de Pequim Capital,Espírito Santo,17109.0,16907
+Aeroporto Internacional de Xangai Pudong,Espírito Santo,18018.0,17863
+Aeroporto Internacional de Nursultan Nazarbayev,Espírito Santo,13365.0,14869
+Aeroporto de Schiphol (Amsterdã),Espírito Santo,9261.0,9146
+Aeroporto de Barcelona-El Prat (Espanha),Espírito Santo,8141.0,8096
+Aeroporto Internacional de Changi,Espírito Santo,16882.0,15617
+Aeroporto de Frankfurt,Espírito Santo,9304.0,9148
+Aeroporto Internacional de Viena,Espírito Santo,9507.0,9448
+Aeroporto de Praga,Espírito Santo,9496.0,9455
+Aeroporto Internacional de Incheon,Espírito Santo,17808.0,17713
+Aeroporto Internacional de Kuala Lumpur (Sepang),Espírito Santo,16658.0,15473
+Aeroporto de Roma-Fiumicino,Espírito Santo,8828.0,8740
+Aeroporto Internacional Don Mueang,Espírito Santo,16810.0,15822
+Aeroporto de Dublin,Espírito Santo,8851.0,8795
+Aeroporto Internacional Indira Gandhi,Espírito Santo,14196.0,13682
+Aeroporto Humberto Delgado (Lisboa),Espírito Santo,7429.0,8639
+Aeroporto de Oslo-Gardermoen,Espírito Santo,10125.0,10046
+Aeroporto Internacional Ninoy Aquino,Espírito Santo,18954.0,17948
+Aeroporto Francisco Sá Carneiro (Porto),Espírito Santo,7667.0,8884
+Aeroporto de Heathrow (Londres),Espírito Santo,8939.0,8844
+Aeroporto Internacional de Budapeste Ferenc Liszt,Espírito Santo,9636.0,9565
+Aeroporto de Helsinque,Espírito Santo,10786.0,10668
+Aeroporto de Gatwick (Londres),Espírito Santo,8925.0,8827
+Aeroporto de Estocolmo-Arlanda,Espírito Santo,10404.0,11104
+Aeroporto Internacional de Hong Kong,Goiás,18020.0,17993
+Aeroporto Internacional de Penang (Penang),Goiás,16731.0,16889
+Aeroporto Internacional de Taiwan Taoyuan,Goiás,18505.0,18498
+Aeroporto Internacional de Budapeste Ferenc Liszt,Goiás,9722.0,11109
+Aeroporto de Roma-Fiumicino,Goiás,8914.0,9523
+Aeroporto Internacional de Viena,Goiás,9593.0,10956
+Aeroporto Internacional de Pequim Capital,Goiás,16964.0,16936
+Aeroporto Internacional de Xangai Pudong,Goiás,18104.0,18024
+Aeroporto de Oslo-Gardermoen,Goiás,9980.0,10753
+Aeroporto de Milão-Malpensa,Goiás,8949.0,9575
+Aeroporto Internacional de Narita (Tóquio),Goiás,17825.0,18829
+Aeroporto Internacional de Kuala Lumpur (Sepang),Goiás,16851.0,16853
+Aeroporto de Frankfurt,Goiás,9159.0,9150
+Aeroporto Internacional de Haneda (Tóquio),Goiás,17856.0,18862
+Aeroporto Internacional de Changi,Goiás,17075.0,16555
+Aeroporto Francisco Sá Carneiro (Porto),Goiás,7522.0,7505
+Aeroporto de Dublin,Goiás,8706.0,10197
+Aeroporto Internacional Don Mueang,Goiás,16896.0,16645
+Aeroporto Internacional de Incheon,Goiás,17663.0,17549
+Aeroporto de Varsóvia Chopin,Goiás,10100.0,10016
+Aeroporto Internacional de Kansai (Osaka),Goiás,18002.0,19004
+Aeroporto Internacional de Suvarnabhumi,Goiás,16914.0,16657
+Aeroporto de Heathrow (Londres),Goiás,8794.0,8763
+Aeroporto Humberto Delgado (Lisboa),Goiás,7284.0,7273
+Aeroporto de Gatwick (Londres),Goiás,8780.0,8751
+Aeroporto Internacional Indira Gandhi,Goiás,14282.0,15254
+Aeroporto de Toulouse-Blagnac (França),Goiás,8373.0,8280
+Aeroporto Internacional de Taiwan Taoyuan,Mato Grosso,19284.0,20122
+Aeroporto de Varsóvia Chopin,Mato Grosso,10879.0,11968
+Aeroporto de Frankfurt,Mato Grosso,9830.0,9644
+Aeroporto Internacional de Budapeste Ferenc Liszt,Mato Grosso,10501.0,10236
+Aeroporto Internacional Ninoy Aquino,Minas Gerais,19021.0,18264
+Aeroporto de Schiphol (Amsterdã),Minas Gerais,9254.0,9222
+Aeroporto Internacional Indira Gandhi,Minas Gerais,14263.0,15155
+Aeroporto de Barcelona-El Prat (Espanha),Minas Gerais,8208.0,8205
+Aeroporto Internacional de Changi,Minas Gerais,16977.0,15927
+Aeroporto Internacional de Viena,Minas Gerais,9574.0,9567
+Aeroporto Internacional Don Mueang,Minas Gerais,16877.0,16135
+Aeroporto de Zurique,Minas Gerais,9052.0,9051
+Aeroporto de Varsóvia Chopin,Minas Gerais,10081.0,10078
+Aeroporto de Roma-Fiumicino,Minas Gerais,8895.0,8875
+Aeroporto Internacional de Suvarnabhumi,Minas Gerais,16895.0,16144
+Aeroporto de Oslo-Gardermoen,Minas Gerais,10118.0,10105
+Aeroporto de Heathrow (Londres),Minas Gerais,8932.0,8910
+Aeroporto Internacional de Pequim Capital,Minas Gerais,17102.0,17039
+Aeroporto Nikola Tesla (Belgrado),Minas Gerais,9625.0,9602
+Aeroporto de Milão-Malpensa,Minas Gerais,8930.0,8927
+Aeroporto Internacional de Narita (Tóquio),Minas Gerais,18188.0,18181
+Aeroporto de Gatwick (Londres),Minas Gerais,8918.0,8894
+Aeroporto Internacional de Haneda (Tóquio),Minas Gerais,18219.0,18214
+Aeroporto Adolfo Suárez Madrid-Barajas,Minas Gerais,7885.0,7821
+Aeroporto Internacional de Kansai (Osaka),Minas Gerais,18365.0,18356
+Aeroporto Internacional de Hong Kong,Minas Gerais,18001.0,17641
+Aeroporto de Helsinque,Minas Gerais,10779.0,11412
+Aeroporto Francisco Sá Carneiro (Porto),Minas Gerais,7660.0,8292
+Aeroporto Internacional Henri Coand? (Bucareste),Minas Gerais,10023.0,9987
+Aeroporto Internacional de Taiwan Taoyuan,Minas Gerais,18486.0,18320
+Aeroporto de Luxemburgo,Minas Gerais,9136.0,9086
+Aeroporto Humberto Delgado (Lisboa),Minas Gerais,7422.0,8041
+Aeroporto Internacional de Budapeste Ferenc Liszt,Minas Gerais,9703.0,9692
+Aeroporto Internacional de Xangai Pudong,Minas Gerais,18085.0,18050
+Aeroporto de Pulkovo (São Petersburgo),Minas Gerais,11029.0,10987
+Aeroporto Internacional Sheremetyevo (Moscou),Minas Gerais,11233.0,11229
+Aeroporto de Toulouse-Blagnac (França),Minas Gerais,8354.0,8354
+Aeroporto Internacional de Penang (Penang),Minas Gerais,16633.0,15775
+Aeroporto de Dublin,Minas Gerais,8844.0,8838
+Aeroporto de Frankfurt,Minas Gerais,9297.0,9242
+Aeroporto de Bruxelas,Minas Gerais,9135.0,9097
+Aeroporto Internacional de Incheon,Minas Gerais,17801.0,17793
+Aeroporto Internacional de Noi Bai,Minas Gerais,17260.0,17709
+Aeroporto Internacional de Tan Son Nhat,Minas Gerais,17565.0,17393
+Aeroporto de Praga,Minas Gerais,9563.0,9561
+Aeroporto de Bratislava,Minas Gerais,9618.0,9611
+Aeroporto Internacional de Kuala Lumpur (Sepang),Minas Gerais,16753.0,15786
+Aeroporto de Estocolmo-Arlanda,Minas Gerais,10397.0,10372
+Aeroporto de Estocolmo-Arlanda,Pará,9709.0,13349
+Aeroporto Internacional de Kansai (Osaka),Pará,16970.0,16324
+Aeroporto Internacional de Taiwan Taoyuan,Pará,18274.0,17162
+Aeroporto de Toulouse-Blagnac (França),Pará,8142.0,7734
+Aeroporto de Helsinque,Pará,10091.0,12844
+Aeroporto de Varsóvia Chopin,Pará,9869.0,13064
+Aeroporto Internacional de Pequim Capital,Pará,16414.0,15463
+Aeroporto Internacional de Xangai Pudong,Pará,17873.0,16557
+Aeroporto de Schiphol (Amsterdã),Pará,8566.0,7742
+Aeroporto de Barcelona-El Prat (Espanha),Pará,7996.0,6945
+Aeroporto de Frankfurt,Pará,8609.0,7851
+Aeroporto de Roma-Fiumicino,Pará,8683.0,7735
+Aeroporto Internacional de Hong Kong,Pará,17789.0,20467
+Aeroporto de Praga,Pará,9351.0,12295
+Aeroporto de Dublin,Pará,8156.0,11604
+Aeroporto de Heathrow (Londres),Pará,8244.0,7391
+Aeroporto de Milão-Malpensa,Pará,8718.0,7644
+Aeroporto Internacional de Viena,Pará,9362.0,8979
+Aeroporto Internacional de Narita (Tóquio),Pará,16793.0,16090
+Aeroporto de Zurique,Pará,8840.0,8436
+Aeroporto de Gatwick (Londres),Pará,8230.0,7385
+Aeroporto Internacional de Haneda (Tóquio),Pará,16824.0,16127
+Aeroporto Adolfo Suárez Madrid-Barajas,Pará,7197.0,6494
+Aeroporto Internacional de Budapeste Ferenc Liszt,Pará,9491.0,12679
+Aeroporto Internacional de Xangai Pudong,Paraná,18943.0,18921
+Aeroporto de Istambul,Paraná,10926.0,10874
+Aeroporto de Schiphol (Amsterdã),Paraná,10064.0,10061
+Aeroporto Internacional Ninoy Aquino,Paraná,19879.0,18446
+Aeroporto de Barcelona-El Prat (Espanha),Paraná,9066.0,9066
+Aeroporto Internacional de Viena,Paraná,10432.0,10431
+Aeroporto de Praga,Paraná,10421.0,10420
+Aeroporto Internacional de Incheon,Paraná,18611.0,18590
+Aeroporto Internacional de Kuala Lumpur (Sepang),Paraná,17621.0,16031
+Aeroporto de Zurique,Paraná,9910.0,9908
+Aeroporto de Roma-Fiumicino,Paraná,9753.0,9745
+Aeroporto Internacional Don Mueang,Paraná,17735.0,16630
+Aeroporto de Varsóvia Chopin,Paraná,10939.0,10938
+Aeroporto de Estocolmo-Arlanda,Paraná,11207.0,11206
+Aeroporto de Dublin,Paraná,9654.0,9649
+Aeroporto Internacional de Suvarnabhumi,Paraná,17753.0,16632
+Aeroporto Internacional de Narita (Tóquio),Paraná,18864.0,18532
+Aeroporto de Frankfurt,Paraná,10107.0,10093
+Aeroporto de Milão-Malpensa,Paraná,9788.0,9788
+Aeroporto Internacional de Haneda (Tóquio),Paraná,18895.0,18584
+Aeroporto de Toulouse-Blagnac (França),Paraná,9212.0,9209
+Aeroporto de Bruxelas,Paraná,9945.0,9940
+Aeroporto Internacional de Kansai (Osaka),Paraná,19041.0,18904
+Aeroporto Internacional de Hong Kong,Paraná,18859.0,18278
+Aeroporto Internacional de Taiwan Taoyuan,Paraná,19344.0,19064
+Aeroporto Adolfo Suárez Madrid-Barajas,Paraná,8695.0,8674
+Aeroporto Internacional de Penang (Penang),Paraná,17501.0,16089
+Aeroporto Internacional de Pyongyang Sunan,Paraná,18405.0,18383
+Aeroporto Internacional de Pequim Capital,Paraná,17912.0,17901
+Aeroporto Internacional de Budapeste Ferenc Liszt,Paraná,10561.0,10559
+Aeroporto de Oslo-Gardermoen,Paraná,10928.0,10927
+Aeroporto de Luxemburgo,Paraná,9946.0,9935
+Aeroporto Internacional Indira Gandhi,Paraná,15121.0,14795
+Aeroporto Internacional de Boryspil (Kiev),Paraná,11468.0,11464
+Aeroporto de Heathrow (Londres),Paraná,9742.0,9741
+Aeroporto Humberto Delgado (Lisboa),Paraná,8232.0,8223
+Aeroporto Francisco Sá Carneiro (Porto),Paraná,8470.0,8465
+Aeroporto de Helsinque,Paraná,11589.0,11586
+Aeroporto de Gatwick (Londres),Paraná,9728.0,9727
+Aeroporto de Toulouse-Blagnac (França),Rio de Janeiro,8666.0,8654
+Aeroporto Internacional de Kansai (Osaka),Rio de Janeiro,18717.0,18707
+Aeroporto Internacional de Hong Kong,Rio de Janeiro,18313.0,17685
+Aeroporto de Bruxelas,Rio de Janeiro,9475.0,9408
+Aeroporto Internacional Henri Coand? (Bucareste),Rio de Janeiro,10335.0,10250
+Aeroporto Internacional de Penang (Penang),Rio de Janeiro,16929.0,15659
+Aeroporto Internacional Indira Gandhi,Rio de Janeiro,14575.0,14068
+Aeroporto Internacional de Tan Son Nhat,Rio de Janeiro,17877.0,16567
+Aeroporto Internacional de Pequim Capital,Rio de Janeiro,17442.0,17319
+Aeroporto Internacional de Budapeste Ferenc Liszt,Rio de Janeiro,10015.0,9974
+Aeroporto Internacional de Taiwan Taoyuan,Rio de Janeiro,18798.0,18426
+Aeroporto de Schiphol (Amsterdã),Rio de Janeiro,9594.0,9535
+Aeroporto Internacional Ninoy Aquino,Rio de Janeiro,19333.0,18131
+Aeroporto Internacional de Changi,Rio de Janeiro,17273.0,15763
+Aeroporto de Frankfurt,Rio de Janeiro,9637.0,9545
+Aeroporto de Helsinque,Rio de Janeiro,11119.0,11059
+Aeroporto Internacional de Kuala Lumpur (Sepang),Rio de Janeiro,17049.0,15643
+Aeroporto Internacional Don Mueang,Rio de Janeiro,17189.0,16097
+Aeroporto de Praga,Rio de Janeiro,9875.0,9858
+Aeroporto Internacional de Incheon,Rio de Janeiro,18141.0,18110
+Aeroporto de Varsóvia Chopin,Rio de Janeiro,10393.0,10372
+Aeroporto de Dublin,Rio de Janeiro,9184.0,9167
+Aeroporto de Oslo-Gardermoen,Rio de Janeiro,10458.0,10427
+Aeroporto Internacional de Suvarnabhumi,Rio de Janeiro,17207.0,16103
+Aeroporto Internacional de Xangai Pudong,Rio de Janeiro,18397.0,18277
+Aeroporto Internacional de Noi Bai,Rio de Janeiro,17572.0,16838
+Aeroporto Internacional de Narita (Tóquio),Rio de Janeiro,18540.0,18527
+Aeroporto de Heathrow (Londres),Rio de Janeiro,9272.0,9228
+Aeroporto de Gatwick (Londres),Rio de Janeiro,9258.0,9212
+Aeroporto Internacional de Haneda (Tóquio),Rio de Janeiro,18571.0,18562
+Aeroporto de Barcelona-El Prat (Espanha),Rio de Janeiro,8520.0,8499
+Aeroporto Adolfo Suárez Madrid-Barajas,Rio de Janeiro,8225.0,8123
+Aeroporto de Sófia,Rio de Janeiro,10048.0,9955
+Aeroporto de Milão-Malpensa,Rio de Janeiro,9242.0,9219
+Aeroporto Humberto Delgado (Lisboa),Rio de Janeiro,7762.0,7688
+Aeroporto Francisco Sá Carneiro (Porto),Rio de Janeiro,8000.0,7939
+Aeroporto Internacional de Viena,Rio de Janeiro,9886.0,9855
+Aeroporto de Roma-Fiumicino,Rio de Janeiro,9207.0,9151
+Aeroporto de Zurique,Rio de Janeiro,9364.0,9348
+Aeroporto de Estocolmo-Arlanda,Rio de Janeiro,10737.0,10688
+Aeroporto Internacional Ninoy Aquino,Rio Grande do Sul,20420.0,18116
+Aeroporto de Barcelona-El Prat (Espanha),Rio Grande do Sul,9607.0,9605
+Aeroporto de Frankfurt,Rio Grande do Sul,10664.0,10640
+Aeroporto Internacional de Changi,Rio Grande do Sul,18376.0,15900
+Aeroporto Francisco Sá Carneiro (Porto),Rio Grande do Sul,9027.0,9017
+Aeroporto Internacional de Viena,Rio Grande do Sul,10973.0,10966
+Aeroporto de Helsinque,Rio Grande do Sul,12146.0,12140
+Aeroporto Internacional Don Mueang,Rio Grande do Sul,18276.0,16624
+Aeroporto de Praga,Rio Grande do Sul,10962.0,10961
+Aeroporto Internacional de Incheon,Rio Grande do Sul,19168.0,19148
+Aeroporto de Roma-Fiumicino,Rio Grande do Sul,10294.0,10269
+Aeroporto de Varsóvia Chopin,Rio Grande do Sul,11480.0,11478
+Aeroporto de Dublin,Rio Grande do Sul,10211.0,10209
+Aeroporto Internacional de Suvarnabhumi,Rio Grande do Sul,18294.0,16622
+Aeroporto Internacional de Narita (Tóquio),Rio Grande do Sul,19421.0,18766
+Aeroporto de Milão-Malpensa,Rio Grande do Sul,10329.0,10326
+Aeroporto de Heathrow (Londres),Rio Grande do Sul,10299.0,10297
+Aeroporto de Gatwick (Londres),Rio Grande do Sul,10285.0,10282
+Aeroporto Internacional de Haneda (Tóquio),Rio Grande do Sul,19452.0,18825
+Aeroporto Adolfo Suárez Madrid-Barajas,Rio Grande do Sul,9252.0,9219
+Aeroporto de Toulouse-Blagnac (França),Rio Grande do Sul,9753.0,9753
+Aeroporto Humberto Delgado (Lisboa),Rio Grande do Sul,8789.0,8773
+Aeroporto de Bratislava,Rio Grande do Sul,11017.0,11013
+Aeroporto Internacional de Kansai (Osaka),Rio Grande do Sul,19598.0,19239
+Aeroporto Internacional de Taiwan Taoyuan,Rio Grande do Sul,19885.0,19093
+Aeroporto Internacional de Hong Kong,Rio Grande do Sul,19400.0,18882
+Aeroporto Internacional Henri Coand? (Bucareste),Rio Grande do Sul,11422.0,11389
+Aeroporto Internacional de Pequim Capital,Rio Grande do Sul,18469.0,18438
+Aeroporto Internacional de Budapeste Ferenc Liszt,Rio Grande do Sul,11102.0,11089
+Aeroporto Internacional de Xangai Pudong,Rio Grande do Sul,19484.0,19342
+Aeroporto de Schiphol (Amsterdã),Rio Grande do Sul,10621.0,10614
+Aeroporto Internacional Soekarno-Hatta (Jacarta),Rio Grande do Sul,18442.0,15366
+Aeroporto de Bruxelas,Rio Grande do Sul,10502.0,10492
+Aeroporto Internacional Indira Gandhi,Rio Grande do Sul,15662.0,15043
+Aeroporto de Estocolmo-Arlanda,Rio Grande do Sul,11764.0,11761
+Aeroporto Internacional Ngurah Rai (Bali),Rio Grande do Sul,19179.0,15478
+Aeroporto Internacional de Kuala Lumpur (Sepang),Rio Grande do Sul,18152.0,15861
+Aeroporto de Zurique,Rio Grande do Sul,10451.0,10450
+Aeroporto Internacional de Penang (Penang),Rio Grande do Sul,18032.0,15965
+Aeroporto de Dublin,Santa Catarina,9796.0,9797
+Aeroporto de Oslo-Gardermoen,Santa Catarina,11070.0,11070
+Aeroporto de Estocolmo-Arlanda,Santa Catarina,11349.0,11344
+Aeroporto de Schiphol (Amsterdã),Santa Catarina,10206.0,10195
+Aeroporto de Milão-Malpensa,Santa Catarina,9909.0,9906
+Aeroporto Internacional de Taiwan Taoyuan,Santa Catarina,19465.0,18969
+Aeroporto Adolfo Suárez Madrid-Barajas,Santa Catarina,8837.0,8799
+Aeroporto de Helsinque,Santa Catarina,11731.0,11721
+Aeroporto de Toulouse-Blagnac (França),Santa Catarina,9333.0,9332
+Aeroporto Internacional Indira Gandhi,Santa Catarina,15242.0,14736
+Aeroporto Internacional de Pyongyang Sunan,Santa Catarina,18547.0,18618
+Aeroporto Internacional de Narita (Tóquio),Santa Catarina,19034.0,18723
+Aeroporto Internacional de Haneda (Tóquio),Santa Catarina,19065.0,18775
+Aeroporto de Heathrow (Londres),Santa Catarina,9884.0,9880
+Aeroporto de Gatwick (Londres),Santa Catarina,9870.0,9865
+Aeroporto Internacional de Pequim Capital,Santa Catarina,18054.0,18018
+Aeroporto Internacional de Kansai (Osaka),Santa Catarina,19211.0,19095
+Aeroporto Internacional de Changi,Santa Catarina,17955.0,15891
+Aeroporto Internacional de Xangai Pudong,Santa Catarina,19064.0,18984
+Aeroporto de Bruxelas,Santa Catarina,10087.0,10072
+Aeroporto Internacional de Kuala Lumpur (Sepang),Santa Catarina,17731.0,15825
+Aeroporto de Varsóvia Chopin,Santa Catarina,11060.0,11057
+Aeroporto de Barcelona-El Prat (Espanha),Santa Catarina,9187.0,9184
+Aeroporto de Frankfurt,Santa Catarina,10249.0,10220
+Aeroporto de Roma-Fiumicino,Santa Catarina,9874.0,9850
+Aeroporto Internacional de Viena,Santa Catarina,10553.0,10546
+Aeroporto de Praga,Santa Catarina,10542.0,10540
+Aeroporto Internacional de Incheon,Santa Catarina,18753.0,18750
+Aeroporto de Zurique,Santa Catarina,10031.0,10030
+Aeroporto Internacional de Budapeste Ferenc Liszt,Santa Catarina,10682.0,10674
+Aeroporto Humberto Delgado (Lisboa),Santa Catarina,8374.0,8353
+Aeroporto Francisco Sá Carneiro (Porto),Santa Catarina,8612.0,8598
+Aeroporto de Luxemburgo,Santa Catarina,10088.0,10126
+Aeroporto Internacional de Penang (Penang),Santa Catarina,17611.0,15899
+Aeroporto de Ljubljana Joe Pu?nik,Santa Catarina,10302.0,10297
+Aeroporto Internacional de Suvarnabhumi,Santa Catarina,17874.0,16488
+Aeroporto Internacional de Hong Kong,Santa Catarina,18980.0,18195
+Aeroporto Internacional Don Mueang,Santa Catarina,17856.0,16488
+Aeroporto Internacional Henri Coand? (Bucareste),Santa Catarina,11002.0,10969
+Aeroporto Adolfo Suárez Madrid-Barajas,São Paulo,8396.0,8363
+Aeroporto de Schiphol (Amsterdã),São Paulo,9765.0,9751
+Aeroporto Internacional de Taiwan Taoyuan,São Paulo,19021.0,18769
+Aeroporto de Praga,São Paulo,10098.0,10099
+Aeroporto Internacional de Incheon,São Paulo,18312.0,18331
+Aeroporto Internacional de Changi,São Paulo,17515.0,16009
+Aeroporto Internacional de Kuala Lumpur (Sepang),São Paulo,17291.0,15905
+Aeroporto de Roma-Fiumicino,São Paulo,9430.0,9414
+Aeroporto de Zurique,São Paulo,9587.0,9587
+Aeroporto de Dublin,São Paulo,9355.0,9376
+Aeroporto de Oslo-Gardermoen,São Paulo,10629.0,10643
+Aeroporto de Heathrow (Londres),São Paulo,9443.0,9448
+Aeroporto de Milão-Malpensa,São Paulo,9465.0,9464
+Aeroporto de Gatwick (Londres),São Paulo,9429.0,9432
+Aeroporto de Toulouse-Blagnac (França),São Paulo,8889.0,8892
+Aeroporto Internacional Ngurah Rai (Bali),São Paulo,18318.0,15929
+Aeroporto Internacional de Viena,São Paulo,10109.0,10105
+Aeroporto de Barcelona-El Prat (Espanha),São Paulo,8743.0,8744
+Aeroporto Internacional de Narita (Tóquio),São Paulo,18619.0,18403
+Aeroporto Internacional Don Mueang,São Paulo,17412.0,16435
+Aeroporto de Bruxelas,São Paulo,9646.0,9628
+Aeroporto Internacional de Xangai Pudong,São Paulo,18620.0,18519
+Aeroporto Internacional de Haneda (Tóquio),São Paulo,18650.0,18451
+Aeroporto Internacional de Suvarnabhumi,São Paulo,17430.0,16441
+Aeroporto de Frankfurt,São Paulo,9808.0,9722
+Aeroporto Internacional Soekarno-Hatta (Jacarta),São Paulo,17581.0,15633
+Aeroporto Internacional Indira Gandhi,São Paulo,14798.0,14403
+Aeroporto Internacional de Penang (Penang),São Paulo,17171.0,15937
+Aeroporto Internacional de Kansai (Osaka),São Paulo,18796.0,18722
+Aeroporto Internacional de Pequim Capital,São Paulo,17613.0,17578
+Aeroporto de Estocolmo-Arlanda,São Paulo,10908.0,10900
+Aeroporto Internacional de Tan Son Nhat,São Paulo,18100.0,16999
+Aeroporto Internacional Ninoy Aquino,São Paulo,19556.0,18378
+Aeroporto Internacional de Riga,São Paulo,11077.0,11049
+Aeroporto de Varsóvia Chopin,São Paulo,10616.0,10616
+Aeroporto de Helsinque,São Paulo,11290.0,11277
+Aeroporto Internacional Sheremetyevo (Moscou),São Paulo,11768.0,11767
+Aeroporto Francisco Sá Carneiro (Porto),São Paulo,8171.0,8154
+Aeroporto Internacional de Malta,São Paulo,9232.0,9174
+Aeroporto Internacional de Wattay (Vientiane),São Paulo,17551.0,16903
+Aeroporto Internacional Madre Teresa (Tirana),São Paulo,9936.0,9899
+Aeroporto de Tallinn,São Paulo,11239.0,11271
+Aeroporto Internacional de Malé,São Paulo,14209.0,13405
+Aeroporto Humberto Delgado (Lisboa),São Paulo,7933.0,7909
+Aeroporto de Bratislava,São Paulo,10153.0,10149
+Aeroporto de Toulouse-Blagnac (França),São Paulo,8889.0,8892
+Aeroporto Internacional de Nursultan Nazarbayev,São Paulo,13967.0,13941
+Aeroporto de Ljubljana Joe Pu?nik,São Paulo,9858.0,9853
+Aeroporto Internacional de Boryspil (Kiev),São Paulo,11145.0,11205
+Aeroporto Internacional de Noi Bai,São Paulo,17795.0,17315
+Aeroporto de Barcelona-El Prat (Espanha),São Paulo,8743.0,8744
+Aeroporto Internacional de Hong Kong,São Paulo,18536.0,18018
+Aeroporto Internacional Henri Coand? (Bucareste),São Paulo,10558.0,10525
+Aeroporto de Pulkovo (São Petersburgo),São Paulo,11540.0,11520
+Aeroporto de Luxemburgo,São Paulo,9647.0,9619
+Aeroporto Internacional de Budapeste Ferenc Liszt,São Paulo,10238.0,10230
+Aeroporto de Sófia,São Paulo,10271.0,10232
+Aeroporto Internacional de Pyongyang Sunan,São Paulo,18106.0,18106
+Aeroporto Internacional de Kuala Lumpur (Sepang),Sergipe,15587.0,15750
+Aeroporto Internacional de Suvarnabhumi,Sergipe,15742.0,17571
+Aeroporto Internacional de Penang (Penang),Sergipe,15467.0,15671
+Aeroporto Internacional de Narita (Tóquio),Sergipe,17517.0,17243
+Aeroporto Internacional de Kansai (Osaka),Sergipe,17694.0,17290
+Aeroporto de Frankfurt,Sergipe,8280.0,8593
+Aeroporto Internacional de Haneda (Tóquio),Sergipe,17548.0,17260
+Aeroporto Internacional Don Mueang,Sergipe,15724.0,17565
+Aeroporto Internacional de Budapeste Ferenc Liszt,Sergipe,8550.0,9040

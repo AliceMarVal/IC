@@ -1,455 +1,455 @@
-Destino,Origem,Intermerdiario,Final,Distancia
-Alagoas,Aeroporto de Frankfurt,Aeroporto Internacional do Recife,Aeroporto Internacional de Maceió,7829
-Alagoas,Aeroporto de Gatwick (Londres),Aeroporto Internacional do Recife,Aeroporto Internacional de Maceió,7501
-Alagoas,Aeroporto Internacional de Hong Kong,Aeroporto Internacional do Recife,Aeroporto Internacional de Maceió,16479
-Alagoas,Aeroporto Internacional de Taiwan Taoyuan,Aeroporto Internacional do Recife,Aeroporto Internacional de Maceió,17008
-Alagoas,Aeroporto Internacional de Pequim Capital,Aeroporto Internacional do Recife,Aeroporto Internacional de Maceió,15619
-Alagoas,Aeroporto de Heathrow (Londres),Aeroporto Internacional do Recife,Aeroporto Internacional de Maceió,7518
-Alagoas,Aeroporto Internacional de Xangai Pudong,Aeroporto Internacional do Recife,Aeroporto Internacional de Maceió,16642
-Alagoas,Aeroporto Adolfo Suárez Madrid-Barajas,Aeroporto Internacional do Recife,Aeroporto Internacional de Maceió,6407
-Alagoas,Aeroporto de Barcelona-El Prat (Espanha),Aeroporto Internacional do Recife,Aeroporto Internacional de Maceió,6786
-Amapá,Aeroporto Internacional de Pequim Capital,Aeroporto Internacional de São Luís,Aeroporto Internacional de Macapá,16244
-Amapá,Aeroporto Internacional de Narita (Tóquio),Aeroporto Internacional de São Luís,Aeroporto Internacional de Macapá,17116
-Amapá,Aeroporto Internacional de Xangai Pudong,Aeroporto Internacional de São Luís,Aeroporto Internacional de Macapá,17339
-Amapá,Aeroporto Internacional de Suvarnabhumi,Aeroporto Internacional de São Luís,Aeroporto Internacional de Macapá,16805
-Amapá,Aeroporto Internacional Don Mueang,Aeroporto Internacional de São Luís,Aeroporto Internacional de Macapá,16783
-Amapá,Aeroporto de Praga,Aeroporto Internacional de São Luís,Aeroporto Internacional de Macapá,8871
-Amapá,Aeroporto Internacional de Kansai (Osaka),Aeroporto Internacional de São Luís,Aeroporto Internacional de Macapá,17293
-Amapá,Aeroporto de Toulouse-Blagnac (França),Aeroporto Internacional de São Luís,Aeroporto Internacional de Macapá,7661
-Amapá,Aeroporto Internacional de Taiwan Taoyuan,Aeroporto Internacional de São Luís,Aeroporto Internacional de Macapá,17890
-Amapá,Aeroporto Internacional de Haneda (Tóquio),Aeroporto Internacional de São Luís,Aeroporto Internacional de Macapá,17147
-Amazonas,Aeroporto Internacional de Pyongyang Sunan,Aeroporto Internacional de São Luís,Aeroporto Internacional de Manaus,17581
-Amazonas,Aeroporto de Dublin,Aeroporto Internacional de São Luís,Aeroporto Internacional de Manaus,8901
-Amazonas,Aeroporto de Frankfurt,Aeroporto Internacional de São Luís,Aeroporto Internacional de Manaus,9457
-Amazonas,Aeroporto de Praga,Aeroporto Internacional de São Luís,Aeroporto Internacional de Manaus,9816
-Amazonas,Aeroporto Internacional de Viena,Aeroporto Internacional de São Luís,Aeroporto Internacional de Manaus,9874
-Amazonas,Aeroporto Internacional de Noi Bai,Aeroporto Internacional de São Luís,Aeroporto Internacional de Manaus,17941
-Amazonas,Aeroporto Internacional de Tan Son Nhat,Aeroporto Internacional de São Luís,Aeroporto Internacional de Manaus,18452
-Amazonas,Aeroporto de Sófia,Aeroporto Internacional de São Luís,Aeroporto Internacional de Manaus,10162
-Amazonas,Aeroporto de Tallinn,Aeroporto Internacional de São Luís,Aeroporto Internacional de Manaus,10846
-Amazonas,Aeroporto de Schiphol (Amsterdã),Aeroporto Internacional de São Luís,Aeroporto Internacional de Manaus,9375
-Amazonas,Aeroporto Internacional de Haneda (Tóquio),Aeroporto Internacional de São Luís,Aeroporto Internacional de Manaus,18092
-Amazonas,Aeroporto Adolfo Suárez Madrid-Barajas,Aeroporto Internacional de São Luís,Aeroporto Internacional de Manaus,8070
-Amazonas,Aeroporto Internacional Ninoy Aquino,Aeroporto Internacional de São Luís,Aeroporto Internacional de Manaus,19694
-Amazonas,Aeroporto Internacional Don Mueang,Aeroporto Internacional de São Luís,Aeroporto Internacional de Manaus,17728
-Amazonas,Aeroporto de Estocolmo-Arlanda,Aeroporto Internacional de São Luís,Aeroporto Internacional de Manaus,10496
-Amazonas,Aeroporto Internacional de Taiwan Taoyuan,Aeroporto Internacional de São Luís,Aeroporto Internacional de Manaus,18835
-Amazonas,Aeroporto Internacional de Vilnius,Aeroporto Internacional de São Luís,Aeroporto Internacional de Manaus,10702
-Amazonas,Aeroporto de Zurique,Aeroporto Internacional de São Luís,Aeroporto Internacional de Manaus,9307
-Amazonas,Aeroporto Internacional de Narita (Tóquio),Aeroporto Internacional de São Luís,Aeroporto Internacional de Manaus,18061
-Amazonas,Aeroporto de Roma-Fiumicino,Aeroporto Internacional de São Luís,Aeroporto Internacional de Manaus,9269
-Amazonas,Aeroporto Internacional de Suvarnabhumi,Aeroporto Internacional de São Luís,Aeroporto Internacional de Manaus,17750
-Amazonas,Aeroporto Internacional de Kansai (Osaka),Aeroporto Internacional de São Luís,Aeroporto Internacional de Manaus,18238
-Amazonas,Aeroporto Internacional de Penang (Penang),Aeroporto Internacional de São Luís,Aeroporto Internacional de Manaus,17845
-Amazonas,Aeroporto de Barcelona-El Prat (Espanha),Aeroporto Internacional de São Luís,Aeroporto Internacional de Manaus,8505
-Amazonas,Aeroporto de Milão-Malpensa,Aeroporto Internacional de São Luís,Aeroporto Internacional de Manaus,9216
-Amazonas,Aeroporto Internacional de Hong Kong,Aeroporto Internacional de São Luís,Aeroporto Internacional de Manaus,18565
-Amazonas,Aeroporto de Bruxelas,Aeroporto Internacional de São Luís,Aeroporto Internacional de Manaus,9268
-Amazonas,Aeroporto Internacional de Kuala Lumpur (Sepang),Aeroporto Internacional de São Luís,Aeroporto Internacional de Manaus,18009
-Amazonas,Aeroporto de Toulouse-Blagnac (França),Aeroporto Internacional de São Luís,Aeroporto Internacional de Manaus,8606
-Amazonas,Aeroporto Internacional de Budapeste Ferenc Liszt,Aeroporto Internacional de São Luís,Aeroporto Internacional de Manaus,10030
-Amazonas,Aeroporto Internacional de Pequim Capital,Aeroporto Internacional de São Luís,Aeroporto Internacional de Manaus,17189
-Amazonas,Aeroporto de Heathrow (Londres),Aeroporto Internacional de São Luís,Aeroporto Internacional de Manaus,9036
-Amazonas,Aeroporto de Helsinque,Aeroporto Internacional de São Luís,Aeroporto Internacional de Manaus,10888
-Amazonas,Aeroporto Internacional de Xangai Pudong,Aeroporto Internacional de São Luís,Aeroporto Internacional de Manaus,18284
-Amazonas,Aeroporto Internacional de Changi,Aeroporto Internacional de Natal,Aeroporto Internacional de Manaus,18252
-Amazonas,Aeroporto Internacional Soekarno-Hatta (Jacarta),Aeroporto Internacional de Salvador,Aeroporto Internacional de Manaus,18250
-Amazonas,Aeroporto Internacional Ngurah Rai (Bali),Aeroporto Internacional de Salvador,Aeroporto Internacional de Manaus,18868
-Amazonas,Aeroporto de Gatwick (Londres),Aeroporto Internacional de São Luís,Aeroporto Internacional de Manaus,9026
-Amazonas,Aeroporto Internacional de Incheon,Aeroporto Internacional de São Luís,Aeroporto Internacional de Manaus,17788
-Amazonas,Aeroporto Internacional Indira Gandhi,Aeroporto Internacional de São Luís,Aeroporto Internacional de Manaus,14953
-Amazonas,Aeroporto de Varsóvia Chopin,Aeroporto Internacional de São Luís,Aeroporto Internacional de Manaus,10338
-Distrito Federal,Aeroporto Internacional de Changi,Aeroporto Internacional de Salvador,Aeroporto Internacional de Brasília,16774
-Distrito Federal,Aeroporto de Barcelona-El Prat (Espanha),Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Brasília,8156
-Distrito Federal,Aeroporto de Gatwick (Londres),Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Brasília,8780
-Distrito Federal,Aeroporto de Dublin,Aeroporto Internacional de São Luís,Aeroporto Internacional de Brasília,8665
-Distrito Federal,Aeroporto de Toulouse-Blagnac (França),Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Brasília,8284
-Distrito Federal,Aeroporto Internacional de Budapeste Ferenc Liszt,Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Brasília,9670
-Distrito Federal,Aeroporto Internacional Ninoy Aquino,Aeroporto Internacional de Salvador,Aeroporto Internacional de Brasília,18881
-Distrito Federal,Aeroporto Internacional de Haneda (Tóquio),Aeroporto Internacional de São Luís,Aeroporto Internacional de Brasília,17856
-Distrito Federal,Aeroporto Francisco Sá Carneiro (Porto),Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Brasília,7522
-Distrito Federal,Aeroporto de Helsinque,Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Brasília,10641
-Distrito Federal,Aeroporto Internacional Indira Gandhi,Aeroporto Internacional do Recife,Aeroporto Internacional de Brasília,14249
-Distrito Federal,Aeroporto de Frankfurt,Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Brasília,9159
-Distrito Federal,Aeroporto de Praga,Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Brasília,9498
-Distrito Federal,Aeroporto Internacional de Viena,Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Brasília,9529
-Distrito Federal,Aeroporto Internacional de Incheon,Aeroporto Internacional de São Luís,Aeroporto Internacional de Brasília,17552
-Distrito Federal,Aeroporto de Varsóvia Chopin,Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Brasília,10019
-Distrito Federal,Aeroporto de Schiphol (Amsterdã),Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Brasília,9116
-Distrito Federal,Aeroporto Adolfo Suárez Madrid-Barajas,Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Brasília,7747
-Distrito Federal,Aeroporto Internacional de Xangai Pudong,Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Brasília,18037
-Distrito Federal,Aeroporto Internacional de Pequim Capital,Aeroporto Internacional de São Luís,Aeroporto Internacional de Brasília,16953
-Distrito Federal,Aeroporto Humberto Delgado (Lisboa),Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Brasília,7284
-Distrito Federal,Aeroporto Internacional de Narita (Tóquio),Aeroporto Internacional de São Luís,Aeroporto Internacional de Brasília,17825
-Distrito Federal,Aeroporto de Estocolmo-Arlanda,Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Brasília,10259
-Distrito Federal,Aeroporto Internacional de Taiwan Taoyuan,Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Brasília,18504
-Distrito Federal,Aeroporto Internacional de Kansai (Osaka),Aeroporto Internacional de São Luís,Aeroporto Internacional de Brasília,18002
-Distrito Federal,Aeroporto Internacional de Penang (Penang),Aeroporto Internacional de Salvador,Aeroporto Internacional de Brasília,16500
-Distrito Federal,Aeroporto de Heathrow (Londres),Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Brasília,8794
-Distrito Federal,Aeroporto de Zurique,Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Brasília,8986
-Distrito Federal,Aeroporto Internacional de Kuala Lumpur (Sepang),Aeroporto Internacional de Salvador,Aeroporto Internacional de Brasília,16579
-Distrito Federal,Aeroporto Internacional de Hong Kong,Aeroporto Internacional do Recife,Aeroporto Internacional de Brasília,17998
-Espírito Santo,Aeroporto Internacional de Changi,Aeroporto Internacional de Salvador,Aeroporto Internacional de Vitória,16527
-Espírito Santo,Aeroporto de Praga,Aeroporto Internacional do Recife,Aeroporto Internacional de Vitória,9469
-Espírito Santo,Aeroporto de Frankfurt,Aeroporto Internacional do Recife,Aeroporto Internacional de Vitória,9155
-Espírito Santo,Aeroporto Internacional de Viena,Aeroporto Internacional do Recife,Aeroporto Internacional de Vitória,9472
-Espírito Santo,Aeroporto de Schiphol (Amsterdã),Aeroporto Internacional do Recife,Aeroporto Internacional de Vitória,9147
-Espírito Santo,Aeroporto de Varsóvia Chopin,Aeroporto Internacional do Recife,Aeroporto Internacional de Vitória,9985
-Espírito Santo,Aeroporto Adolfo Suárez Madrid-Barajas,Aeroporto Internacional do Recife,Aeroporto Internacional de Vitória,7733
-Espírito Santo,Aeroporto Internacional de Xangai Pudong,Aeroporto Internacional do Recife,Aeroporto Internacional de Vitória,17968
-Espírito Santo,Aeroporto Internacional Don Mueang,Aeroporto Internacional de Salvador,Aeroporto Internacional de Vitória,16431
-Espírito Santo,Aeroporto Internacional de Taiwan Taoyuan,Aeroporto Internacional de Salvador,Aeroporto Internacional de Vitória,18330
-Espírito Santo,Aeroporto Internacional de Incheon,Aeroporto Internacional do Recife,Aeroporto Internacional de Vitória,17719
-Espírito Santo,Aeroporto Internacional de Nursultan Nazarbayev,Aeroporto Internacional do Recife,Aeroporto Internacional de Vitória,13314
-Espírito Santo,Aeroporto Internacional de Pequim Capital,Aeroporto Internacional do Recife,Aeroporto Internacional de Vitória,16945
-Espírito Santo,Aeroporto Internacional de Suvarnabhumi,Aeroporto Internacional de Salvador,Aeroporto Internacional de Vitória,16445
-Espírito Santo,Aeroporto Internacional de Haneda (Tóquio),Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Vitória,18314
-Espírito Santo,Aeroporto de Zurique,Aeroporto Internacional do Recife,Aeroporto Internacional de Vitória,8959
-Espírito Santo,Aeroporto de Istambul,Aeroporto Internacional do Recife,Aeroporto Internacional de Vitória,9931
-Espírito Santo,Aeroporto de Roma-Fiumicino,Aeroporto Internacional do Recife,Aeroporto Internacional de Vitória,8782
-Espírito Santo,Aeroporto Internacional de Kansai (Osaka),Aeroporto Internacional de Salvador,Aeroporto Internacional de Vitória,18374
-Espírito Santo,Aeroporto Internacional Soekarno-Hatta (Jacarta),Aeroporto Internacional de Salvador,Aeroporto Internacional de Vitória,16460
-Espírito Santo,Aeroporto Internacional Ngurah Rai (Bali),Aeroporto Internacional de Salvador,Aeroporto Internacional de Vitória,17078
-Espírito Santo,Aeroporto Internacional de Penang (Penang),Aeroporto Internacional de Salvador,Aeroporto Internacional de Vitória,16253
-Espírito Santo,Aeroporto de Barcelona-El Prat (Espanha),Aeroporto Internacional do Recife,Aeroporto Internacional de Vitória,8112
-Espírito Santo,Aeroporto Internacional de Narita (Tóquio),Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Vitória,18293
-Espírito Santo,Aeroporto Internacional de Hong Kong,Aeroporto Internacional de Salvador,Aeroporto Internacional de Vitória,17752
-Espírito Santo,Aeroporto Internacional de Kuala Lumpur (Sepang),Aeroporto Internacional de Salvador,Aeroporto Internacional de Vitória,16332
-Espírito Santo,Aeroporto de Milão-Malpensa,Aeroporto Internacional do Recife,Aeroporto Internacional de Vitória,8833
-Espírito Santo,Aeroporto de Bruxelas,Aeroporto Internacional do Recife,Aeroporto Internacional de Vitória,9019
-Espírito Santo,Aeroporto de Toulouse-Blagnac (França),Aeroporto Internacional do Recife,Aeroporto Internacional de Vitória,8264
-Espírito Santo,Aeroporto Internacional de Pyongyang Sunan,Aeroporto Internacional do Recife,Aeroporto Internacional de Vitória,17519
-Espírito Santo,Aeroporto Internacional Indira Gandhi,Aeroporto Internacional de Salvador,Aeroporto Internacional de Vitória,14004
-Espírito Santo,Aeroporto de Gatwick (Londres),Aeroporto Internacional do Recife,Aeroporto Internacional de Vitória,8827
-Espírito Santo,Aeroporto de Estocolmo-Arlanda,Aeroporto Internacional do Recife,Aeroporto Internacional de Vitória,10301
-Espírito Santo,Aeroporto Humberto Delgado (Lisboa),Aeroporto Internacional do Recife,Aeroporto Internacional de Vitória,7299
-Espírito Santo,Aeroporto de Helsinque,Aeroporto Internacional do Recife,Aeroporto Internacional de Vitória,10670
-Espírito Santo,Aeroporto Internacional de Budapeste Ferenc Liszt,Aeroporto Internacional do Recife,Aeroporto Internacional de Vitória,9597
-Espírito Santo,Aeroporto Francisco Sá Carneiro (Porto),Aeroporto Internacional do Recife,Aeroporto Internacional de Vitória,7551
-Espírito Santo,Aeroporto Internacional Ninoy Aquino,Aeroporto Internacional de Salvador,Aeroporto Internacional de Vitória,18634
-Espírito Santo,Aeroporto de Heathrow (Londres),Aeroporto Internacional do Recife,Aeroporto Internacional de Vitória,8844
-Espírito Santo,Aeroporto de Oslo-Gardermoen,Aeroporto Internacional do Recife,Aeroporto Internacional de Vitória,10047
-Espírito Santo,Aeroporto de Dublin,Aeroporto Internacional de Natal,Aeroporto Internacional de Vitória,8795
-Goiás,Aeroporto Internacional de Changi,Aeroporto Internacional de Salvador,Aeroporto Internacional de Brasília,16774
-Goiás,Aeroporto de Dublin,Aeroporto Internacional de São Luís,Aeroporto Internacional de Brasília,8665
-Goiás,Aeroporto de Gatwick (Londres),Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Brasília,8780
-Goiás,Aeroporto de Toulouse-Blagnac (França),Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Brasília,8284
-Goiás,Aeroporto de Milão-Malpensa,Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Brasília,8877
-Goiás,Aeroporto Internacional de Budapeste Ferenc Liszt,Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Brasília,9670
-Goiás,Aeroporto Francisco Sá Carneiro (Porto),Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Brasília,7522
-Goiás,Aeroporto Internacional de Haneda (Tóquio),Aeroporto Internacional de São Luís,Aeroporto Internacional de Brasília,17856
-Goiás,Aeroporto Internacional Don Mueang,Aeroporto Internacional de Salvador,Aeroporto Internacional de Brasília,16678
-Goiás,Aeroporto Internacional Indira Gandhi,Aeroporto Internacional do Recife,Aeroporto Internacional de Brasília,14249
-Goiás,Aeroporto de Frankfurt,Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Brasília,9159
-Goiás,Aeroporto Internacional de Viena,Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Brasília,9529
-Goiás,Aeroporto Internacional de Incheon,Aeroporto Internacional de São Luís,Aeroporto Internacional de Brasília,17552
-Goiás,Aeroporto de Varsóvia Chopin,Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Brasília,10019
-Goiás,Aeroporto Internacional de Suvarnabhumi,Aeroporto Internacional de Salvador,Aeroporto Internacional de Brasília,16692
-Goiás,Aeroporto Internacional de Xangai Pudong,Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Brasília,18037
-Goiás,Aeroporto Internacional de Pequim Capital,Aeroporto Internacional de São Luís,Aeroporto Internacional de Brasília,16953
-Goiás,Aeroporto Humberto Delgado (Lisboa),Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Brasília,7284
-Goiás,Aeroporto Internacional de Narita (Tóquio),Aeroporto Internacional de São Luís,Aeroporto Internacional de Brasília,17825
-Goiás,Aeroporto Internacional de Taiwan Taoyuan,Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Brasília,18504
-Goiás,Aeroporto Internacional de Kansai (Osaka),Aeroporto Internacional de São Luís,Aeroporto Internacional de Brasília,18002
-Goiás,Aeroporto Internacional de Penang (Penang),Aeroporto Internacional de Salvador,Aeroporto Internacional de Brasília,16500
-Goiás,Aeroporto de Heathrow (Londres),Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Brasília,8794
-Goiás,Aeroporto de Oslo-Gardermoen,Aeroporto Internacional de São Luís,Aeroporto Internacional de Brasília,9956
-Goiás,Aeroporto de Roma-Fiumicino,Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Brasília,8879
-Goiás,Aeroporto Internacional de Kuala Lumpur (Sepang),Aeroporto Internacional de Salvador,Aeroporto Internacional de Brasília,16579
-Goiás,Aeroporto Internacional de Hong Kong,Aeroporto Internacional do Recife,Aeroporto Internacional de Brasília,17998
-Mato Grosso,Aeroporto de Frankfurt,Aeroporto Internacional de São Luís,Aeroporto Internacional de Várzea Grande,9666
-Mato Grosso,Aeroporto Internacional de Budapeste Ferenc Liszt,Aeroporto Internacional de São Luís,Aeroporto Internacional de Várzea Grande,10239
-Mato Grosso,Aeroporto Internacional de Taiwan Taoyuan,Aeroporto Internacional de São Luís,Aeroporto Internacional de Várzea Grande,19044
-Mato Grosso,Aeroporto de Varsóvia Chopin,Aeroporto Internacional de São Luís,Aeroporto Internacional de Várzea Grande,10547
-Minas Gerais,Aeroporto Internacional de Changi,Aeroporto Internacional de Salvador,Aeroporto Internacional de Belo Horizonte,16597
-Minas Gerais,Aeroporto Internacional de Viena,Aeroporto Internacional do Recife,Aeroporto Internacional de Belo Horizonte,9567
-Minas Gerais,Aeroporto de Gatwick (Londres),Aeroporto Internacional de Natal,Aeroporto Internacional de Belo Horizonte,8900
-Minas Gerais,Aeroporto de Varsóvia Chopin,Aeroporto Internacional de Salvador,Aeroporto Internacional de Belo Horizonte,10079
-Minas Gerais,Aeroporto Internacional Ninoy Aquino,Aeroporto Internacional de Salvador,Aeroporto Internacional de Belo Horizonte,18704
-Minas Gerais,Aeroporto de Helsinque,Aeroporto Internacional de Natal,Aeroporto Internacional de Belo Horizonte,10749
-Minas Gerais,Aeroporto Internacional de Xangai Pudong,Aeroporto Internacional de Salvador,Aeroporto Internacional de Belo Horizonte,18059
-Minas Gerais,Aeroporto Francisco Sá Carneiro (Porto),Aeroporto Internacional de Natal,Aeroporto Internacional de Belo Horizonte,7627
-Minas Gerais,Aeroporto Internacional de Haneda (Tóquio),Aeroporto Internacional de São Luís,Aeroporto Internacional de Belo Horizonte,18219
-Minas Gerais,Aeroporto Internacional Don Mueang,Aeroporto Internacional de Salvador,Aeroporto Internacional de Belo Horizonte,16501
-Minas Gerais,Aeroporto Internacional de Taiwan Taoyuan,Aeroporto Internacional de Salvador,Aeroporto Internacional de Belo Horizonte,18400
-Minas Gerais,Aeroporto Internacional Indira Gandhi,Aeroporto Internacional de Salvador,Aeroporto Internacional de Belo Horizonte,14074
-Minas Gerais,Aeroporto Internacional de Pequim Capital,Aeroporto Internacional de Salvador,Aeroporto Internacional de Belo Horizonte,17039
-Minas Gerais,Aeroporto de Schiphol (Amsterdã),Aeroporto Internacional de Natal,Aeroporto Internacional de Belo Horizonte,9224
-Minas Gerais,Aeroporto de Zurique,Aeroporto Internacional de Salvador,Aeroporto Internacional de Belo Horizonte,9052
-Minas Gerais,Aeroporto Internacional de Suvarnabhumi,Aeroporto Internacional de Salvador,Aeroporto Internacional de Belo Horizonte,16515
-Minas Gerais,Aeroporto Adolfo Suárez Madrid-Barajas,Aeroporto Internacional de Natal,Aeroporto Internacional de Belo Horizonte,7820
-Minas Gerais,Aeroporto de Roma-Fiumicino,Aeroporto Internacional de Salvador,Aeroporto Internacional de Belo Horizonte,8876
-Minas Gerais,Aeroporto Humberto Delgado (Lisboa),Aeroporto Internacional de Natal,Aeroporto Internacional de Belo Horizonte,7379
-Minas Gerais,Aeroporto Nikola Tesla (Belgrado),Aeroporto Internacional de Salvador,Aeroporto Internacional de Belo Horizonte,9604
-Minas Gerais,Aeroporto Internacional de Narita (Tóquio),Aeroporto Internacional de São Luís,Aeroporto Internacional de Belo Horizonte,18188
-Minas Gerais,Aeroporto Internacional de Kansai (Osaka),Aeroporto Internacional de São Luís,Aeroporto Internacional de Belo Horizonte,18365
-Minas Gerais,Aeroporto de Heathrow (Londres),Aeroporto Internacional de Natal,Aeroporto Internacional de Belo Horizonte,8916
-Minas Gerais,Aeroporto de Barcelona-El Prat (Espanha),Aeroporto Internacional de Salvador,Aeroporto Internacional de Belo Horizonte,8205
-Minas Gerais,Aeroporto Internacional de Hong Kong,Aeroporto Internacional de Salvador,Aeroporto Internacional de Belo Horizonte,17822
-Minas Gerais,Aeroporto de Milão-Malpensa,Aeroporto Internacional de Salvador,Aeroporto Internacional de Belo Horizonte,8927
-Minas Gerais,Aeroporto Internacional de Budapeste Ferenc Liszt,Aeroporto Internacional do Recife,Aeroporto Internacional de Belo Horizonte,9692
-Minas Gerais,Aeroporto Internacional Henri Coand? (Bucareste),Aeroporto Internacional de Salvador,Aeroporto Internacional de Belo Horizonte,9992
-Minas Gerais,Aeroporto de Luxemburgo,Aeroporto Internacional de Natal,Aeroporto Internacional de Belo Horizonte,9086
-Minas Gerais,Aeroporto de Oslo-Gardermoen,Aeroporto Internacional de Natal,Aeroporto Internacional de Belo Horizonte,10116
-Minas Gerais,Aeroporto Internacional de Incheon,Aeroporto Internacional de Natal,Aeroporto Internacional de Belo Horizonte,17799
-Minas Gerais,Aeroporto de Dublin,Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Belo Horizonte,8844
-Minas Gerais,Aeroporto Internacional de Kuala Lumpur (Sepang),Aeroporto Internacional de Salvador,Aeroporto Internacional de Belo Horizonte,16402
-Minas Gerais,Aeroporto de Estocolmo-Arlanda,Aeroporto Internacional de Natal,Aeroporto Internacional de Belo Horizonte,10376
-Minas Gerais,Aeroporto de Frankfurt,Aeroporto Internacional de Natal,Aeroporto Internacional de Belo Horizonte,9241
-Minas Gerais,Aeroporto de Toulouse-Blagnac (França),Aeroporto Internacional de Natal,Aeroporto Internacional de Belo Horizonte,8354
-Minas Gerais,Aeroporto Internacional de Tan Son Nhat,Aeroporto Internacional de Salvador,Aeroporto Internacional de Belo Horizonte,17125
-Minas Gerais,Aeroporto Internacional Sheremetyevo (Moscou),Aeroporto Internacional de Salvador,Aeroporto Internacional de Belo Horizonte,11229
-Minas Gerais,Aeroporto de Bruxelas,Aeroporto Internacional de Natal,Aeroporto Internacional de Belo Horizonte,9098
-Minas Gerais,Aeroporto de Pulkovo (São Petersburgo),Aeroporto Internacional de Natal,Aeroporto Internacional de Belo Horizonte,10987
-Minas Gerais,Aeroporto Internacional de Penang (Penang),Aeroporto Internacional de Salvador,Aeroporto Internacional de Belo Horizonte,16323
-Minas Gerais,Aeroporto de Bratislava,Aeroporto Internacional de Salvador,Aeroporto Internacional de Belo Horizonte,9610
-Minas Gerais,Aeroporto Internacional de Noi Bai,Aeroporto Internacional de Salvador,Aeroporto Internacional de Belo Horizonte,17025
-Minas Gerais,Aeroporto de Praga,Aeroporto Internacional de Salvador,Aeroporto Internacional de Belo Horizonte,9562
-Pará,Aeroporto de Helsinque,Aeroporto Internacional de São Luís,Aeroporto Internacional de Belém,9620
-Pará,Aeroporto de Dublin,Aeroporto Internacional de São Luís,Aeroporto Internacional de Belém,7633
-Pará,Aeroporto de Praga,Aeroporto Internacional de São Luís,Aeroporto Internacional de Belém,8548
-Pará,Aeroporto de Frankfurt,Aeroporto Internacional de São Luís,Aeroporto Internacional de Belém,8189
-Pará,Aeroporto Internacional de Viena,Aeroporto Internacional de São Luís,Aeroporto Internacional de Belém,8606
-Pará,Aeroporto de Schiphol (Amsterdã),Aeroporto Internacional de São Luís,Aeroporto Internacional de Belém,8107
-Pará,Aeroporto de Varsóvia Chopin,Aeroporto Internacional de São Luís,Aeroporto Internacional de Belém,9070
-Pará,Aeroporto Internacional de Haneda (Tóquio),Aeroporto Internacional de São Luís,Aeroporto Internacional de Belém,16824
-Pará,Aeroporto Adolfo Suárez Madrid-Barajas,Aeroporto Internacional de São Luís,Aeroporto Internacional de Belém,6802
-Pará,Aeroporto Internacional de Xangai Pudong,Aeroporto Internacional de São Luís,Aeroporto Internacional de Belém,17016
-Pará,Aeroporto de Estocolmo-Arlanda,Aeroporto Internacional de São Luís,Aeroporto Internacional de Belém,9228
-Pará,Aeroporto Internacional de Taiwan Taoyuan,Aeroporto Internacional de São Luís,Aeroporto Internacional de Belém,17567
-Pará,Aeroporto Internacional de Pequim Capital,Aeroporto Internacional de São Luís,Aeroporto Internacional de Belém,15921
-Pará,Aeroporto de Heathrow (Londres),Aeroporto Internacional de São Luís,Aeroporto Internacional de Belém,7768
-Pará,Aeroporto de Zurique,Aeroporto Internacional de São Luís,Aeroporto Internacional de Belém,8039
-Pará,Aeroporto Internacional de Narita (Tóquio),Aeroporto Internacional de São Luís,Aeroporto Internacional de Belém,16793
-Pará,Aeroporto de Roma-Fiumicino,Aeroporto Internacional de São Luís,Aeroporto Internacional de Belém,8001
-Pará,Aeroporto Internacional de Kansai (Osaka),Aeroporto Internacional de São Luís,Aeroporto Internacional de Belém,16970
-Pará,Aeroporto de Barcelona-El Prat (Espanha),Aeroporto Internacional de São Luís,Aeroporto Internacional de Belém,7237
-Pará,Aeroporto de Gatwick (Londres),Aeroporto Internacional de São Luís,Aeroporto Internacional de Belém,7758
-Pará,Aeroporto de Milão-Malpensa,Aeroporto Internacional de São Luís,Aeroporto Internacional de Belém,7948
-Pará,Aeroporto Internacional de Hong Kong,Aeroporto Internacional de São Luís,Aeroporto Internacional de Belém,17297
-Pará,Aeroporto de Toulouse-Blagnac (França),Aeroporto Internacional de São Luís,Aeroporto Internacional de Belém,7338
-Pará,Aeroporto Internacional de Budapeste Ferenc Liszt,Aeroporto Internacional de São Luís,Aeroporto Internacional de Belém,8762
-Paraná,Aeroporto Internacional de Pyongyang Sunan,Aeroporto Internacional de São Luís,Aeroporto Internacional de Curitiba,18384
-Paraná,Aeroporto de Barcelona-El Prat (Espanha),Aeroporto Internacional de Natal,Aeroporto Internacional de Curitiba,9066
-Paraná,Aeroporto de Toulouse-Blagnac (França),Aeroporto Internacional de Natal,Aeroporto Internacional de Curitiba,9212
-Paraná,Aeroporto de Milão-Malpensa,Aeroporto Internacional de Natal,Aeroporto Internacional de Curitiba,9788
-Paraná,Aeroporto de Bruxelas,Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Curitiba,9945
-Paraná,Aeroporto Internacional Ninoy Aquino,Aeroporto Internacional de Salvador,Aeroporto Internacional de Curitiba,19573
-Paraná,Aeroporto Internacional de Xangai Pudong,Aeroporto Internacional de Salvador,Aeroporto Internacional de Curitiba,18928
-Paraná,Aeroporto Internacional de Haneda (Tóquio),Aeroporto Internacional de São Luís,Aeroporto Internacional de Curitiba,18895
-Paraná,Aeroporto Internacional Don Mueang,Aeroporto Internacional de Salvador,Aeroporto Internacional de Curitiba,17370
-Paraná,Aeroporto Internacional de Taiwan Taoyuan,Aeroporto Internacional de Salvador,Aeroporto Internacional de Curitiba,19269
-Paraná,Aeroporto Internacional de Viena,Aeroporto Internacional de Natal,Aeroporto Internacional de Curitiba,10432
-Paraná,Aeroporto de Dublin,Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Curitiba,9654
-Paraná,Aeroporto de Praga,Aeroporto Internacional de Natal,Aeroporto Internacional de Curitiba,10421
-Paraná,Aeroporto de Frankfurt,Aeroporto Internacional de Natal,Aeroporto Internacional de Curitiba,10099
-Paraná,Aeroporto Internacional de Incheon,Aeroporto Internacional de São Luís,Aeroporto Internacional de Curitiba,18591
-Paraná,Aeroporto de Varsóvia Chopin,Aeroporto Internacional de Natal,Aeroporto Internacional de Curitiba,10939
-Paraná,Aeroporto de Schiphol (Amsterdã),Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Curitiba,10064
-Paraná,Aeroporto Adolfo Suárez Madrid-Barajas,Aeroporto Internacional de Natal,Aeroporto Internacional de Curitiba,8678
-Paraná,Aeroporto Internacional de Suvarnabhumi,Aeroporto Internacional de Salvador,Aeroporto Internacional de Curitiba,17384
-Paraná,Aeroporto de Istambul,Aeroporto Internacional de Salvador,Aeroporto Internacional de Curitiba,10886
-Paraná,Aeroporto de Roma-Fiumicino,Aeroporto Internacional do Recife,Aeroporto Internacional de Curitiba,9745
-Paraná,Aeroporto Internacional de Narita (Tóquio),Aeroporto Internacional de São Luís,Aeroporto Internacional de Curitiba,18864
-Paraná,Aeroporto de Estocolmo-Arlanda,Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Curitiba,11207
-Paraná,Aeroporto Internacional de Kansai (Osaka),Aeroporto Internacional de São Luís,Aeroporto Internacional de Curitiba,19041
-Paraná,Aeroporto Internacional de Pequim Capital,Aeroporto Internacional de Natal,Aeroporto Internacional de Curitiba,17902
-Paraná,Aeroporto Internacional de Penang (Penang),Aeroporto Internacional de Salvador,Aeroporto Internacional de Curitiba,17192
-Paraná,Aeroporto de Zurique,Aeroporto Internacional de Natal,Aeroporto Internacional de Curitiba,9910
-Paraná,Aeroporto Internacional de Hong Kong,Aeroporto Internacional de Salvador,Aeroporto Internacional de Curitiba,18691
-Paraná,Aeroporto Internacional de Kuala Lumpur (Sepang),Aeroporto Internacional de Salvador,Aeroporto Internacional de Curitiba,17271
-Paraná,Aeroporto Internacional de Budapeste Ferenc Liszt,Aeroporto Internacional do Recife,Aeroporto Internacional de Curitiba,10560
-Paraná,Aeroporto Internacional Indira Gandhi,Aeroporto Internacional de Salvador,Aeroporto Internacional de Curitiba,14943
-Paraná,Aeroporto Humberto Delgado (Lisboa),Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Curitiba,8232
-Paraná,Aeroporto de Gatwick (Londres),Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Curitiba,9728
-Paraná,Aeroporto de Helsinque,Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Curitiba,11589
-Paraná,Aeroporto de Luxemburgo,Aeroporto Internacional de Natal,Aeroporto Internacional de Curitiba,9944
-Paraná,Aeroporto Internacional de Boryspil (Kiev),Aeroporto Internacional do Recife,Aeroporto Internacional de Curitiba,11464
-Paraná,Aeroporto Francisco Sá Carneiro (Porto),Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Curitiba,8470
-Paraná,Aeroporto de Heathrow (Londres),Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Curitiba,9742
-Paraná,Aeroporto de Oslo-Gardermoen,Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Curitiba,10928
-Rio de Janeiro,Aeroporto Internacional de Changi,Aeroporto Internacional de Salvador,Aeroporto Internacional do Rio de Janeiro,16901
-Rio de Janeiro,Aeroporto de Frankfurt,Aeroporto Internacional do Recife,Aeroporto Internacional do Rio de Janeiro,9546
-Rio de Janeiro,Aeroporto de Praga,Aeroporto Internacional do Recife,Aeroporto Internacional do Rio de Janeiro,9860
-Rio de Janeiro,Aeroporto Internacional de Tan Son Nhat,Aeroporto Internacional de Salvador,Aeroporto Internacional do Rio de Janeiro,17429
-Rio de Janeiro,Aeroporto de Schiphol (Amsterdã),Aeroporto Internacional de Salvador,Aeroporto Internacional do Rio de Janeiro,9536
-Rio de Janeiro,Aeroporto de Varsóvia Chopin,Aeroporto Internacional do Recife,Aeroporto Internacional do Rio de Janeiro,10376
-Rio de Janeiro,Aeroporto Internacional Ninoy Aquino,Aeroporto Internacional de Salvador,Aeroporto Internacional do Rio de Janeiro,19008
-Rio de Janeiro,Aeroporto Internacional de Xangai Pudong,Aeroporto Internacional do Recife,Aeroporto Internacional do Rio de Janeiro,18359
-Rio de Janeiro,Aeroporto Internacional de Haneda (Tóquio),Aeroporto Internacional de São Luís,Aeroporto Internacional do Rio de Janeiro,18571
-Rio de Janeiro,Aeroporto Internacional Don Mueang,Aeroporto Internacional de Salvador,Aeroporto Internacional do Rio de Janeiro,16805
-Rio de Janeiro,Aeroporto Internacional de Taiwan Taoyuan,Aeroporto Internacional de Salvador,Aeroporto Internacional do Rio de Janeiro,18704
-Rio de Janeiro,Aeroporto Internacional Indira Gandhi,Aeroporto Internacional de Salvador,Aeroporto Internacional do Rio de Janeiro,14378
-Rio de Janeiro,Aeroporto Internacional de Incheon,Aeroporto Internacional do Recife,Aeroporto Internacional do Rio de Janeiro,18110
-Rio de Janeiro,Aeroporto Internacional de Pequim Capital,Aeroporto Internacional do Recife,Aeroporto Internacional do Rio de Janeiro,17336
-Rio de Janeiro,Aeroporto Internacional de Suvarnabhumi,Aeroporto Internacional de Salvador,Aeroporto Internacional do Rio de Janeiro,16819
-Rio de Janeiro,Aeroporto Internacional de Narita (Tóquio),Aeroporto Internacional de São Luís,Aeroporto Internacional do Rio de Janeiro,18540
-Rio de Janeiro,Aeroporto de Heathrow (Londres),Aeroporto Internacional de Natal,Aeroporto Internacional do Rio de Janeiro,9228
-Rio de Janeiro,Aeroporto Internacional de Penang (Penang),Aeroporto Internacional de Salvador,Aeroporto Internacional do Rio de Janeiro,16627
-Rio de Janeiro,Aeroporto de Gatwick (Londres),Aeroporto Internacional de Salvador,Aeroporto Internacional do Rio de Janeiro,9212
-Rio de Janeiro,Aeroporto Internacional de Hong Kong,Aeroporto Internacional de Salvador,Aeroporto Internacional do Rio de Janeiro,18126
-Rio de Janeiro,Aeroporto de Bruxelas,Aeroporto Internacional de Salvador,Aeroporto Internacional do Rio de Janeiro,9409
-Rio de Janeiro,Aeroporto Internacional de Kuala Lumpur (Sepang),Aeroporto Internacional de Salvador,Aeroporto Internacional do Rio de Janeiro,16706
-Rio de Janeiro,Aeroporto de Toulouse-Blagnac (França),Aeroporto Internacional do Recife,Aeroporto Internacional do Rio de Janeiro,8655
-Rio de Janeiro,Aeroporto Internacional de Kansai (Osaka),Aeroporto Internacional de Fortaleza,Aeroporto Internacional do Rio de Janeiro,18716
-Rio de Janeiro,Aeroporto Internacional de Budapeste Ferenc Liszt,Aeroporto Internacional do Recife,Aeroporto Internacional do Rio de Janeiro,9988
-Rio de Janeiro,Aeroporto de Helsinque,Aeroporto Internacional de Salvador,Aeroporto Internacional do Rio de Janeiro,11060
-Rio de Janeiro,Aeroporto Internacional Henri Coand? (Bucareste),Aeroporto Internacional do Recife,Aeroporto Internacional do Rio de Janeiro,10291
-Rio de Janeiro,Aeroporto de Dublin,Aeroporto Internacional de Salvador,Aeroporto Internacional do Rio de Janeiro,9172
-Rio de Janeiro,Aeroporto Internacional de Noi Bai,Aeroporto Internacional de Salvador,Aeroporto Internacional do Rio de Janeiro,17329
-Rio de Janeiro,Aeroporto de Oslo-Gardermoen,Aeroporto Internacional de Natal,Aeroporto Internacional do Rio de Janeiro,10428
-Rio de Janeiro,Aeroporto de Estocolmo-Arlanda,Aeroporto Internacional de Salvador,Aeroporto Internacional do Rio de Janeiro,10688
-Rio de Janeiro,Aeroporto Internacional de Viena,Aeroporto Internacional do Recife,Aeroporto Internacional do Rio de Janeiro,9863
-Rio de Janeiro,Aeroporto de Milão-Malpensa,Aeroporto Internacional do Recife,Aeroporto Internacional do Rio de Janeiro,9224
-Rio de Janeiro,Aeroporto Humberto Delgado (Lisboa),Aeroporto Internacional do Recife,Aeroporto Internacional do Rio de Janeiro,7690
-Rio de Janeiro,Aeroporto de Sófia,Aeroporto Internacional do Recife,Aeroporto Internacional do Rio de Janeiro,10001
-Rio de Janeiro,Aeroporto Francisco Sá Carneiro (Porto),Aeroporto Internacional de Salvador,Aeroporto Internacional do Rio de Janeiro,7939
-Rio de Janeiro,Aeroporto de Barcelona-El Prat (Espanha),Aeroporto Internacional do Recife,Aeroporto Internacional do Rio de Janeiro,8503
-Rio de Janeiro,Aeroporto Adolfo Suárez Madrid-Barajas,Aeroporto Internacional do Recife,Aeroporto Internacional do Rio de Janeiro,8124
-Rio de Janeiro,Aeroporto de Zurique,Aeroporto Internacional do Recife,Aeroporto Internacional do Rio de Janeiro,9350
-Rio de Janeiro,Aeroporto de Roma-Fiumicino,Aeroporto Internacional do Recife,Aeroporto Internacional do Rio de Janeiro,9173
-Rio Grande do Sul,Aeroporto Internacional de Changi,Aeroporto Internacional de Salvador,Aeroporto Internacional de Porto Alegre,17997
-Rio Grande do Sul,Aeroporto Internacional de Viena,Aeroporto Internacional do Recife,Aeroporto Internacional de Porto Alegre,10966
-Rio Grande do Sul,Aeroporto de Toulouse-Blagnac (França),Aeroporto Internacional de Natal,Aeroporto Internacional de Porto Alegre,9753
-Rio Grande do Sul,Aeroporto de Gatwick (Londres),Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Porto Alegre,10285
-Rio Grande do Sul,Aeroporto de Varsóvia Chopin,Aeroporto Internacional do Recife,Aeroporto Internacional de Porto Alegre,11479
-Rio Grande do Sul,Aeroporto Internacional Ninoy Aquino,Aeroporto Internacional de Salvador,Aeroporto Internacional de Porto Alegre,20104
-Rio Grande do Sul,Aeroporto Francisco Sá Carneiro (Porto),Aeroporto Internacional de Natal,Aeroporto Internacional de Porto Alegre,9026
-Rio Grande do Sul,Aeroporto Internacional de Xangai Pudong,Aeroporto Internacional de Salvador,Aeroporto Internacional de Porto Alegre,19459
-Rio Grande do Sul,Aeroporto de Helsinque,Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Porto Alegre,12146
-Rio Grande do Sul,Aeroporto Internacional Don Mueang,Aeroporto Internacional de Salvador,Aeroporto Internacional de Porto Alegre,17901
-Rio Grande do Sul,Aeroporto Internacional de Taiwan Taoyuan,Aeroporto Internacional de Salvador,Aeroporto Internacional de Porto Alegre,19800
-Rio Grande do Sul,Aeroporto Internacional de Haneda (Tóquio),Aeroporto Internacional de São Luís,Aeroporto Internacional de Porto Alegre,19452
-Rio Grande do Sul,Aeroporto de Dublin,Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Porto Alegre,10211
-Rio Grande do Sul,Aeroporto de Frankfurt,Aeroporto Internacional de Natal,Aeroporto Internacional de Porto Alegre,10640
-Rio Grande do Sul,Aeroporto Internacional de Incheon,Aeroporto Internacional de São Luís,Aeroporto Internacional de Porto Alegre,19148
-Rio Grande do Sul,Aeroporto Internacional de Pequim Capital,Aeroporto Internacional do Recife,Aeroporto Internacional de Porto Alegre,18439
-Rio Grande do Sul,Aeroporto Internacional de Suvarnabhumi,Aeroporto Internacional de Salvador,Aeroporto Internacional de Porto Alegre,17915
-Rio Grande do Sul,Aeroporto Adolfo Suárez Madrid-Barajas,Aeroporto Internacional de Natal,Aeroporto Internacional de Porto Alegre,9219
-Rio Grande do Sul,Aeroporto Humberto Delgado (Lisboa),Aeroporto Internacional de Natal,Aeroporto Internacional de Porto Alegre,8778
-Rio Grande do Sul,Aeroporto de Roma-Fiumicino,Aeroporto Internacional do Recife,Aeroporto Internacional de Porto Alegre,10276
-Rio Grande do Sul,Aeroporto Internacional de Narita (Tóquio),Aeroporto Internacional de São Luís,Aeroporto Internacional de Porto Alegre,19421
-Rio Grande do Sul,Aeroporto Internacional de Kansai (Osaka),Aeroporto Internacional de São Luís,Aeroporto Internacional de Porto Alegre,19598
-Rio Grande do Sul,Aeroporto de Barcelona-El Prat (Espanha),Aeroporto Internacional de Salvador,Aeroporto Internacional de Porto Alegre,9605
-Rio Grande do Sul,Aeroporto de Heathrow (Londres),Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Porto Alegre,10299
-Rio Grande do Sul,Aeroporto de Bratislava,Aeroporto Internacional do Recife,Aeroporto Internacional de Porto Alegre,11010
-Rio Grande do Sul,Aeroporto Internacional de Hong Kong,Aeroporto Internacional de Salvador,Aeroporto Internacional de Porto Alegre,19222
-Rio Grande do Sul,Aeroporto de Milão-Malpensa,Aeroporto Internacional do Recife,Aeroporto Internacional de Porto Alegre,10327
-Rio Grande do Sul,Aeroporto Internacional de Budapeste Ferenc Liszt,Aeroporto Internacional do Recife,Aeroporto Internacional de Porto Alegre,11091
-Rio Grande do Sul,Aeroporto Internacional Henri Coand? (Bucareste),Aeroporto Internacional de Salvador,Aeroporto Internacional de Porto Alegre,11392
-Rio Grande do Sul,Aeroporto de Praga,Aeroporto Internacional de Salvador,Aeroporto Internacional de Porto Alegre,10962
-Rio Grande do Sul,Aeroporto Internacional Indira Gandhi,Aeroporto Internacional de Salvador,Aeroporto Internacional de Porto Alegre,15474
-Rio Grande do Sul,Aeroporto Internacional de Kuala Lumpur (Sepang),Aeroporto Internacional de Salvador,Aeroporto Internacional de Porto Alegre,17802
-Rio Grande do Sul,Aeroporto Internacional Soekarno-Hatta (Jacarta),Aeroporto Internacional de Salvador,Aeroporto Internacional de Porto Alegre,17930
-Rio Grande do Sul,Aeroporto Internacional Ngurah Rai (Bali),Aeroporto Internacional de Salvador,Aeroporto Internacional de Porto Alegre,18548
-Rio Grande do Sul,Aeroporto de Estocolmo-Arlanda,Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Porto Alegre,11764
-Rio Grande do Sul,Aeroporto de Bruxelas,Aeroporto Internacional de Natal,Aeroporto Internacional de Porto Alegre,10497
-Rio Grande do Sul,Aeroporto de Schiphol (Amsterdã),Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Porto Alegre,10621
-Rio Grande do Sul,Aeroporto Internacional de Penang (Penang),Aeroporto Internacional de Salvador,Aeroporto Internacional de Porto Alegre,17723
-Rio Grande do Sul,Aeroporto de Zurique,Aeroporto Internacional de Natal,Aeroporto Internacional de Porto Alegre,10451
-Santa Catarina,Aeroporto Internacional de Changi,Aeroporto Internacional de Salvador,Aeroporto Internacional de Navegantes,17576
-Santa Catarina,Aeroporto de Toulouse-Blagnac (França),Aeroporto Internacional de Natal,Aeroporto Internacional de Navegantes,9333
-Santa Catarina,Aeroporto Internacional de Viena,Aeroporto Internacional do Recife,Aeroporto Internacional de Navegantes,10545
-Santa Catarina,Aeroporto de Gatwick (Londres),Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Navegantes,9870
-Santa Catarina,Aeroporto de Bruxelas,Aeroporto Internacional de Natal,Aeroporto Internacional de Navegantes,10077
-Santa Catarina,Aeroporto de Varsóvia Chopin,Aeroporto Internacional do Recife,Aeroporto Internacional de Navegantes,11058
-Santa Catarina,Aeroporto de Helsinque,Aeroporto Internacional de Natal,Aeroporto Internacional de Navegantes,11728
-Santa Catarina,Aeroporto Internacional de Xangai Pudong,Aeroporto Internacional de Salvador,Aeroporto Internacional de Navegantes,19038
-Santa Catarina,Aeroporto Internacional de Pyongyang Sunan,Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Navegantes,18547
-Santa Catarina,Aeroporto Internacional de Haneda (Tóquio),Aeroporto Internacional de São Luís,Aeroporto Internacional de Navegantes,19065
-Santa Catarina,Aeroporto Internacional de Taiwan Taoyuan,Aeroporto Internacional de Salvador,Aeroporto Internacional de Navegantes,19379
-Santa Catarina,Aeroporto de Dublin,Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Navegantes,9796
-Santa Catarina,Aeroporto Internacional Indira Gandhi,Aeroporto Internacional de Salvador,Aeroporto Internacional de Navegantes,15053
-Santa Catarina,Aeroporto de Frankfurt,Aeroporto Internacional de Natal,Aeroporto Internacional de Navegantes,10220
-Santa Catarina,Aeroporto de Schiphol (Amsterdã),Aeroporto Internacional de Natal,Aeroporto Internacional de Navegantes,10203
-Santa Catarina,Aeroporto de Zurique,Aeroporto Internacional de Salvador,Aeroporto Internacional de Navegantes,10031
-Santa Catarina,Aeroporto Internacional de Pequim Capital,Aeroporto Internacional do Recife,Aeroporto Internacional de Navegantes,18018
-Santa Catarina,Aeroporto Adolfo Suárez Madrid-Barajas,Aeroporto Internacional de Natal,Aeroporto Internacional de Navegantes,8799
-Santa Catarina,Aeroporto de Roma-Fiumicino,Aeroporto Internacional do Recife,Aeroporto Internacional de Navegantes,9855
-Santa Catarina,Aeroporto Internacional de Narita (Tóquio),Aeroporto Internacional de São Luís,Aeroporto Internacional de Navegantes,19034
-Santa Catarina,Aeroporto Internacional de Incheon,Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Navegantes,18753
-Santa Catarina,Aeroporto de Estocolmo-Arlanda,Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Navegantes,11349
-Santa Catarina,Aeroporto Internacional de Kansai (Osaka),Aeroporto Internacional de São Luís,Aeroporto Internacional de Navegantes,19211
-Santa Catarina,Aeroporto de Barcelona-El Prat (Espanha),Aeroporto Internacional de Salvador,Aeroporto Internacional de Navegantes,9184
-Santa Catarina,Aeroporto de Heathrow (Londres),Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Navegantes,9884
-Santa Catarina,Aeroporto Internacional de Kuala Lumpur (Sepang),Aeroporto Internacional de Salvador,Aeroporto Internacional de Navegantes,17381
-Santa Catarina,Aeroporto de Milão-Malpensa,Aeroporto Internacional do Recife,Aeroporto Internacional de Navegantes,9906
-Santa Catarina,Aeroporto Internacional de Budapeste Ferenc Liszt,Aeroporto Internacional do Recife,Aeroporto Internacional de Navegantes,10670
-Santa Catarina,Aeroporto de Oslo-Gardermoen,Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Navegantes,11070
-Santa Catarina,Aeroporto de Praga,Aeroporto Internacional de Salvador,Aeroporto Internacional de Navegantes,10541
-Santa Catarina,Aeroporto Internacional de Hong Kong,Aeroporto Internacional de Salvador,Aeroporto Internacional de Navegantes,18801
-Santa Catarina,Aeroporto de Ljubljana Joe Pu?nik,Aeroporto Internacional do Recife,Aeroporto Internacional de Navegantes,10292
-Santa Catarina,Aeroporto Internacional Henri Coand? (Bucareste),Aeroporto Internacional de Salvador,Aeroporto Internacional de Navegantes,10971
-Santa Catarina,Aeroporto de Luxemburgo,Aeroporto Internacional de Natal,Aeroporto Internacional de Navegantes,10065
-Santa Catarina,Aeroporto Internacional de Penang (Penang),Aeroporto Internacional de Salvador,Aeroporto Internacional de Navegantes,17302
-Santa Catarina,Aeroporto Francisco Sá Carneiro (Porto),Aeroporto Internacional de Natal,Aeroporto Internacional de Navegantes,8606
-Santa Catarina,Aeroporto Internacional de Suvarnabhumi,Aeroporto Internacional de Salvador,Aeroporto Internacional de Navegantes,17494
-Santa Catarina,Aeroporto Humberto Delgado (Lisboa),Aeroporto Internacional de Natal,Aeroporto Internacional de Navegantes,8358
-Santa Catarina,Aeroporto Internacional Don Mueang,Aeroporto Internacional de Salvador,Aeroporto Internacional de Navegantes,17480
-São Paulo,Aeroporto Internacional de Changi,Aeroporto Internacional de Salvador,Aeroporto Internacional de Guarulhos,17136
-São Paulo,Aeroporto de Toulouse-Blagnac (França),Aeroporto Internacional de Natal,Aeroporto Internacional de Guarulhos,8889
-São Paulo,Aeroporto Internacional de Viena,Aeroporto Internacional do Recife,Aeroporto Internacional de Guarulhos,10105
-São Paulo,Aeroporto de Gatwick (Londres),Aeroporto Internacional de Natal,Aeroporto Internacional de Guarulhos,9435
-São Paulo,Aeroporto de Bruxelas,Aeroporto Internacional de Natal,Aeroporto Internacional de Guarulhos,9633
-São Paulo,Aeroporto Internacional de Xangai Pudong,Aeroporto Internacional de Salvador,Aeroporto Internacional de Guarulhos,18598
-São Paulo,Aeroporto Internacional de Haneda (Tóquio),Aeroporto Internacional de São Luís,Aeroporto Internacional de Guarulhos,18650
-São Paulo,Aeroporto Internacional Don Mueang,Aeroporto Internacional de Salvador,Aeroporto Internacional de Guarulhos,17040
-São Paulo,Aeroporto Internacional de Taiwan Taoyuan,Aeroporto Internacional de Salvador,Aeroporto Internacional de Guarulhos,18939
-São Paulo,Aeroporto de Praga,Aeroporto Internacional de Salvador,Aeroporto Internacional de Guarulhos,10101
-São Paulo,Aeroporto Internacional Indira Gandhi,Aeroporto Internacional de Salvador,Aeroporto Internacional de Guarulhos,14613
-São Paulo,Aeroporto de Dublin,Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Guarulhos,9355
-São Paulo,Aeroporto de Frankfurt,Aeroporto Internacional de Natal,Aeroporto Internacional de Guarulhos,9776
-São Paulo,Aeroporto de Schiphol (Amsterdã),Aeroporto Internacional de Natal,Aeroporto Internacional de Guarulhos,9759
-São Paulo,Aeroporto Internacional de Pequim Capital,Aeroporto Internacional do Recife,Aeroporto Internacional de Guarulhos,17578
-São Paulo,Aeroporto Internacional de Suvarnabhumi,Aeroporto Internacional de Salvador,Aeroporto Internacional de Guarulhos,17054
-São Paulo,Aeroporto Adolfo Suárez Madrid-Barajas,Aeroporto Internacional de Natal,Aeroporto Internacional de Guarulhos,8355
-São Paulo,Aeroporto de Roma-Fiumicino,Aeroporto Internacional do Recife,Aeroporto Internacional de Guarulhos,9415
-São Paulo,Aeroporto Internacional de Narita (Tóquio),Aeroporto Internacional de São Luís,Aeroporto Internacional de Guarulhos,18619
-São Paulo,Aeroporto Internacional de Incheon,Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Guarulhos,18312
-São Paulo,Aeroporto Internacional Soekarno-Hatta (Jacarta),Aeroporto Internacional de Salvador,Aeroporto Internacional de Guarulhos,17069
-São Paulo,Aeroporto Internacional Ngurah Rai (Bali),Aeroporto Internacional de Salvador,Aeroporto Internacional de Guarulhos,17687
-São Paulo,Aeroporto Internacional de Kansai (Osaka),Aeroporto Internacional de São Luís,Aeroporto Internacional de Guarulhos,18796
-São Paulo,Aeroporto Internacional de Penang (Penang),Aeroporto Internacional de Salvador,Aeroporto Internacional de Guarulhos,16862
-São Paulo,Aeroporto de Zurique,Aeroporto Internacional de Natal,Aeroporto Internacional de Guarulhos,9587
-São Paulo,Aeroporto de Barcelona-El Prat (Espanha),Aeroporto Internacional de Salvador,Aeroporto Internacional de Guarulhos,8744
-São Paulo,Aeroporto de Heathrow (Londres),Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Guarulhos,9443
-São Paulo,Aeroporto Internacional de Kuala Lumpur (Sepang),Aeroporto Internacional de Salvador,Aeroporto Internacional de Guarulhos,16941
-São Paulo,Aeroporto de Milão-Malpensa,Aeroporto Internacional do Recife,Aeroporto Internacional de Guarulhos,9466
-São Paulo,Aeroporto de Oslo-Gardermoen,Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Guarulhos,10629
-São Paulo,Aeroporto Internacional de Riga,Aeroporto Internacional de Natal,Aeroporto Internacional de Guarulhos,11050
-São Paulo,Aeroporto de Toulouse-Blagnac (França),Aeroporto Internacional de Natal,Aeroporto Internacional de Guarulhos,8889
-São Paulo,Aeroporto Internacional de Tan Son Nhat,Aeroporto Internacional de Salvador,Aeroporto Internacional de Guarulhos,17664
-São Paulo,Aeroporto de Sófia,Aeroporto Internacional de Salvador,Aeroporto Internacional de Guarulhos,10241
-São Paulo,Aeroporto Internacional de Malta,Aeroporto Internacional de Salvador,Aeroporto Internacional de Guarulhos,9189
-São Paulo,Aeroporto de Varsóvia Chopin,Aeroporto Internacional do Recife,Aeroporto Internacional de Guarulhos,10618
-São Paulo,Aeroporto Internacional de Malé,Aeroporto Internacional de Salvador,Aeroporto Internacional de Guarulhos,13939
-São Paulo,Aeroporto Internacional Ninoy Aquino,Aeroporto Internacional de Salvador,Aeroporto Internacional de Guarulhos,19243
-São Paulo,Aeroporto de Helsinque,Aeroporto Internacional de Natal,Aeroporto Internacional de Guarulhos,11284
-São Paulo,Aeroporto Francisco Sá Carneiro (Porto),Aeroporto Internacional de Natal,Aeroporto Internacional de Guarulhos,8162
-São Paulo,Aeroporto Internacional de Pyongyang Sunan,Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Guarulhos,18106
-São Paulo,Aeroporto Internacional de Nursultan Nazarbayev,Aeroporto Internacional de Salvador,Aeroporto Internacional de Guarulhos,13946
-São Paulo,Aeroporto Internacional Madre Teresa (Tirana),Aeroporto Internacional de Salvador,Aeroporto Internacional de Guarulhos,9907
-São Paulo,Aeroporto de Tallinn,Aeroporto Internacional de Natal,Aeroporto Internacional de Guarulhos,11227
-São Paulo,Aeroporto Internacional de Wattay (Vientiane),Aeroporto Internacional de Salvador,Aeroporto Internacional de Guarulhos,17255
-São Paulo,Aeroporto Internacional de Boryspil (Kiev),Aeroporto Internacional do Recife,Aeroporto Internacional de Guarulhos,11134
-São Paulo,Aeroporto Humberto Delgado (Lisboa),Aeroporto Internacional de Natal,Aeroporto Internacional de Guarulhos,7914
-São Paulo,Aeroporto de Estocolmo-Arlanda,Aeroporto Internacional de Natal,Aeroporto Internacional de Guarulhos,10911
-São Paulo,Aeroporto de Pulkovo (São Petersburgo),Aeroporto Internacional de Natal,Aeroporto Internacional de Guarulhos,11522
-São Paulo,Aeroporto de Barcelona-El Prat (Espanha),Aeroporto Internacional de Salvador,Aeroporto Internacional de Guarulhos,8744
-São Paulo,Aeroporto de Bratislava,Aeroporto Internacional do Recife,Aeroporto Internacional de Guarulhos,10149
-São Paulo,Aeroporto Internacional de Hong Kong,Aeroporto Internacional de Salvador,Aeroporto Internacional de Guarulhos,18361
-São Paulo,Aeroporto Internacional de Budapeste Ferenc Liszt,Aeroporto Internacional do Recife,Aeroporto Internacional de Guarulhos,10230
-São Paulo,Aeroporto de Ljubljana Joe Pu?nik,Aeroporto Internacional do Recife,Aeroporto Internacional de Guarulhos,9852
-São Paulo,Aeroporto Internacional Sheremetyevo (Moscou),Aeroporto Internacional do Recife,Aeroporto Internacional de Guarulhos,11768
-São Paulo,Aeroporto Internacional Henri Coand? (Bucareste),Aeroporto Internacional de Salvador,Aeroporto Internacional de Guarulhos,10531
-São Paulo,Aeroporto de Luxemburgo,Aeroporto Internacional de Natal,Aeroporto Internacional de Guarulhos,9621
-São Paulo,Aeroporto Internacional de Noi Bai,Aeroporto Internacional de Salvador,Aeroporto Internacional de Guarulhos,17564
-Sergipe,Aeroporto Internacional Don Mueang,Aeroporto Internacional do Recife,Aeroporto Internacional de Aracaju,15531
-Sergipe,Aeroporto de Frankfurt,Aeroporto Internacional do Recife,Aeroporto Internacional de Aracaju,8084
-Sergipe,Aeroporto Internacional de Kansai (Osaka),Aeroporto Internacional de Natal,Aeroporto Internacional de Aracaju,17291
-Sergipe,Aeroporto Internacional de Kuala Lumpur (Sepang),Aeroporto Internacional do Recife,Aeroporto Internacional de Aracaju,15587
-Sergipe,Aeroporto Internacional de Budapeste Ferenc Liszt,Aeroporto Internacional do Recife,Aeroporto Internacional de Aracaju,8526
-Sergipe,Aeroporto Internacional de Haneda (Tóquio),Aeroporto Internacional de Natal,Aeroporto Internacional de Aracaju,17274
-Sergipe,Aeroporto Internacional de Narita (Tóquio),Aeroporto Internacional de Natal,Aeroporto Internacional de Aracaju,17260
-Sergipe,Aeroporto Internacional de Suvarnabhumi,Aeroporto Internacional do Recife,Aeroporto Internacional de Aracaju,15548
-Sergipe,Aeroporto Internacional de Penang (Penang),Aeroporto Internacional do Recife,Aeroporto Internacional de Aracaju,15467
+Destino,Origem,Intermerdiario,Final,Distancia,Emissão de CO2
+Alagoas,Aeroporto de Frankfurt,Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Maceió,8130,175.16454545454545
+Alagoas,Aeroporto Internacional de Pequim Capital,Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Maceió,15935,343.32681818181817
+Alagoas,Aeroporto de Barcelona-El Prat (Espanha),Aeroporto Internacional de Natal,Aeroporto Internacional de Maceió,6814,146.81072727272726
+Alagoas,Aeroporto de Heathrow (Londres),Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Maceió,7765,167.30045454545456
+Alagoas,Aeroporto Internacional de Hong Kong,Aeroporto Internacional de Natal,Aeroporto Internacional de Maceió,16607,357.80536363636367
+Alagoas,Aeroporto de Gatwick (Londres),Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Maceió,7751,166.99881818181817
+Alagoas,Aeroporto Internacional de Taiwan Taoyuan,Aeroporto Internacional de Natal,Aeroporto Internacional de Maceió,17092,368.2549090909091
+Alagoas,Aeroporto Internacional de Xangai Pudong,Aeroporto Internacional de Natal,Aeroporto Internacional de Maceió,16691,359.61518181818184
+Alagoas,Aeroporto Adolfo Suárez Madrid-Barajas,Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Maceió,6718,144.74236363636365
+Amapá,Aeroporto de Toulouse-Blagnac (França),Aeroporto Internacional de Natal,Aeroporto Internacional de Macapá,8466,182.40381818181817
+Amapá,Aeroporto Internacional de Pequim Capital,Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Macapá,16734,360.54163636363637
+Amapá,Aeroporto Internacional de Suvarnabhumi,Aeroporto Internacional de Natal,Aeroporto Internacional de Macapá,17007,366.4235454545455
+Amapá,Aeroporto Internacional de Kansai (Osaka),Aeroporto Internacional de São Luís,Aeroporto Internacional de Macapá,17293,372.58554545454547
+Amapá,Aeroporto Internacional de Narita (Tóquio),Aeroporto Internacional de São Luís,Aeroporto Internacional de Macapá,17116,368.772
+Amapá,Aeroporto Internacional de Haneda (Tóquio),Aeroporto Internacional de São Luís,Aeroporto Internacional de Macapá,17147,369.4399090909091
+Amapá,Aeroporto Internacional de Taiwan Taoyuan,Aeroporto Internacional de Natal,Aeroporto Internacional de Macapá,18598,400.70236363636366
+Amapá,Aeroporto Internacional Don Mueang,Aeroporto Internacional de Natal,Aeroporto Internacional de Macapá,16989,366.0357272727273
+Amapá,Aeroporto de Praga,Aeroporto Internacional de Natal,Aeroporto Internacional de Macapá,9675,208.45227272727274
+Amapá,Aeroporto Internacional de Xangai Pudong,Aeroporto Internacional de Natal,Aeroporto Internacional de Macapá,18197,392.06263636363633
+Amazonas,Aeroporto Internacional de Suvarnabhumi,Aeroporto Internacional de Natal,Aeroporto Internacional de Manaus,17904,385.74981818181817
+Amazonas,Aeroporto de Zurique,Aeroporto Internacional de Natal,Aeroporto Internacional de Manaus,10061,216.76881818181818
+Amazonas,Aeroporto Internacional de Kansai (Osaka),Aeroporto Internacional de São Luís,Aeroporto Internacional de Manaus,18238,392.946
+Amazonas,Aeroporto Internacional de Noi Bai,Aeroporto Internacional de Natal,Aeroporto Internacional de Manaus,18269,393.6139090909091
+Amazonas,Aeroporto de Milão-Malpensa,Aeroporto Internacional de Natal,Aeroporto Internacional de Manaus,9939,214.14027272727273
+Amazonas,Aeroporto Adolfo Suárez Madrid-Barajas,Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Manaus,8452,182.10218181818183
+Amazonas,Aeroporto Internacional de Vilnius,Aeroporto Internacional de Natal,Aeroporto Internacional de Manaus,11475,247.23409090909092
+Amazonas,Aeroporto de Toulouse-Blagnac (França),Aeroporto Internacional de Natal,Aeroporto Internacional de Manaus,9363,201.7300909090909
+Amazonas,Aeroporto Internacional de Penang (Penang),Aeroporto Internacional do Recife,Aeroporto Internacional de Manaus,17915,385.9868181818182
+Amazonas,Aeroporto de Bruxelas,Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Manaus,9702,209.034
+Amazonas,Aeroporto Internacional de Hong Kong,Aeroporto Internacional de Natal,Aeroporto Internacional de Manaus,19010,409.5790909090909
+Amazonas,Aeroporto Internacional de Taiwan Taoyuan,Aeroporto Internacional de Natal,Aeroporto Internacional de Manaus,19495,420.02863636363634
+Amazonas,Aeroporto Internacional de Tan Son Nhat,Aeroporto Internacional de Natal,Aeroporto Internacional de Manaus,18574,400.1852727272727
+Amazonas,Aeroporto Internacional de Pyongyang Sunan,Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Manaus,18162,391.3085454545455
+Amazonas,Aeroporto de Sófia,Aeroporto Internacional de Natal,Aeroporto Internacional de Manaus,10745,231.50590909090909
+Amazonas,Aeroporto Internacional de Budapeste Ferenc Liszt,Aeroporto Internacional de Natal,Aeroporto Internacional de Manaus,10712,230.7949090909091
+Amazonas,Aeroporto de Estocolmo-Arlanda,Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Manaus,10964,236.22436363636365
+Amazonas,Aeroporto Internacional de Kuala Lumpur (Sepang),Aeroporto Internacional do Recife,Aeroporto Internacional de Manaus,18035,388.5722727272727
+Amazonas,Aeroporto de Schiphol (Amsterdã),Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Manaus,9821,211.5979090909091
+Amazonas,Aeroporto de Frankfurt,Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Manaus,9864,212.52436363636366
+Amazonas,Aeroporto Internacional Ninoy Aquino,Aeroporto Internacional de Natal,Aeroporto Internacional de Manaus,20030,431.55545454545455
+Amazonas,Aeroporto de Tallinn,Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Manaus,11295,243.35590909090908
+Amazonas,Aeroporto Internacional de Narita (Tóquio),Aeroporto Internacional de São Luís,Aeroporto Internacional de Manaus,18061,389.13245454545455
+Amazonas,Aeroporto de Barcelona-El Prat (Espanha),Aeroporto Internacional de Natal,Aeroporto Internacional de Manaus,9217,198.58445454545455
+Amazonas,Aeroporto Internacional de Haneda (Tóquio),Aeroporto Internacional de São Luís,Aeroporto Internacional de Manaus,18092,389.80036363636367
+Amazonas,Aeroporto Internacional de Viena,Aeroporto Internacional de Natal,Aeroporto Internacional de Manaus,10583,228.01554545454545
+Amazonas,Aeroporto Internacional Don Mueang,Aeroporto Internacional de Natal,Aeroporto Internacional de Manaus,17886,385.362
+Amazonas,Aeroporto de Praga,Aeroporto Internacional de Natal,Aeroporto Internacional de Manaus,10572,227.77854545454545
+Amazonas,Aeroporto de Dublin,Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Manaus,9411,202.76427272727273
+Amazonas,Aeroporto de Roma-Fiumicino,Aeroporto Internacional de Natal,Aeroporto Internacional de Manaus,9904,213.38618181818183
+Amazonas,Aeroporto Internacional de Pequim Capital,Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Manaus,17669,380.68663636363635
+Amazonas,Aeroporto Internacional Indira Gandhi,Aeroporto Internacional de Natal,Aeroporto Internacional de Manaus,15272,329.0421818181818
+Amazonas,Aeroporto Internacional Soekarno-Hatta (Jacarta),Aeroporto Internacional do Recife,Aeroporto Internacional de Manaus,18325,394.82045454545454
+Amazonas,Aeroporto de Heathrow (Londres),Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Manaus,9499,204.66027272727274
+Amazonas,Aeroporto Internacional de Changi,Aeroporto Internacional do Recife,Aeroporto Internacional de Manaus,18259,393.3984545454545
+Amazonas,Aeroporto de Helsinque,Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Manaus,11346,244.45472727272727
+Amazonas,Aeroporto Internacional de Incheon,Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Manaus,18368,395.7469090909091
+Amazonas,Aeroporto de Gatwick (Londres),Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Manaus,9485,204.35863636363635
+Amazonas,Aeroporto Internacional de Xangai Pudong,Aeroporto Internacional de Natal,Aeroporto Internacional de Manaus,19094,411.3889090909091
+Amazonas,Aeroporto de Varsóvia Chopin,Aeroporto Internacional de Natal,Aeroporto Internacional de Manaus,11090,238.9390909090909
+Amazonas,Aeroporto Internacional Ngurah Rai (Bali),Aeroporto Internacional do Recife,Aeroporto Internacional de Manaus,19062,410.69945454545456
+Distrito Federal,Aeroporto de Zurique,Aeroporto Internacional de Natal,Aeroporto Internacional de Brasília,9071,195.43881818181816
+Distrito Federal,Aeroporto Internacional de Kansai (Osaka),Aeroporto Internacional de São Luís,Aeroporto Internacional de Brasília,18002,387.8612727272727
+Distrito Federal,Aeroporto de Heathrow (Londres),Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Brasília,8794,189.47072727272726
+Distrito Federal,Aeroporto Humberto Delgado (Lisboa),Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Brasília,7284,156.9370909090909
+Distrito Federal,Aeroporto de Gatwick (Londres),Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Brasília,8780,189.16909090909093
+Distrito Federal,Aeroporto Adolfo Suárez Madrid-Barajas,Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Brasília,7747,166.91263636363635
+Distrito Federal,Aeroporto de Toulouse-Blagnac (França),Aeroporto Internacional de Natal,Aeroporto Internacional de Brasília,8373,180.40009090909092
+Distrito Federal,Aeroporto Internacional de Penang (Penang),Aeroporto Internacional do Recife,Aeroporto Internacional de Brasília,16731,360.477
+Distrito Federal,Aeroporto Internacional de Hong Kong,Aeroporto Internacional de Natal,Aeroporto Internacional de Brasília,18020,388.2490909090909
+Distrito Federal,Aeroporto Internacional de Taiwan Taoyuan,Aeroporto Internacional de Natal,Aeroporto Internacional de Brasília,18505,398.69863636363635
+Distrito Federal,Aeroporto Internacional de Pequim Capital,Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Brasília,16964,365.4970909090909
+Distrito Federal,Aeroporto Internacional Indira Gandhi,Aeroporto Internacional de Natal,Aeroporto Internacional de Brasília,14282,307.7121818181818
+Distrito Federal,Aeroporto Internacional de Changi,Aeroporto Internacional do Recife,Aeroporto Internacional de Brasília,17075,367.88863636363635
+Distrito Federal,Aeroporto Internacional de Budapeste Ferenc Liszt,Aeroporto Internacional de Natal,Aeroporto Internacional de Brasília,9722,209.4649090909091
+Distrito Federal,Aeroporto de Estocolmo-Arlanda,Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Brasília,10259,221.03481818181817
+Distrito Federal,Aeroporto Internacional de Kuala Lumpur (Sepang),Aeroporto Internacional do Recife,Aeroporto Internacional de Brasília,16851,363.06245454545456
+Distrito Federal,Aeroporto Internacional de Xangai Pudong,Aeroporto Internacional de Natal,Aeroporto Internacional de Brasília,18104,390.05890909090914
+Distrito Federal,Aeroporto de Schiphol (Amsterdã),Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Brasília,9116,196.40836363636365
+Distrito Federal,Aeroporto de Frankfurt,Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Brasília,9159,197.33481818181818
+Distrito Federal,Aeroporto Internacional Ninoy Aquino,Aeroporto Internacional de Natal,Aeroporto Internacional de Brasília,19040,410.2254545454545
+Distrito Federal,Aeroporto de Barcelona-El Prat (Espanha),Aeroporto Internacional de Natal,Aeroporto Internacional de Brasília,8227,177.25445454545456
+Distrito Federal,Aeroporto Internacional de Narita (Tóquio),Aeroporto Internacional de São Luís,Aeroporto Internacional de Brasília,17825,384.0477272727273
+Distrito Federal,Aeroporto de Helsinque,Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Brasília,10641,229.26518181818182
+Distrito Federal,Aeroporto Francisco Sá Carneiro (Porto),Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Brasília,7522,162.06490909090908
+Distrito Federal,Aeroporto Internacional de Incheon,Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Brasília,17663,380.5573636363637
+Distrito Federal,Aeroporto Internacional de Haneda (Tóquio),Aeroporto Internacional de São Luís,Aeroporto Internacional de Brasília,17856,384.71563636363635
+Distrito Federal,Aeroporto Internacional de Viena,Aeroporto Internacional de Natal,Aeroporto Internacional de Brasília,9593,206.68554545454543
+Distrito Federal,Aeroporto de Praga,Aeroporto Internacional de Natal,Aeroporto Internacional de Brasília,9582,206.44854545454544
+Distrito Federal,Aeroporto de Dublin,Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Brasília,8706,187.57472727272727
+Distrito Federal,Aeroporto de Varsóvia Chopin,Aeroporto Internacional de Natal,Aeroporto Internacional de Brasília,10100,217.60909090909092
+Espírito Santo,Aeroporto Internacional de Suvarnabhumi,Aeroporto Internacional de Natal,Aeroporto Internacional de Vitória,16828,362.5669090909091
+Espírito Santo,Aeroporto de Zurique,Aeroporto Internacional de Natal,Aeroporto Internacional de Vitória,8985,193.5859090909091
+Espírito Santo,Aeroporto Internacional de Kansai (Osaka),Aeroporto Internacional de São Luís,Aeroporto Internacional de Vitória,18478,398.11690909090913
+Espírito Santo,Aeroporto de Milão-Malpensa,Aeroporto Internacional de Natal,Aeroporto Internacional de Vitória,8863,190.95736363636365
+Espírito Santo,Aeroporto Adolfo Suárez Madrid-Barajas,Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Vitória,7892,170.03672727272726
+Espírito Santo,Aeroporto Internacional de Nursultan Nazarbayev,Aeroporto Internacional de Natal,Aeroporto Internacional de Vitória,13365,287.955
+Espírito Santo,Aeroporto de Toulouse-Blagnac (França),Aeroporto Internacional de Natal,Aeroporto Internacional de Vitória,8287,178.54718181818183
+Espírito Santo,Aeroporto Internacional de Penang (Penang),Aeroporto Internacional do Recife,Aeroporto Internacional de Vitória,16538,356.3187272727273
+Espírito Santo,Aeroporto de Bruxelas,Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Vitória,9142,196.96854545454545
+Espírito Santo,Aeroporto Internacional Soekarno-Hatta (Jacarta),Aeroporto Internacional do Recife,Aeroporto Internacional de Vitória,16948,365.15236363636365
+Espírito Santo,Aeroporto Internacional de Hong Kong,Aeroporto Internacional de Natal,Aeroporto Internacional de Vitória,17934,386.39618181818184
+Espírito Santo,Aeroporto de Varsóvia Chopin,Aeroporto Internacional de Natal,Aeroporto Internacional de Vitória,10014,215.75618181818183
+Espírito Santo,Aeroporto Internacional de Taiwan Taoyuan,Aeroporto Internacional de Natal,Aeroporto Internacional de Vitória,18419,396.8457272727273
+Espírito Santo,Aeroporto Internacional de Pequim Capital,Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Vitória,17109,368.6211818181818
+Espírito Santo,Aeroporto Internacional de Pyongyang Sunan,Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Vitória,17602,379.2430909090909
+Espírito Santo,Aeroporto Internacional de Changi,Aeroporto Internacional do Recife,Aeroporto Internacional de Vitória,16882,363.7303636363636
+Espírito Santo,Aeroporto Internacional de Kuala Lumpur (Sepang),Aeroporto Internacional do Recife,Aeroporto Internacional de Vitória,16658,358.9041818181818
+Espírito Santo,Aeroporto Internacional de Xangai Pudong,Aeroporto Internacional de Natal,Aeroporto Internacional de Vitória,18018,388.206
+Espírito Santo,Aeroporto de Schiphol (Amsterdã),Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Vitória,9261,199.53245454545456
+Espírito Santo,Aeroporto de Frankfurt,Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Vitória,9304,200.4589090909091
+Espírito Santo,Aeroporto de Istambul,Aeroporto Internacional de Natal,Aeroporto Internacional de Vitória,10001,215.4760909090909
+Espírito Santo,Aeroporto Internacional de Narita (Tóquio),Aeroporto Internacional de São Luís,Aeroporto Internacional de Vitória,18301,394.30336363636366
+Espírito Santo,Aeroporto de Barcelona-El Prat (Espanha),Aeroporto Internacional de Natal,Aeroporto Internacional de Vitória,8141,175.40154545454544
+Espírito Santo,Aeroporto Internacional de Incheon,Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Vitória,17808,383.6814545454545
+Espírito Santo,Aeroporto Internacional de Haneda (Tóquio),Aeroporto Internacional de São Luís,Aeroporto Internacional de Vitória,18332,394.9712727272727
+Espírito Santo,Aeroporto Internacional de Viena,Aeroporto Internacional de Natal,Aeroporto Internacional de Vitória,9507,204.83263636363634
+Espírito Santo,Aeroporto Internacional Don Mueang,Aeroporto Internacional de Natal,Aeroporto Internacional de Vitória,16810,362.17909090909086
+Espírito Santo,Aeroporto de Praga,Aeroporto Internacional de Natal,Aeroporto Internacional de Vitória,9496,204.59563636363634
+Espírito Santo,Aeroporto de Roma-Fiumicino,Aeroporto Internacional de Natal,Aeroporto Internacional de Vitória,8828,190.20327272727275
+Espírito Santo,Aeroporto Internacional Ngurah Rai (Bali),Aeroporto Internacional do Recife,Aeroporto Internacional de Vitória,17685,381.03136363636366
+Espírito Santo,Aeroporto de Dublin,Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Vitória,8851,190.69881818181818
+Espírito Santo,Aeroporto Internacional Ninoy Aquino,Aeroporto Internacional de Natal,Aeroporto Internacional de Vitória,18954,408.37254545454545
+Espírito Santo,Aeroporto de Oslo-Gardermoen,Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Vitória,10125,218.14772727272725
+Espírito Santo,Aeroporto Internacional Indira Gandhi,Aeroporto Internacional de Natal,Aeroporto Internacional de Vitória,14196,305.8592727272727
+Espírito Santo,Aeroporto de Heathrow (Londres),Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Vitória,8939,192.59481818181817
+Espírito Santo,Aeroporto de Helsinque,Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Vitória,10786,232.38927272727273
+Espírito Santo,Aeroporto Humberto Delgado (Lisboa),Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Vitória,7429,160.06118181818184
+Espírito Santo,Aeroporto Internacional de Budapeste Ferenc Liszt,Aeroporto Internacional de Natal,Aeroporto Internacional de Vitória,9636,207.612
+Espírito Santo,Aeroporto de Estocolmo-Arlanda,Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Vitória,10404,224.15890909090908
+Espírito Santo,Aeroporto Francisco Sá Carneiro (Porto),Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Vitória,7667,165.189
+Espírito Santo,Aeroporto de Gatwick (Londres),Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Vitória,8925,192.29318181818184
+Goiás,Aeroporto de Oslo-Gardermoen,Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Brasília,9980,215.02363636363634
+Goiás,Aeroporto Internacional de Suvarnabhumi,Aeroporto Internacional de Natal,Aeroporto Internacional de Brasília,16914,364.4198181818182
+Goiás,Aeroporto Internacional de Kansai (Osaka),Aeroporto Internacional de São Luís,Aeroporto Internacional de Brasília,18002,387.8612727272727
+Goiás,Aeroporto de Heathrow (Londres),Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Brasília,8794,189.47072727272726
+Goiás,Aeroporto de Milão-Malpensa,Aeroporto Internacional de Natal,Aeroporto Internacional de Brasília,8949,192.81027272727275
+Goiás,Aeroporto Humberto Delgado (Lisboa),Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Brasília,7284,156.9370909090909
+Goiás,Aeroporto de Gatwick (Londres),Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Brasília,8780,189.16909090909093
+Goiás,Aeroporto de Toulouse-Blagnac (França),Aeroporto Internacional de Natal,Aeroporto Internacional de Brasília,8373,180.40009090909092
+Goiás,Aeroporto Internacional de Penang (Penang),Aeroporto Internacional do Recife,Aeroporto Internacional de Brasília,16731,360.477
+Goiás,Aeroporto Internacional de Hong Kong,Aeroporto Internacional de Natal,Aeroporto Internacional de Brasília,18020,388.2490909090909
+Goiás,Aeroporto de Varsóvia Chopin,Aeroporto Internacional de Natal,Aeroporto Internacional de Brasília,10100,217.60909090909092
+Goiás,Aeroporto Internacional de Taiwan Taoyuan,Aeroporto Internacional de Natal,Aeroporto Internacional de Brasília,18505,398.69863636363635
+Goiás,Aeroporto Internacional de Pequim Capital,Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Brasília,16964,365.4970909090909
+Goiás,Aeroporto Internacional Indira Gandhi,Aeroporto Internacional de Natal,Aeroporto Internacional de Brasília,14282,307.7121818181818
+Goiás,Aeroporto Internacional de Changi,Aeroporto Internacional do Recife,Aeroporto Internacional de Brasília,17075,367.88863636363635
+Goiás,Aeroporto Internacional de Budapeste Ferenc Liszt,Aeroporto Internacional de Natal,Aeroporto Internacional de Brasília,9722,209.4649090909091
+Goiás,Aeroporto Internacional de Kuala Lumpur (Sepang),Aeroporto Internacional do Recife,Aeroporto Internacional de Brasília,16851,363.06245454545456
+Goiás,Aeroporto Internacional de Xangai Pudong,Aeroporto Internacional de Natal,Aeroporto Internacional de Brasília,18104,390.05890909090914
+Goiás,Aeroporto de Frankfurt,Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Brasília,9159,197.33481818181818
+Goiás,Aeroporto Internacional de Narita (Tóquio),Aeroporto Internacional de São Luís,Aeroporto Internacional de Brasília,17825,384.0477272727273
+Goiás,Aeroporto Francisco Sá Carneiro (Porto),Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Brasília,7522,162.06490909090908
+Goiás,Aeroporto Internacional de Incheon,Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Brasília,17663,380.5573636363637
+Goiás,Aeroporto Internacional de Haneda (Tóquio),Aeroporto Internacional de São Luís,Aeroporto Internacional de Brasília,17856,384.71563636363635
+Goiás,Aeroporto Internacional de Viena,Aeroporto Internacional de Natal,Aeroporto Internacional de Brasília,9593,206.68554545454543
+Goiás,Aeroporto Internacional Don Mueang,Aeroporto Internacional de Natal,Aeroporto Internacional de Brasília,16896,364.032
+Goiás,Aeroporto de Dublin,Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Brasília,8706,187.57472727272727
+Goiás,Aeroporto de Roma-Fiumicino,Aeroporto Internacional de Natal,Aeroporto Internacional de Brasília,8914,192.0561818181818
+Mato Grosso,Aeroporto de Frankfurt,Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Várzea Grande,9830,211.79181818181817
+Mato Grosso,Aeroporto Internacional de Budapeste Ferenc Liszt,Aeroporto Internacional de Natal,Aeroporto Internacional de Várzea Grande,10501,226.24881818181817
+Mato Grosso,Aeroporto Internacional de Taiwan Taoyuan,Aeroporto Internacional de Natal,Aeroporto Internacional de Várzea Grande,19284,415.48254545454546
+Mato Grosso,Aeroporto de Varsóvia Chopin,Aeroporto Internacional de Natal,Aeroporto Internacional de Várzea Grande,10879,234.393
+Minas Gerais,Aeroporto de Oslo-Gardermoen,Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Belo Horizonte,10118,217.9969090909091
+Minas Gerais,Aeroporto Internacional de Suvarnabhumi,Aeroporto Internacional de Natal,Aeroporto Internacional de Belo Horizonte,16895,364.01045454545454
+Minas Gerais,Aeroporto Internacional de Kansai (Osaka),Aeroporto Internacional de São Luís,Aeroporto Internacional de Belo Horizonte,18365,395.68227272727273
+Minas Gerais,Aeroporto de Heathrow (Londres),Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Belo Horizonte,8932,192.444
+Minas Gerais,Aeroporto de Milão-Malpensa,Aeroporto Internacional de Natal,Aeroporto Internacional de Belo Horizonte,8930,192.4009090909091
+Minas Gerais,Aeroporto Humberto Delgado (Lisboa),Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Belo Horizonte,7422,159.91036363636366
+Minas Gerais,Aeroporto Nikola Tesla (Belgrado),Aeroporto Internacional de Natal,Aeroporto Internacional de Belo Horizonte,9625,207.375
+Minas Gerais,Aeroporto de Gatwick (Londres),Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Belo Horizonte,8918,192.14236363636365
+Minas Gerais,Aeroporto Adolfo Suárez Madrid-Barajas,Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Belo Horizonte,7885,169.88590909090908
+Minas Gerais,Aeroporto Internacional de Hong Kong,Aeroporto Internacional de Natal,Aeroporto Internacional de Belo Horizonte,18001,387.8397272727273
+Minas Gerais,Aeroporto de Varsóvia Chopin,Aeroporto Internacional de Natal,Aeroporto Internacional de Belo Horizonte,10081,217.19972727272727
+Minas Gerais,Aeroporto Internacional Henri Coand? (Bucareste),Aeroporto Internacional de Natal,Aeroporto Internacional de Belo Horizonte,10023,215.9500909090909
+Minas Gerais,Aeroporto Internacional de Taiwan Taoyuan,Aeroporto Internacional de Natal,Aeroporto Internacional de Belo Horizonte,18486,398.2892727272727
+Minas Gerais,Aeroporto de Luxemburgo,Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Belo Horizonte,9136,196.83927272727274
+Minas Gerais,Aeroporto Internacional de Pequim Capital,Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Belo Horizonte,17102,368.47036363636363
+Minas Gerais,Aeroporto Internacional Indira Gandhi,Aeroporto Internacional de Natal,Aeroporto Internacional de Belo Horizonte,14263,307.30281818181817
+Minas Gerais,Aeroporto Internacional de Changi,Aeroporto Internacional do Recife,Aeroporto Internacional de Belo Horizonte,16977,365.7771818181818
+Minas Gerais,Aeroporto Internacional de Budapeste Ferenc Liszt,Aeroporto Internacional de Natal,Aeroporto Internacional de Belo Horizonte,9703,209.05554545454544
+Minas Gerais,Aeroporto Internacional de Xangai Pudong,Aeroporto Internacional de Natal,Aeroporto Internacional de Belo Horizonte,18085,389.6495454545455
+Minas Gerais,Aeroporto de Schiphol (Amsterdã),Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Belo Horizonte,9254,199.38163636363635
+Minas Gerais,Aeroporto de Roma-Fiumicino,Aeroporto Internacional de Natal,Aeroporto Internacional de Belo Horizonte,8895,191.6468181818182
+Minas Gerais,Aeroporto Internacional Ninoy Aquino,Aeroporto Internacional de Natal,Aeroporto Internacional de Belo Horizonte,19021,409.81609090909086
+Minas Gerais,Aeroporto de Barcelona-El Prat (Espanha),Aeroporto Internacional de Natal,Aeroporto Internacional de Belo Horizonte,8208,176.8450909090909
+Minas Gerais,Aeroporto Internacional de Narita (Tóquio),Aeroporto Internacional de São Luís,Aeroporto Internacional de Belo Horizonte,18188,391.8687272727273
+Minas Gerais,Aeroporto de Helsinque,Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Belo Horizonte,10779,232.23845454545454
+Minas Gerais,Aeroporto Francisco Sá Carneiro (Porto),Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Belo Horizonte,7660,165.0381818181818
+Minas Gerais,Aeroporto Internacional de Viena,Aeroporto Internacional de Natal,Aeroporto Internacional de Belo Horizonte,9574,206.2761818181818
+Minas Gerais,Aeroporto Internacional de Haneda (Tóquio),Aeroporto Internacional de São Luís,Aeroporto Internacional de Belo Horizonte,18219,392.5366363636364
+Minas Gerais,Aeroporto Internacional Don Mueang,Aeroporto Internacional de Natal,Aeroporto Internacional de Belo Horizonte,16877,363.62263636363633
+Minas Gerais,Aeroporto de Zurique,Aeroporto Internacional de Natal,Aeroporto Internacional de Belo Horizonte,9052,195.02945454545457
+Minas Gerais,Aeroporto de Toulouse-Blagnac (França),Aeroporto Internacional de Natal,Aeroporto Internacional de Belo Horizonte,8354,179.99072727272727
+Minas Gerais,Aeroporto de Dublin,Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Belo Horizonte,8844,190.548
+Minas Gerais,Aeroporto Internacional de Penang (Penang),Aeroporto Internacional do Recife,Aeroporto Internacional de Belo Horizonte,16633,358.3655454545455
+Minas Gerais,Aeroporto de Frankfurt,Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Belo Horizonte,9297,200.3080909090909
+Minas Gerais,Aeroporto Internacional de Tan Son Nhat,Aeroporto Internacional de Natal,Aeroporto Internacional de Belo Horizonte,17565,378.44590909090914
+Minas Gerais,Aeroporto de Bruxelas,Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Belo Horizonte,9135,196.81772727272727
+Minas Gerais,Aeroporto Internacional de Noi Bai,Aeroporto Internacional de Natal,Aeroporto Internacional de Belo Horizonte,17260,371.87454545454545
+Minas Gerais,Aeroporto Internacional de Incheon,Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Belo Horizonte,17801,383.53063636363635
+Minas Gerais,Aeroporto de Pulkovo (São Petersburgo),Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Belo Horizonte,11029,237.62481818181817
+Minas Gerais,Aeroporto de Estocolmo-Arlanda,Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Belo Horizonte,10397,224.00809090909092
+Minas Gerais,Aeroporto Internacional de Kuala Lumpur (Sepang),Aeroporto Internacional do Recife,Aeroporto Internacional de Belo Horizonte,16753,360.951
+Minas Gerais,Aeroporto de Praga,Aeroporto Internacional de Natal,Aeroporto Internacional de Belo Horizonte,9563,206.03918181818182
+Minas Gerais,Aeroporto de Bratislava,Aeroporto Internacional de Natal,Aeroporto Internacional de Belo Horizonte,9618,207.22418181818182
+Minas Gerais,Aeroporto Internacional Sheremetyevo (Moscou),Aeroporto Internacional de Natal,Aeroporto Internacional de Belo Horizonte,11233,242.02009090909092
+Pará,Aeroporto Internacional de Kansai (Osaka),Aeroporto Internacional de São Luís,Aeroporto Internacional de Belém,16970,365.62636363636364
+Pará,Aeroporto de Heathrow (Londres),Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Belém,8244,177.62072727272727
+Pará,Aeroporto de Milão-Malpensa,Aeroporto Internacional de Natal,Aeroporto Internacional de Belém,8718,187.83327272727274
+Pará,Aeroporto de Gatwick (Londres),Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Belém,8230,177.3190909090909
+Pará,Aeroporto Adolfo Suárez Madrid-Barajas,Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Belém,7197,155.06263636363636
+Pará,Aeroporto de Toulouse-Blagnac (França),Aeroporto Internacional de Natal,Aeroporto Internacional de Belém,8142,175.42309090909092
+Pará,Aeroporto Internacional de Hong Kong,Aeroporto Internacional de Natal,Aeroporto Internacional de Belém,17789,383.2720909090909
+Pará,Aeroporto de Varsóvia Chopin,Aeroporto Internacional de Natal,Aeroporto Internacional de Belém,9869,212.63209090909092
+Pará,Aeroporto Internacional de Taiwan Taoyuan,Aeroporto Internacional de Natal,Aeroporto Internacional de Belém,18274,393.7216363636364
+Pará,Aeroporto Internacional de Pequim Capital,Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Belém,16414,353.6470909090909
+Pará,Aeroporto Internacional de Budapeste Ferenc Liszt,Aeroporto Internacional de Natal,Aeroporto Internacional de Belém,9491,204.48790909090908
+Pará,Aeroporto de Estocolmo-Arlanda,Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Belém,9709,209.18481818181817
+Pará,Aeroporto Internacional de Xangai Pudong,Aeroporto Internacional de Natal,Aeroporto Internacional de Belém,17873,385.0819090909091
+Pará,Aeroporto de Schiphol (Amsterdã),Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Belém,8566,184.55836363636365
+Pará,Aeroporto de Roma-Fiumicino,Aeroporto Internacional de Natal,Aeroporto Internacional de Belém,8683,187.07918181818184
+Pará,Aeroporto de Frankfurt,Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Belém,8609,185.48481818181818
+Pará,Aeroporto de Barcelona-El Prat (Espanha),Aeroporto Internacional de Natal,Aeroporto Internacional de Belém,7996,172.27745454545456
+Pará,Aeroporto Internacional de Narita (Tóquio),Aeroporto Internacional de São Luís,Aeroporto Internacional de Belém,16793,361.81281818181816
+Pará,Aeroporto de Helsinque,Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Belém,10091,217.41518181818182
+Pará,Aeroporto Internacional de Haneda (Tóquio),Aeroporto Internacional de São Luís,Aeroporto Internacional de Belém,16824,362.4807272727273
+Pará,Aeroporto Internacional de Viena,Aeroporto Internacional de Natal,Aeroporto Internacional de Belém,9362,201.70854545454543
+Pará,Aeroporto de Praga,Aeroporto Internacional de Natal,Aeroporto Internacional de Belém,9351,201.47154545454543
+Pará,Aeroporto de Dublin,Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Belém,8156,175.72472727272728
+Pará,Aeroporto de Zurique,Aeroporto Internacional de Natal,Aeroporto Internacional de Belém,8840,190.4618181818182
+Paraná,Aeroporto Internacional de Suvarnabhumi,Aeroporto Internacional de Natal,Aeroporto Internacional de Curitiba,17753,382.4964545454545
+Paraná,Aeroporto Internacional de Kansai (Osaka),Aeroporto Internacional de São Luís,Aeroporto Internacional de Curitiba,19041,410.247
+Paraná,Aeroporto de Milão-Malpensa,Aeroporto Internacional de Natal,Aeroporto Internacional de Curitiba,9788,210.88690909090909
+Paraná,Aeroporto Adolfo Suárez Madrid-Barajas,Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Curitiba,8695,187.33772727272728
+Paraná,Aeroporto de Toulouse-Blagnac (França),Aeroporto Internacional de Natal,Aeroporto Internacional de Curitiba,9212,198.47672727272726
+Paraná,Aeroporto Internacional de Penang (Penang),Aeroporto Internacional do Recife,Aeroporto Internacional de Curitiba,17501,377.067
+Paraná,Aeroporto de Bruxelas,Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Curitiba,9945,214.26954545454544
+Paraná,Aeroporto Internacional de Hong Kong,Aeroporto Internacional de Natal,Aeroporto Internacional de Curitiba,18859,406.3257272727273
+Paraná,Aeroporto de Varsóvia Chopin,Aeroporto Internacional de Natal,Aeroporto Internacional de Curitiba,10939,235.68572727272726
+Paraná,Aeroporto Internacional de Taiwan Taoyuan,Aeroporto Internacional de Natal,Aeroporto Internacional de Curitiba,19344,416.7752727272727
+Paraná,Aeroporto Internacional de Pequim Capital,Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Curitiba,17912,385.9221818181818
+Paraná,Aeroporto Internacional de Pyongyang Sunan,Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Curitiba,18405,396.54409090909087
+Paraná,Aeroporto Internacional de Budapeste Ferenc Liszt,Aeroporto Internacional de Natal,Aeroporto Internacional de Curitiba,10561,227.54154545454543
+Paraná,Aeroporto de Estocolmo-Arlanda,Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Curitiba,11207,241.4599090909091
+Paraná,Aeroporto Internacional de Kuala Lumpur (Sepang),Aeroporto Internacional do Recife,Aeroporto Internacional de Curitiba,17621,379.65245454545453
+Paraná,Aeroporto Internacional de Xangai Pudong,Aeroporto Internacional de Natal,Aeroporto Internacional de Curitiba,18943,408.1355454545455
+Paraná,Aeroporto de Schiphol (Amsterdã),Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Curitiba,10064,216.83345454545457
+Paraná,Aeroporto de Roma-Fiumicino,Aeroporto Internacional de Natal,Aeroporto Internacional de Curitiba,9753,210.13281818181818
+Paraná,Aeroporto de Frankfurt,Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Curitiba,10107,217.75990909090908
+Paraná,Aeroporto Internacional Ninoy Aquino,Aeroporto Internacional de Natal,Aeroporto Internacional de Curitiba,19879,428.3020909090909
+Paraná,Aeroporto de Barcelona-El Prat (Espanha),Aeroporto Internacional de Natal,Aeroporto Internacional de Curitiba,9066,195.3310909090909
+Paraná,Aeroporto Internacional de Narita (Tóquio),Aeroporto Internacional de São Luís,Aeroporto Internacional de Curitiba,18864,406.43345454545454
+Paraná,Aeroporto de Istambul,Aeroporto Internacional de Natal,Aeroporto Internacional de Curitiba,10926,235.40563636363635
+Paraná,Aeroporto Internacional de Incheon,Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Curitiba,18611,400.9824545454545
+Paraná,Aeroporto Internacional de Viena,Aeroporto Internacional de Natal,Aeroporto Internacional de Curitiba,10432,224.76218181818183
+Paraná,Aeroporto Internacional de Haneda (Tóquio),Aeroporto Internacional de São Luís,Aeroporto Internacional de Curitiba,18895,407.10136363636366
+Paraná,Aeroporto Internacional Don Mueang,Aeroporto Internacional de Natal,Aeroporto Internacional de Curitiba,17735,382.1086363636364
+Paraná,Aeroporto de Praga,Aeroporto Internacional de Natal,Aeroporto Internacional de Curitiba,10421,224.52518181818184
+Paraná,Aeroporto de Dublin,Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Curitiba,9654,207.99981818181817
+Paraná,Aeroporto de Zurique,Aeroporto Internacional de Natal,Aeroporto Internacional de Curitiba,9910,213.51545454545456
+Paraná,Aeroporto de Oslo-Gardermoen,Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Curitiba,10928,235.44872727272727
+Paraná,Aeroporto Internacional de Boryspil (Kiev),Aeroporto Internacional de Natal,Aeroporto Internacional de Curitiba,11468,247.08327272727274
+Paraná,Aeroporto Internacional Indira Gandhi,Aeroporto Internacional de Natal,Aeroporto Internacional de Curitiba,15121,325.78881818181816
+Paraná,Aeroporto de Heathrow (Londres),Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Curitiba,9742,209.89581818181819
+Paraná,Aeroporto de Helsinque,Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Curitiba,11589,249.69027272727274
+Paraná,Aeroporto Humberto Delgado (Lisboa),Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Curitiba,8232,177.36218181818182
+Paraná,Aeroporto Francisco Sá Carneiro (Porto),Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Curitiba,8470,182.49
+Paraná,Aeroporto de Gatwick (Londres),Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Curitiba,9728,209.59418181818182
+Paraná,Aeroporto de Luxemburgo,Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Curitiba,9946,214.2910909090909
+Rio de Janeiro,Aeroporto de Oslo-Gardermoen,Aeroporto Internacional de Fortaleza,Aeroporto Internacional do Rio de Janeiro,10458,225.32236363636363
+Rio de Janeiro,Aeroporto Internacional de Suvarnabhumi,Aeroporto Internacional de Natal,Aeroporto Internacional do Rio de Janeiro,17207,370.73263636363635
+Rio de Janeiro,Aeroporto Internacional de Kansai (Osaka),Aeroporto Internacional de São Luís,Aeroporto Internacional do Rio de Janeiro,18717,403.2662727272727
+Rio de Janeiro,Aeroporto Internacional de Noi Bai,Aeroporto Internacional de Natal,Aeroporto Internacional do Rio de Janeiro,17572,378.5967272727273
+Rio de Janeiro,Aeroporto de Heathrow (Londres),Aeroporto Internacional de Fortaleza,Aeroporto Internacional do Rio de Janeiro,9272,199.76945454545455
+Rio de Janeiro,Aeroporto de Gatwick (Londres),Aeroporto Internacional de Fortaleza,Aeroporto Internacional do Rio de Janeiro,9258,199.4678181818182
+Rio de Janeiro,Aeroporto de Toulouse-Blagnac (França),Aeroporto Internacional de Natal,Aeroporto Internacional do Rio de Janeiro,8666,186.71290909090908
+Rio de Janeiro,Aeroporto Internacional de Penang (Penang),Aeroporto Internacional do Recife,Aeroporto Internacional do Rio de Janeiro,16929,364.743
+Rio de Janeiro,Aeroporto de Bruxelas,Aeroporto Internacional de Fortaleza,Aeroporto Internacional do Rio de Janeiro,9475,204.14318181818183
+Rio de Janeiro,Aeroporto Internacional de Hong Kong,Aeroporto Internacional de Natal,Aeroporto Internacional do Rio de Janeiro,18313,394.5619090909091
+Rio de Janeiro,Aeroporto Internacional Henri Coand? (Bucareste),Aeroporto Internacional de Natal,Aeroporto Internacional do Rio de Janeiro,10335,222.67227272727274
+Rio de Janeiro,Aeroporto Internacional de Taiwan Taoyuan,Aeroporto Internacional de Natal,Aeroporto Internacional do Rio de Janeiro,18798,405.0114545454545
+Rio de Janeiro,Aeroporto Internacional de Pequim Capital,Aeroporto Internacional de Fortaleza,Aeroporto Internacional do Rio de Janeiro,17442,375.79581818181816
+Rio de Janeiro,Aeroporto Internacional de Tan Son Nhat,Aeroporto Internacional de Natal,Aeroporto Internacional do Rio de Janeiro,17877,385.1680909090909
+Rio de Janeiro,Aeroporto Internacional Indira Gandhi,Aeroporto Internacional de Natal,Aeroporto Internacional do Rio de Janeiro,14575,314.025
+Rio de Janeiro,Aeroporto Internacional de Changi,Aeroporto Internacional do Recife,Aeroporto Internacional do Rio de Janeiro,17273,372.15463636363637
+Rio de Janeiro,Aeroporto Internacional de Budapeste Ferenc Liszt,Aeroporto Internacional de Natal,Aeroporto Internacional do Rio de Janeiro,10015,215.77772727272728
+Rio de Janeiro,Aeroporto Internacional de Kuala Lumpur (Sepang),Aeroporto Internacional do Recife,Aeroporto Internacional do Rio de Janeiro,17049,367.3284545454545
+Rio de Janeiro,Aeroporto Internacional de Xangai Pudong,Aeroporto Internacional de Natal,Aeroporto Internacional do Rio de Janeiro,18397,396.3717272727273
+Rio de Janeiro,Aeroporto de Schiphol (Amsterdã),Aeroporto Internacional de Fortaleza,Aeroporto Internacional do Rio de Janeiro,9594,206.7070909090909
+Rio de Janeiro,Aeroporto de Frankfurt,Aeroporto Internacional de Fortaleza,Aeroporto Internacional do Rio de Janeiro,9637,207.63354545454544
+Rio de Janeiro,Aeroporto Internacional Ninoy Aquino,Aeroporto Internacional de Natal,Aeroporto Internacional do Rio de Janeiro,19333,416.5382727272727
+Rio de Janeiro,Aeroporto Internacional de Narita (Tóquio),Aeroporto Internacional de São Luís,Aeroporto Internacional do Rio de Janeiro,18540,399.4527272727273
+Rio de Janeiro,Aeroporto de Helsinque,Aeroporto Internacional de Fortaleza,Aeroporto Internacional do Rio de Janeiro,11119,239.56390909090908
+Rio de Janeiro,Aeroporto Internacional de Incheon,Aeroporto Internacional de Fortaleza,Aeroporto Internacional do Rio de Janeiro,18141,390.8560909090909
+Rio de Janeiro,Aeroporto Internacional de Haneda (Tóquio),Aeroporto Internacional de São Luís,Aeroporto Internacional do Rio de Janeiro,18571,400.1206363636364
+Rio de Janeiro,Aeroporto Internacional Don Mueang,Aeroporto Internacional de Natal,Aeroporto Internacional do Rio de Janeiro,17189,370.3448181818182
+Rio de Janeiro,Aeroporto de Dublin,Aeroporto Internacional de Fortaleza,Aeroporto Internacional do Rio de Janeiro,9184,197.87345454545456
+Rio de Janeiro,Aeroporto de Praga,Aeroporto Internacional de Natal,Aeroporto Internacional do Rio de Janeiro,9875,212.76136363636365
+Rio de Janeiro,Aeroporto de Varsóvia Chopin,Aeroporto Internacional de Natal,Aeroporto Internacional do Rio de Janeiro,10393,223.92190909090908
+Rio de Janeiro,Aeroporto de Roma-Fiumicino,Aeroporto Internacional de Natal,Aeroporto Internacional do Rio de Janeiro,9207,198.369
+Rio de Janeiro,Aeroporto de Barcelona-El Prat (Espanha),Aeroporto Internacional de Natal,Aeroporto Internacional do Rio de Janeiro,8520,183.56727272727272
+Rio de Janeiro,Aeroporto de Sófia,Aeroporto Internacional de Natal,Aeroporto Internacional do Rio de Janeiro,10048,216.48872727272726
+Rio de Janeiro,Aeroporto Adolfo Suárez Madrid-Barajas,Aeroporto Internacional de Fortaleza,Aeroporto Internacional do Rio de Janeiro,8225,177.21136363636364
+Rio de Janeiro,Aeroporto de Milão-Malpensa,Aeroporto Internacional de Natal,Aeroporto Internacional do Rio de Janeiro,9242,199.1230909090909
+Rio de Janeiro,Aeroporto Humberto Delgado (Lisboa),Aeroporto Internacional de Fortaleza,Aeroporto Internacional do Rio de Janeiro,7762,167.2358181818182
+Rio de Janeiro,Aeroporto Francisco Sá Carneiro (Porto),Aeroporto Internacional de Fortaleza,Aeroporto Internacional do Rio de Janeiro,8000,172.36363636363635
+Rio de Janeiro,Aeroporto Internacional de Viena,Aeroporto Internacional de Natal,Aeroporto Internacional do Rio de Janeiro,9886,212.99836363636365
+Rio de Janeiro,Aeroporto de Estocolmo-Arlanda,Aeroporto Internacional de Fortaleza,Aeroporto Internacional do Rio de Janeiro,10737,231.33354545454543
+Rio de Janeiro,Aeroporto de Zurique,Aeroporto Internacional de Natal,Aeroporto Internacional do Rio de Janeiro,9364,201.75163636363635
+Rio Grande do Sul,Aeroporto Internacional de Suvarnabhumi,Aeroporto Internacional de Natal,Aeroporto Internacional de Porto Alegre,18294,394.1525454545455
+Rio Grande do Sul,Aeroporto Internacional de Kansai (Osaka),Aeroporto Internacional de São Luís,Aeroporto Internacional de Porto Alegre,19598,422.24781818181816
+Rio Grande do Sul,Aeroporto de Heathrow (Londres),Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Porto Alegre,10299,221.89663636363636
+Rio Grande do Sul,Aeroporto de Milão-Malpensa,Aeroporto Internacional de Natal,Aeroporto Internacional de Porto Alegre,10329,222.543
+Rio Grande do Sul,Aeroporto Humberto Delgado (Lisboa),Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Porto Alegre,8789,189.363
+Rio Grande do Sul,Aeroporto de Gatwick (Londres),Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Porto Alegre,10285,221.595
+Rio Grande do Sul,Aeroporto de Bratislava,Aeroporto Internacional de Natal,Aeroporto Internacional de Porto Alegre,11017,237.36627272727273
+Rio Grande do Sul,Aeroporto Adolfo Suárez Madrid-Barajas,Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Porto Alegre,9252,199.33854545454545
+Rio Grande do Sul,Aeroporto de Toulouse-Blagnac (França),Aeroporto Internacional de Natal,Aeroporto Internacional de Porto Alegre,9753,210.13281818181818
+Rio Grande do Sul,Aeroporto Internacional de Hong Kong,Aeroporto Internacional de Natal,Aeroporto Internacional de Porto Alegre,19400,417.9818181818182
+Rio Grande do Sul,Aeroporto de Varsóvia Chopin,Aeroporto Internacional de Natal,Aeroporto Internacional de Porto Alegre,11480,247.34181818181818
+Rio Grande do Sul,Aeroporto Internacional Henri Coand? (Bucareste),Aeroporto Internacional de Natal,Aeroporto Internacional de Porto Alegre,11422,246.0921818181818
+Rio Grande do Sul,Aeroporto Internacional de Taiwan Taoyuan,Aeroporto Internacional de Natal,Aeroporto Internacional de Porto Alegre,19885,428.43136363636364
+Rio Grande do Sul,Aeroporto Internacional de Pequim Capital,Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Porto Alegre,18469,397.923
+Rio Grande do Sul,Aeroporto Internacional de Changi,Aeroporto Internacional do Recife,Aeroporto Internacional de Porto Alegre,18376,395.9192727272727
+Rio Grande do Sul,Aeroporto Internacional de Budapeste Ferenc Liszt,Aeroporto Internacional de Natal,Aeroporto Internacional de Porto Alegre,11102,239.19763636363635
+Rio Grande do Sul,Aeroporto Internacional de Xangai Pudong,Aeroporto Internacional de Natal,Aeroporto Internacional de Porto Alegre,19484,419.79163636363637
+Rio Grande do Sul,Aeroporto Internacional Ninoy Aquino,Aeroporto Internacional de Natal,Aeroporto Internacional de Porto Alegre,20420,439.9581818181818
+Rio Grande do Sul,Aeroporto de Frankfurt,Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Porto Alegre,10664,229.76072727272725
+Rio Grande do Sul,Aeroporto de Barcelona-El Prat (Espanha),Aeroporto Internacional de Natal,Aeroporto Internacional de Porto Alegre,9607,206.98718181818182
+Rio Grande do Sul,Aeroporto Internacional de Narita (Tóquio),Aeroporto Internacional de São Luís,Aeroporto Internacional de Porto Alegre,19421,418.4342727272727
+Rio Grande do Sul,Aeroporto de Helsinque,Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Porto Alegre,12146,261.6910909090909
+Rio Grande do Sul,Aeroporto Francisco Sá Carneiro (Porto),Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Porto Alegre,9027,194.49081818181818
+Rio Grande do Sul,Aeroporto Internacional de Incheon,Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Porto Alegre,19168,412.9832727272727
+Rio Grande do Sul,Aeroporto Internacional de Viena,Aeroporto Internacional de Natal,Aeroporto Internacional de Porto Alegre,10973,236.41827272727272
+Rio Grande do Sul,Aeroporto Internacional de Haneda (Tóquio),Aeroporto Internacional de São Luís,Aeroporto Internacional de Porto Alegre,19452,419.1021818181818
+Rio Grande do Sul,Aeroporto Internacional Don Mueang,Aeroporto Internacional de Natal,Aeroporto Internacional de Porto Alegre,18276,393.76472727272727
+Rio Grande do Sul,Aeroporto de Praga,Aeroporto Internacional de Natal,Aeroporto Internacional de Porto Alegre,10962,236.18127272727273
+Rio Grande do Sul,Aeroporto de Dublin,Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Porto Alegre,10211,220.00063636363635
+Rio Grande do Sul,Aeroporto de Roma-Fiumicino,Aeroporto Internacional de Natal,Aeroporto Internacional de Porto Alegre,10294,221.7889090909091
+Rio Grande do Sul,Aeroporto Internacional de Penang (Penang),Aeroporto Internacional do Recife,Aeroporto Internacional de Porto Alegre,18032,388.5076363636364
+Rio Grande do Sul,Aeroporto Internacional Indira Gandhi,Aeroporto Internacional de Natal,Aeroporto Internacional de Porto Alegre,15662,337.4449090909091
+Rio Grande do Sul,Aeroporto Internacional Soekarno-Hatta (Jacarta),Aeroporto Internacional do Recife,Aeroporto Internacional de Porto Alegre,18442,397.3412727272727
+Rio Grande do Sul,Aeroporto de Bruxelas,Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Porto Alegre,10502,226.27036363636364
+Rio Grande do Sul,Aeroporto de Estocolmo-Arlanda,Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Porto Alegre,11764,253.46072727272727
+Rio Grande do Sul,Aeroporto Internacional de Kuala Lumpur (Sepang),Aeroporto Internacional do Recife,Aeroporto Internacional de Porto Alegre,18152,391.0930909090909
+Rio Grande do Sul,Aeroporto de Zurique,Aeroporto Internacional de Natal,Aeroporto Internacional de Porto Alegre,10451,225.17154545454545
+Rio Grande do Sul,Aeroporto Internacional Ngurah Rai (Bali),Aeroporto Internacional do Recife,Aeroporto Internacional de Porto Alegre,19179,413.2202727272727
+Rio Grande do Sul,Aeroporto de Schiphol (Amsterdã),Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Porto Alegre,10621,228.83427272727275
+Santa Catarina,Aeroporto de Oslo-Gardermoen,Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Navegantes,11070,238.5081818181818
+Santa Catarina,Aeroporto Internacional de Kansai (Osaka),Aeroporto Internacional de São Luís,Aeroporto Internacional de Navegantes,19211,413.9097272727273
+Santa Catarina,Aeroporto de Heathrow (Londres),Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Navegantes,9884,212.95527272727273
+Santa Catarina,Aeroporto de Milão-Malpensa,Aeroporto Internacional de Natal,Aeroporto Internacional de Navegantes,9909,213.49390909090909
+Santa Catarina,Aeroporto de Gatwick (Londres),Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Navegantes,9870,212.65363636363637
+Santa Catarina,Aeroporto Adolfo Suárez Madrid-Barajas,Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Navegantes,8837,190.39718181818182
+Santa Catarina,Aeroporto de Toulouse-Blagnac (França),Aeroporto Internacional de Natal,Aeroporto Internacional de Navegantes,9333,201.08372727272726
+Santa Catarina,Aeroporto de Bruxelas,Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Navegantes,10087,217.329
+Santa Catarina,Aeroporto de Varsóvia Chopin,Aeroporto Internacional de Natal,Aeroporto Internacional de Navegantes,11060,238.29272727272726
+Santa Catarina,Aeroporto Internacional de Taiwan Taoyuan,Aeroporto Internacional de Natal,Aeroporto Internacional de Navegantes,19465,419.3822727272727
+Santa Catarina,Aeroporto Internacional de Pequim Capital,Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Navegantes,18054,388.98163636363637
+Santa Catarina,Aeroporto Internacional Indira Gandhi,Aeroporto Internacional de Natal,Aeroporto Internacional de Navegantes,15242,328.3958181818182
+Santa Catarina,Aeroporto Internacional de Pyongyang Sunan,Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Navegantes,18547,399.6035454545455
+Santa Catarina,Aeroporto Internacional de Changi,Aeroporto Internacional do Recife,Aeroporto Internacional de Navegantes,17955,386.84863636363633
+Santa Catarina,Aeroporto Internacional de Budapeste Ferenc Liszt,Aeroporto Internacional de Natal,Aeroporto Internacional de Navegantes,10682,230.14854545454543
+Santa Catarina,Aeroporto de Estocolmo-Arlanda,Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Navegantes,11349,244.51936363636364
+Santa Catarina,Aeroporto Internacional de Xangai Pudong,Aeroporto Internacional de Natal,Aeroporto Internacional de Navegantes,19064,410.74254545454545
+Santa Catarina,Aeroporto Internacional de Kuala Lumpur (Sepang),Aeroporto Internacional do Recife,Aeroporto Internacional de Navegantes,17731,382.02245454545454
+Santa Catarina,Aeroporto de Schiphol (Amsterdã),Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Navegantes,10206,219.8929090909091
+Santa Catarina,Aeroporto de Roma-Fiumicino,Aeroporto Internacional de Natal,Aeroporto Internacional de Navegantes,9874,212.73981818181818
+Santa Catarina,Aeroporto de Frankfurt,Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Navegantes,10249,220.81936363636365
+Santa Catarina,Aeroporto de Barcelona-El Prat (Espanha),Aeroporto Internacional de Natal,Aeroporto Internacional de Navegantes,9187,197.9380909090909
+Santa Catarina,Aeroporto Internacional de Narita (Tóquio),Aeroporto Internacional de São Luís,Aeroporto Internacional de Navegantes,19034,410.09618181818183
+Santa Catarina,Aeroporto de Helsinque,Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Navegantes,11731,252.74972727272726
+Santa Catarina,Aeroporto Internacional de Incheon,Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Navegantes,18753,404.04190909090914
+Santa Catarina,Aeroporto Internacional de Haneda (Tóquio),Aeroporto Internacional de São Luís,Aeroporto Internacional de Navegantes,19065,410.7640909090909
+Santa Catarina,Aeroporto Internacional de Viena,Aeroporto Internacional de Natal,Aeroporto Internacional de Navegantes,10553,227.36918181818183
+Santa Catarina,Aeroporto de Praga,Aeroporto Internacional de Natal,Aeroporto Internacional de Navegantes,10542,227.13218181818183
+Santa Catarina,Aeroporto de Dublin,Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Navegantes,9796,211.05927272727274
+Santa Catarina,Aeroporto de Zurique,Aeroporto Internacional de Natal,Aeroporto Internacional de Navegantes,10031,216.12245454545456
+Santa Catarina,Aeroporto Internacional de Penang (Penang),Aeroporto Internacional do Recife,Aeroporto Internacional de Navegantes,17611,379.437
+Santa Catarina,Aeroporto Internacional de Suvarnabhumi,Aeroporto Internacional de Natal,Aeroporto Internacional de Navegantes,17874,385.10345454545455
+Santa Catarina,Aeroporto Internacional de Hong Kong,Aeroporto Internacional de Natal,Aeroporto Internacional de Navegantes,18980,408.9327272727273
+Santa Catarina,Aeroporto Humberto Delgado (Lisboa),Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Navegantes,8374,180.42163636363637
+Santa Catarina,Aeroporto Francisco Sá Carneiro (Porto),Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Navegantes,8612,185.54945454545455
+Santa Catarina,Aeroporto Internacional Henri Coand? (Bucareste),Aeroporto Internacional de Natal,Aeroporto Internacional de Navegantes,11002,237.04309090909092
+Santa Catarina,Aeroporto de Luxemburgo,Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Navegantes,10088,217.35054545454545
+Santa Catarina,Aeroporto Internacional Don Mueang,Aeroporto Internacional de Natal,Aeroporto Internacional de Navegantes,17856,384.71563636363635
+Santa Catarina,Aeroporto de Ljubljana Joe Pu?nik,Aeroporto Internacional de Natal,Aeroporto Internacional de Navegantes,10302,221.96127272727273
+São Paulo,Aeroporto de Oslo-Gardermoen,Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Guarulhos,10629,229.00663636363635
+São Paulo,Aeroporto Internacional de Suvarnabhumi,Aeroporto Internacional de Natal,Aeroporto Internacional de Guarulhos,17430,375.5372727272727
+São Paulo,Aeroporto de Zurique,Aeroporto Internacional de Natal,Aeroporto Internacional de Guarulhos,9587,206.55627272727273
+São Paulo,Aeroporto Internacional de Kansai (Osaka),Aeroporto Internacional de São Luís,Aeroporto Internacional de Guarulhos,18796,404.9683636363636
+São Paulo,Aeroporto de Heathrow (Londres),Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Guarulhos,9443,203.45372727272726
+São Paulo,Aeroporto de Milão-Malpensa,Aeroporto Internacional de Natal,Aeroporto Internacional de Guarulhos,9465,203.92772727272725
+São Paulo,Aeroporto de Gatwick (Londres),Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Guarulhos,9429,203.1520909090909
+São Paulo,Aeroporto Adolfo Suárez Madrid-Barajas,Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Guarulhos,8396,180.89563636363636
+São Paulo,Aeroporto de Toulouse-Blagnac (França),Aeroporto Internacional de Natal,Aeroporto Internacional de Guarulhos,8889,191.51754545454543
+São Paulo,Aeroporto Internacional de Penang (Penang),Aeroporto Internacional do Recife,Aeroporto Internacional de Guarulhos,17171,369.957
+São Paulo,Aeroporto de Bruxelas,Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Guarulhos,9646,207.82745454545457
+São Paulo,Aeroporto Internacional Soekarno-Hatta (Jacarta),Aeroporto Internacional do Recife,Aeroporto Internacional de Guarulhos,17581,378.79063636363634
+São Paulo,Aeroporto Internacional de Taiwan Taoyuan,Aeroporto Internacional de Natal,Aeroporto Internacional de Guarulhos,19021,409.81609090909086
+São Paulo,Aeroporto Internacional de Pequim Capital,Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Guarulhos,17613,379.4800909090909
+São Paulo,Aeroporto Internacional Indira Gandhi,Aeroporto Internacional de Natal,Aeroporto Internacional de Guarulhos,14798,318.8296363636363
+São Paulo,Aeroporto Internacional de Changi,Aeroporto Internacional do Recife,Aeroporto Internacional de Guarulhos,17515,377.36863636363637
+São Paulo,Aeroporto Internacional de Xangai Pudong,Aeroporto Internacional de Natal,Aeroporto Internacional de Guarulhos,18620,401.17636363636365
+São Paulo,Aeroporto Internacional de Kuala Lumpur (Sepang),Aeroporto Internacional do Recife,Aeroporto Internacional de Guarulhos,17291,372.5424545454545
+São Paulo,Aeroporto de Schiphol (Amsterdã),Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Guarulhos,9765,210.39136363636365
+São Paulo,Aeroporto de Frankfurt,Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Guarulhos,9808,211.31781818181818
+São Paulo,Aeroporto de Barcelona-El Prat (Espanha),Aeroporto Internacional de Natal,Aeroporto Internacional de Guarulhos,8743,188.3719090909091
+São Paulo,Aeroporto Internacional de Narita (Tóquio),Aeroporto Internacional de São Luís,Aeroporto Internacional de Guarulhos,18619,401.1548181818182
+São Paulo,Aeroporto Internacional de Incheon,Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Guarulhos,18312,394.5403636363636
+São Paulo,Aeroporto Internacional de Haneda (Tóquio),Aeroporto Internacional de São Luís,Aeroporto Internacional de Guarulhos,18650,401.8227272727273
+São Paulo,Aeroporto Internacional de Viena,Aeroporto Internacional de Natal,Aeroporto Internacional de Guarulhos,10109,217.803
+São Paulo,Aeroporto Internacional Don Mueang,Aeroporto Internacional de Natal,Aeroporto Internacional de Guarulhos,17412,375.14945454545455
+São Paulo,Aeroporto de Praga,Aeroporto Internacional de Natal,Aeroporto Internacional de Guarulhos,10098,217.566
+São Paulo,Aeroporto de Dublin,Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Guarulhos,9355,201.55772727272728
+São Paulo,Aeroporto de Roma-Fiumicino,Aeroporto Internacional de Natal,Aeroporto Internacional de Guarulhos,9430,203.17363636363635
+São Paulo,Aeroporto Internacional Ngurah Rai (Bali),Aeroporto Internacional do Recife,Aeroporto Internacional de Guarulhos,18318,394.66963636363636
+São Paulo,Aeroporto Internacional de Boryspil (Kiev),Aeroporto Internacional de Natal,Aeroporto Internacional de Guarulhos,11145,240.1240909090909
+São Paulo,Aeroporto Internacional de Noi Bai,Aeroporto Internacional de Natal,Aeroporto Internacional de Guarulhos,17795,383.40136363636367
+São Paulo,Aeroporto Humberto Delgado (Lisboa),Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Guarulhos,7933,170.9200909090909
+São Paulo,Aeroporto de Bratislava,Aeroporto Internacional de Natal,Aeroporto Internacional de Guarulhos,10153,218.751
+São Paulo,Aeroporto Internacional de Nursultan Nazarbayev,Aeroporto Internacional de Natal,Aeroporto Internacional de Guarulhos,13967,300.92536363636367
+São Paulo,Aeroporto de Ljubljana Joe Pu?nik,Aeroporto Internacional de Natal,Aeroporto Internacional de Guarulhos,9858,212.39509090909092
+São Paulo,Aeroporto de Toulouse-Blagnac (França),Aeroporto Internacional de Natal,Aeroporto Internacional de Guarulhos,8889,191.51754545454543
+São Paulo,Aeroporto Internacional de Hong Kong,Aeroporto Internacional de Natal,Aeroporto Internacional de Guarulhos,18536,399.3665454545455
+São Paulo,Aeroporto de Pulkovo (São Petersburgo),Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Guarulhos,11540,248.63454545454545
+São Paulo,Aeroporto Internacional Henri Coand? (Bucareste),Aeroporto Internacional de Natal,Aeroporto Internacional de Guarulhos,10558,227.4769090909091
+São Paulo,Aeroporto de Luxemburgo,Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Guarulhos,9647,207.849
+São Paulo,Aeroporto Internacional de Tan Son Nhat,Aeroporto Internacional de Natal,Aeroporto Internacional de Guarulhos,18100,389.9727272727273
+São Paulo,Aeroporto Internacional de Pyongyang Sunan,Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Guarulhos,18106,390.102
+São Paulo,Aeroporto de Sófia,Aeroporto Internacional de Natal,Aeroporto Internacional de Guarulhos,10271,221.29336363636364
+São Paulo,Aeroporto Internacional de Budapeste Ferenc Liszt,Aeroporto Internacional de Natal,Aeroporto Internacional de Guarulhos,10238,220.58236363636365
+São Paulo,Aeroporto de Estocolmo-Arlanda,Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Guarulhos,10908,235.01781818181817
+São Paulo,Aeroporto Internacional de Malé,Aeroporto Internacional do Recife,Aeroporto Internacional de Guarulhos,14209,306.13936363636367
+São Paulo,Aeroporto Internacional de Wattay (Vientiane),Aeroporto Internacional de Natal,Aeroporto Internacional de Guarulhos,17551,378.1442727272727
+São Paulo,Aeroporto Internacional Ninoy Aquino,Aeroporto Internacional de Natal,Aeroporto Internacional de Guarulhos,19556,421.34290909090913
+São Paulo,Aeroporto de Tallinn,Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Guarulhos,11239,242.14936363636366
+São Paulo,Aeroporto de Barcelona-El Prat (Espanha),Aeroporto Internacional de Natal,Aeroporto Internacional de Guarulhos,8743,188.3719090909091
+São Paulo,Aeroporto Internacional de Riga,Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Guarulhos,11077,238.659
+São Paulo,Aeroporto de Helsinque,Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Guarulhos,11290,243.24818181818182
+São Paulo,Aeroporto Francisco Sá Carneiro (Porto),Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Guarulhos,8171,176.0479090909091
+São Paulo,Aeroporto Internacional Sheremetyevo (Moscou),Aeroporto Internacional de Natal,Aeroporto Internacional de Guarulhos,11768,253.54690909090908
+São Paulo,Aeroporto de Varsóvia Chopin,Aeroporto Internacional de Natal,Aeroporto Internacional de Guarulhos,10616,228.72654545454543
+São Paulo,Aeroporto Internacional de Malta,Aeroporto Internacional de Natal,Aeroporto Internacional de Guarulhos,9232,198.90763636363636
+São Paulo,Aeroporto Internacional Madre Teresa (Tirana),Aeroporto Internacional de Natal,Aeroporto Internacional de Guarulhos,9936,214.07563636363636
+Sergipe,Aeroporto de Frankfurt,Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Aracaju,8280,178.39636363636365
+Sergipe,Aeroporto Internacional de Penang (Penang),Aeroporto Internacional do Recife,Aeroporto Internacional de Aracaju,15467,333.2435454545455
+Sergipe,Aeroporto Internacional de Suvarnabhumi,Aeroporto Internacional de Natal,Aeroporto Internacional de Aracaju,15742,339.1685454545455
+Sergipe,Aeroporto Internacional de Kansai (Osaka),Aeroporto Internacional de São Luís,Aeroporto Internacional de Aracaju,17694,381.2252727272727
+Sergipe,Aeroporto Internacional de Narita (Tóquio),Aeroporto Internacional de São Luís,Aeroporto Internacional de Aracaju,17517,377.4117272727273
+Sergipe,Aeroporto Internacional de Budapeste Ferenc Liszt,Aeroporto Internacional de Natal,Aeroporto Internacional de Aracaju,8550,184.21363636363634
+Sergipe,Aeroporto Internacional de Haneda (Tóquio),Aeroporto Internacional de São Luís,Aeroporto Internacional de Aracaju,17548,378.0796363636363
+Sergipe,Aeroporto Internacional Don Mueang,Aeroporto Internacional de Natal,Aeroporto Internacional de Aracaju,15724,338.7807272727273
+Sergipe,Aeroporto Internacional de Kuala Lumpur (Sepang),Aeroporto Internacional do Recife,Aeroporto Internacional de Aracaju,15587,335.829
