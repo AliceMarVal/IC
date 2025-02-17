@@ -1,459 +1,516 @@
 Estado,Origem,Distância original carga,Emissão original carga,Distância hub carga,Emissão hub carga,Distância original comercial,Emissão original comercial,Distância hub comercial,Emissão hub comercial
 Alagoas,Aeroporto Adolfo Suárez Madrid-Barajas,6407,138,6718,144,6407,102,6407,102
 Amazonas,Aeroporto Adolfo Suárez Madrid-Barajas,7484,161,8452,182,7484,119,8070,128
-Distrito Federal,Aeroporto Adolfo Suárez Madrid-Barajas,7742,166,7747,166,7742,123,7747,123
+Bahia,Aeroporto Adolfo Suárez Madrid-Barajas,6915,148,7070,152,6915,110,6919,110
+Ceará,Aeroporto Adolfo Suárez Madrid-Barajas,6059,130,6486,139,6059,96,6486,103
 Espírito Santo,Aeroporto Adolfo Suárez Madrid-Barajas,7726,166,7892,170,7726,123,7733,123
 Minas Gerais,Aeroporto Adolfo Suárez Madrid-Barajas,7821,168,7885,169,7821,124,7820,124
 Paraná,Aeroporto Adolfo Suárez Madrid-Barajas,8674,186,8695,187,8674,138,8678,138
 Pará,Aeroporto Adolfo Suárez Madrid-Barajas,6494,139,7197,155,6494,103,6802,108
+Pernambuco,Aeroporto Adolfo Suárez Madrid-Barajas,6271,135,6684,144,6271,99,6324,100
+Rio Grande do Norte,Aeroporto Adolfo Suárez Madrid-Barajas,6061,130,6484,139,6061,96,6484,103
 Rio Grande do Sul,Aeroporto Adolfo Suárez Madrid-Barajas,9219,198,9252,199,9219,146,9219,146
 Rio de Janeiro,Aeroporto Adolfo Suárez Madrid-Barajas,8123,175,8225,177,8123,129,8124,129
 Santa Catarina,Aeroporto Adolfo Suárez Madrid-Barajas,8799,189,8837,190,8799,140,8799,140
-São Paulo,Aeroporto Adolfo Suárez Madrid-Barajas,8363,180,8396,180,8363,133,8355,133
-Distrito Federal,Aeroporto Francisco Sá Carneiro (Porto),8851,190,7522,162,8851,141,7522,119
+São Paulo,Aeroporto Adolfo Suárez Madrid-Barajas,8436,181,8431,181,8436,134,8417,134
+Ceará,Aeroporto Francisco Sá Carneiro (Porto),5834,125,6293,135,5834,92,6293,100
 Espírito Santo,Aeroporto Francisco Sá Carneiro (Porto),8884,191,7667,165,8884,141,7551,120
-Goiás,Aeroporto Francisco Sá Carneiro (Porto),7505,161,7522,162,7505,119,7522,119
 Minas Gerais,Aeroporto Francisco Sá Carneiro (Porto),8292,178,7660,165,8292,132,7627,121
 Paraná,Aeroporto Francisco Sá Carneiro (Porto),8465,182,8470,182,8465,134,8470,134
 Rio Grande do Sul,Aeroporto Francisco Sá Carneiro (Porto),9017,194,9027,194,9017,143,9026,143
 Rio de Janeiro,Aeroporto Francisco Sá Carneiro (Porto),7939,171,8000,172,7939,126,7939,126
 Santa Catarina,Aeroporto Francisco Sá Carneiro (Porto),8598,185,8612,185,8598,137,8606,137
-São Paulo,Aeroporto Francisco Sá Carneiro (Porto),8154,175,8171,176,8154,129,8162,130
-Distrito Federal,Aeroporto Humberto Delgado (Lisboa),8600,185,7284,156,8600,137,7284,116
+São Paulo,Aeroporto Francisco Sá Carneiro (Porto),8154,175,8206,176,8154,129,8224,131
+Ceará,Aeroporto Humberto Delgado (Lisboa),5596,120,6045,130,5596,89,6045,96
 Espírito Santo,Aeroporto Humberto Delgado (Lisboa),8639,186,7429,160,8639,137,7299,116
-Goiás,Aeroporto Humberto Delgado (Lisboa),7273,156,7284,156,7273,115,7284,116
 Minas Gerais,Aeroporto Humberto Delgado (Lisboa),8041,173,7422,159,8041,128,7379,117
 Paraná,Aeroporto Humberto Delgado (Lisboa),8223,177,8232,177,8223,131,8232,131
 Rio Grande do Sul,Aeroporto Humberto Delgado (Lisboa),8773,189,8789,189,8773,139,8778,139
 Rio de Janeiro,Aeroporto Humberto Delgado (Lisboa),7688,165,7762,167,7688,122,7690,122
 Santa Catarina,Aeroporto Humberto Delgado (Lisboa),8353,179,8374,180,8353,133,8358,133
-São Paulo,Aeroporto Humberto Delgado (Lisboa),7909,170,7933,170,7909,126,7914,126
+São Paulo,Aeroporto Humberto Delgado (Lisboa),7909,170,7968,171,7909,126,7976,127
 Amapá,Aeroporto Internacional Don Mueang,16548,356,16989,366,16548,263,16783,267
 Amazonas,Aeroporto Internacional Don Mueang,17585,378,17886,385,17585,280,17728,282
+Bahia,Aeroporto Internacional Don Mueang,15592,335,15976,344,15592,248,15788,251
 Espírito Santo,Aeroporto Internacional Don Mueang,15822,340,16810,362,15822,252,16431,261
-Goiás,Aeroporto Internacional Don Mueang,16645,358,16896,364,16645,265,16678,265
 Minas Gerais,Aeroporto Internacional Don Mueang,16135,347,16877,363,16135,257,16501,262
 Paraná,Aeroporto Internacional Don Mueang,16630,358,17735,382,16630,265,17370,276
 Rio Grande do Sul,Aeroporto Internacional Don Mueang,16624,358,18276,393,16624,264,17901,285
 Rio de Janeiro,Aeroporto Internacional Don Mueang,16097,346,17189,370,16097,256,16805,267
 Santa Catarina,Aeroporto Internacional Don Mueang,16488,355,17856,384,16488,262,17480,278
 Sergipe,Aeroporto Internacional Don Mueang,17565,378,15724,338,17565,279,15531,247
-São Paulo,Aeroporto Internacional Don Mueang,16435,354,17412,375,16435,261,17040,271
+São Paulo,Aeroporto Internacional Don Mueang,16575,357,17474,376,16575,264,17113,272
 Minas Gerais,Aeroporto Internacional Henri Coand? (Bucareste),9987,215,10023,215,9987,159,9992,159
 Rio Grande do Sul,Aeroporto Internacional Henri Coand? (Bucareste),11389,245,11422,246,11389,181,11392,181
 Rio de Janeiro,Aeroporto Internacional Henri Coand? (Bucareste),10250,220,10335,222,10250,163,10291,163
 Santa Catarina,Aeroporto Internacional Henri Coand? (Bucareste),10969,236,11002,237,10969,174,10971,174
-São Paulo,Aeroporto Internacional Henri Coand? (Bucareste),10525,226,10558,227,10525,167,10531,167
+São Paulo,Aeroporto Internacional Henri Coand? (Bucareste),10525,226,10620,228,10525,167,10604,168
 Amazonas,Aeroporto Internacional Indira Gandhi,14684,316,15272,329,14684,234,14953,238
-Distrito Federal,Aeroporto Internacional Indira Gandhi,14242,306,14282,307,14242,226,14249,227
 Espírito Santo,Aeroporto Internacional Indira Gandhi,13682,294,14196,305,13682,218,14004,223
-Goiás,Aeroporto Internacional Indira Gandhi,15254,328,14282,307,15254,243,14249,227
 Minas Gerais,Aeroporto Internacional Indira Gandhi,15155,326,14263,307,15155,241,14074,224
 Paraná,Aeroporto Internacional Indira Gandhi,14795,318,15121,325,14795,235,14943,238
+Pernambuco,Aeroporto Internacional Indira Gandhi,12594,271,12767,275,12594,200,12767,203
 Rio Grande do Sul,Aeroporto Internacional Indira Gandhi,15043,324,15662,337,15043,239,15474,246
 Rio de Janeiro,Aeroporto Internacional Indira Gandhi,14068,303,14575,314,14068,224,14378,229
 Santa Catarina,Aeroporto Internacional Indira Gandhi,14736,317,15242,328,14736,234,15053,239
-São Paulo,Aeroporto Internacional Indira Gandhi,14403,310,14798,318,14403,229,14613,232
-São Paulo,Aeroporto Internacional Madre Teresa (Tirana),9899,213,9936,214,9899,157,9907,157
+São Paulo,Aeroporto Internacional Indira Gandhi,14403,310,14860,320,14403,229,14686,234
+São Paulo,Aeroporto Internacional Madre Teresa (Tirana),9899,213,9998,215,9899,157,9980,159
 Amazonas,Aeroporto Internacional Ngurah Rai (Bali),18601,400,19062,410,18601,296,18868,300
 Espírito Santo,Aeroporto Internacional Ngurah Rai (Bali),15832,341,17685,381,15832,252,17078,272
 Rio Grande do Sul,Aeroporto Internacional Ngurah Rai (Bali),15478,333,19179,413,15478,246,18548,295
-São Paulo,Aeroporto Internacional Ngurah Rai (Bali),15929,343,18318,394,15929,253,17687,281
+São Paulo,Aeroporto Internacional Ngurah Rai (Bali),15929,343,18390,396,15929,253,17760,283
 Amazonas,Aeroporto Internacional Ninoy Aquino,18730,403,20030,431,18730,298,19694,313
-Distrito Federal,Aeroporto Internacional Ninoy Aquino,18838,405,19040,410,18838,300,18881,300
 Espírito Santo,Aeroporto Internacional Ninoy Aquino,17948,386,18954,408,17948,286,18634,296
 Minas Gerais,Aeroporto Internacional Ninoy Aquino,18264,393,19021,409,18264,291,18704,298
 Paraná,Aeroporto Internacional Ninoy Aquino,18446,397,19879,428,18446,293,19573,311
 Rio Grande do Sul,Aeroporto Internacional Ninoy Aquino,18116,390,20420,439,18116,288,20104,320
 Rio de Janeiro,Aeroporto Internacional Ninoy Aquino,18131,390,19333,416,18131,288,19008,302
-São Paulo,Aeroporto Internacional Ninoy Aquino,18378,395,19556,421,18378,292,19243,306
+São Paulo,Aeroporto Internacional Ninoy Aquino,18378,395,19618,422,18378,292,19316,307
 Minas Gerais,Aeroporto Internacional Sheremetyevo (Moscou),11229,241,11233,242,11229,178,11229,178
-São Paulo,Aeroporto Internacional Sheremetyevo (Moscou),11767,253,11768,253,11767,187,11768,187
+São Paulo,Aeroporto Internacional Sheremetyevo (Moscou),11767,253,11830,254,11767,187,11840,188
 Amazonas,Aeroporto Internacional Soekarno-Hatta (Jacarta),18234,392,18325,394,18234,290,18250,290
 Espírito Santo,Aeroporto Internacional Soekarno-Hatta (Jacarta),15376,331,16948,365,15376,245,16460,262
 Rio Grande do Sul,Aeroporto Internacional Soekarno-Hatta (Jacarta),15366,331,18442,397,15366,244,17930,285
-São Paulo,Aeroporto Internacional Soekarno-Hatta (Jacarta),15633,336,17581,378,15633,249,17069,272
+São Paulo,Aeroporto Internacional Soekarno-Hatta (Jacarta),15633,336,17653,380,15633,249,17142,273
 Paraná,Aeroporto Internacional de Boryspil (Kiev),11464,247,11468,247,11464,182,11464,182
-São Paulo,Aeroporto Internacional de Boryspil (Kiev),11205,241,11145,240,11205,178,11134,177
+São Paulo,Aeroporto Internacional de Boryspil (Kiev),11205,241,11207,241,11205,178,11207,178
 Amazonas,Aeroporto Internacional de Budapeste Ferenc Liszt,9454,203,10712,230,9454,150,10030,159
-Distrito Federal,Aeroporto Internacional de Budapeste Ferenc Liszt,9670,208,9722,209,9670,154,9670,154
+Bahia,Aeroporto Internacional de Budapeste Ferenc Liszt,8783,189,8802,189,8783,139,8783,139
+Ceará,Aeroporto Internacional de Budapeste Ferenc Liszt,7982,171,8369,180,7982,127,8369,133
 Espírito Santo,Aeroporto Internacional de Budapeste Ferenc Liszt,9565,206,9636,207,9565,152,9597,152
-Goiás,Aeroporto Internacional de Budapeste Ferenc Liszt,11109,239,9722,209,11109,177,9670,154
-Mato Grosso,Aeroporto Internacional de Budapeste Ferenc Liszt,10236,220,10501,226,10236,163,10239,163
+Maranhão,Aeroporto Internacional de Budapeste Ferenc Liszt,12612,271,9000,193,12612,200,8629,137
 Minas Gerais,Aeroporto Internacional de Budapeste Ferenc Liszt,9692,208,9703,209,9692,154,9692,154
 Paraná,Aeroporto Internacional de Budapeste Ferenc Liszt,10559,227,10561,227,10559,168,10560,168
 Pará,Aeroporto Internacional de Budapeste Ferenc Liszt,12679,273,9491,204,12679,202,8762,139
+Pernambuco,Aeroporto Internacional de Budapeste Ferenc Liszt,8135,175,8207,176,8135,129,8207,130
 Rio Grande do Sul,Aeroporto Internacional de Budapeste Ferenc Liszt,11089,238,11102,239,11089,176,11091,176
 Rio de Janeiro,Aeroporto Internacional de Budapeste Ferenc Liszt,9974,214,10015,215,9974,158,9988,159
 Santa Catarina,Aeroporto Internacional de Budapeste Ferenc Liszt,10674,229,10682,230,10674,170,10670,170
 Sergipe,Aeroporto Internacional de Budapeste Ferenc Liszt,9040,194,8550,184,9040,144,8526,135
-São Paulo,Aeroporto Internacional de Budapeste Ferenc Liszt,10230,220,10238,220,10230,163,10230,163
+São Paulo,Aeroporto Internacional de Budapeste Ferenc Liszt,10315,222,10300,221,10315,164,10302,164
 Amazonas,Aeroporto Internacional de Changi,18252,393,18259,393,18252,290,18252,290
-Distrito Federal,Aeroporto Internacional de Changi,16555,356,17075,367,16555,263,16774,267
+Bahia,Aeroporto Internacional de Changi,15688,338,16068,346,15688,250,16068,256
+Ceará,Aeroporto Internacional de Changi,15861,341,16045,345,15861,252,15909,253
 Espírito Santo,Aeroporto Internacional de Changi,15617,336,16882,363,15617,248,16527,263
-Goiás,Aeroporto Internacional de Changi,16555,356,17075,367,16555,263,16774,267
 Minas Gerais,Aeroporto Internacional de Changi,15927,343,16977,365,15927,253,16597,264
 Rio Grande do Sul,Aeroporto Internacional de Changi,15900,342,18376,395,15900,253,17997,286
 Rio de Janeiro,Aeroporto Internacional de Changi,15763,339,17273,372,15763,251,16901,269
 Santa Catarina,Aeroporto Internacional de Changi,15891,342,17955,386,15891,253,17576,280
-São Paulo,Aeroporto Internacional de Changi,16009,344,17515,377,16009,255,17136,273
+São Paulo,Aeroporto Internacional de Changi,16009,344,17587,378,16009,255,17209,274
 Amapá,Aeroporto Internacional de Haneda (Tóquio),15908,342,17147,369,15908,253,17147,273
 Amazonas,Aeroporto Internacional de Haneda (Tóquio),15553,335,18092,389,15553,247,18092,288
-Distrito Federal,Aeroporto Internacional de Haneda (Tóquio),17695,381,17856,384,17695,281,17856,284
+Bahia,Aeroporto Internacional de Haneda (Tóquio),17489,376,17645,380,17489,278,17492,278
+Ceará,Aeroporto Internacional de Haneda (Tóquio),16481,355,16979,365,16481,262,16979,270
 Espírito Santo,Aeroporto Internacional de Haneda (Tóquio),18309,394,18332,394,18309,291,18314,291
-Goiás,Aeroporto Internacional de Haneda (Tóquio),18862,406,17856,384,18862,300,17856,284
 Minas Gerais,Aeroporto Internacional de Haneda (Tóquio),18214,392,18219,392,18214,290,18219,290
 Paraná,Aeroporto Internacional de Haneda (Tóquio),18584,400,18895,407,18584,296,18895,301
 Pará,Aeroporto Internacional de Haneda (Tóquio),16127,347,16824,362,16127,256,16824,268
+Pernambuco,Aeroporto Internacional de Haneda (Tóquio),16920,364,17531,377,16920,269,16931,269
 Rio Grande do Sul,Aeroporto Internacional de Haneda (Tóquio),18825,405,19452,419,18825,299,19452,309
 Rio de Janeiro,Aeroporto Internacional de Haneda (Tóquio),18562,399,18571,400,18562,295,18571,295
 Santa Catarina,Aeroporto Internacional de Haneda (Tóquio),18775,404,19065,410,18775,299,19065,303
 Sergipe,Aeroporto Internacional de Haneda (Tóquio),17260,371,17548,378,17260,275,17274,275
-São Paulo,Aeroporto Internacional de Haneda (Tóquio),18451,397,18650,401,18451,294,18650,297
+São Paulo,Aeroporto Internacional de Haneda (Tóquio),18451,397,18645,401,18451,294,18645,297
 Alagoas,Aeroporto Internacional de Hong Kong,19979,430,16607,357,19979,318,16479,262
 Amazonas,Aeroporto Internacional de Hong Kong,17777,383,19010,409,17777,283,18565,295
-Distrito Federal,Aeroporto Internacional de Hong Kong,17993,387,18020,388,17993,286,17998,286
+Bahia,Aeroporto Internacional de Hong Kong,16913,364,17100,368,16913,269,16991,270
+Ceará,Aeroporto Internacional de Hong Kong,16414,353,16667,359,16414,261,16667,265
 Espírito Santo,Aeroporto Internacional de Hong Kong,17349,373,17934,386,17349,276,17752,282
-Goiás,Aeroporto Internacional de Hong Kong,17993,387,18020,388,17993,286,17998,286
 Minas Gerais,Aeroporto Internacional de Hong Kong,17641,380,18001,387,17641,281,17822,284
 Paraná,Aeroporto Internacional de Hong Kong,18278,393,18859,406,18278,291,18691,297
 Pará,Aeroporto Internacional de Hong Kong,20467,440,17789,383,20467,326,17297,275
+Pernambuco,Aeroporto Internacional de Hong Kong,16343,352,16505,355,16343,260,16505,263
 Rio Grande do Sul,Aeroporto Internacional de Hong Kong,18882,406,19400,417,18882,300,19222,306
 Rio de Janeiro,Aeroporto Internacional de Hong Kong,17685,381,18313,394,17685,281,18126,288
 Santa Catarina,Aeroporto Internacional de Hong Kong,18195,392,18980,408,18195,289,18801,299
-São Paulo,Aeroporto Internacional de Hong Kong,18018,388,18536,399,18018,287,18361,292
+São Paulo,Aeroporto Internacional de Hong Kong,18018,388,18598,400,18018,287,18434,293
 Amazonas,Aeroporto Internacional de Incheon,16135,347,18368,395,16135,257,17788,283
-Distrito Federal,Aeroporto Internacional de Incheon,19144,412,17663,380,19144,305,17552,279
+Bahia,Aeroporto Internacional de Incheon,16898,364,16986,365,16898,269,16898,269
 Espírito Santo,Aeroporto Internacional de Incheon,17713,381,17808,383,17713,282,17719,282
-Goiás,Aeroporto Internacional de Incheon,17549,378,17663,380,17549,279,17552,279
 Minas Gerais,Aeroporto Internacional de Incheon,17793,383,17801,383,17793,283,17799,283
 Paraná,Aeroporto Internacional de Incheon,18590,400,18611,400,18590,296,18591,296
+Pernambuco,Aeroporto Internacional de Incheon,16257,350,16600,357,16257,259,16303,259
 Rio Grande do Sul,Aeroporto Internacional de Incheon,19148,412,19168,412,19148,305,19148,305
 Rio de Janeiro,Aeroporto Internacional de Incheon,18110,390,18141,390,18110,288,18110,288
 Santa Catarina,Aeroporto Internacional de Incheon,18750,403,18753,404,18750,298,18753,298
-São Paulo,Aeroporto Internacional de Incheon,18331,394,18312,394,18331,292,18312,291
+São Paulo,Aeroporto Internacional de Incheon,18416,396,18347,395,18416,293,18347,292
 Amapá,Aeroporto Internacional de Kansai (Osaka),16132,347,17293,372,16132,257,17293,275
 Amazonas,Aeroporto Internacional de Kansai (Osaka),15914,342,18238,392,15914,253,18238,290
-Distrito Federal,Aeroporto Internacional de Kansai (Osaka),17923,386,18002,387,17923,285,18002,286
+Bahia,Aeroporto Internacional de Kansai (Osaka),17535,377,17791,383,17535,279,17543,279
+Ceará,Aeroporto Internacional de Kansai (Osaka),16550,356,17125,368,16550,263,17110,272
 Espírito Santo,Aeroporto Internacional de Kansai (Osaka),18374,395,18478,398,18374,292,18374,292
-Goiás,Aeroporto Internacional de Kansai (Osaka),19004,409,18002,387,19004,302,18002,286
 Minas Gerais,Aeroporto Internacional de Kansai (Osaka),18356,395,18365,395,18356,292,18365,292
 Paraná,Aeroporto Internacional de Kansai (Osaka),18904,407,19041,410,18904,301,19041,303
 Pará,Aeroporto Internacional de Kansai (Osaka),16324,351,16970,365,16324,260,16970,270
+Pernambuco,Aeroporto Internacional de Kansai (Osaka),16924,364,17677,380,16924,269,16948,270
 Rio Grande do Sul,Aeroporto Internacional de Kansai (Osaka),19239,414,19598,422,19239,306,19598,312
 Rio de Janeiro,Aeroporto Internacional de Kansai (Osaka),18707,403,18717,403,18707,298,18716,298
 Santa Catarina,Aeroporto Internacional de Kansai (Osaka),19095,411,19211,413,19095,304,19211,306
 Sergipe,Aeroporto Internacional de Kansai (Osaka),17290,372,17694,381,17290,275,17291,275
-São Paulo,Aeroporto Internacional de Kansai (Osaka),18722,403,18796,404,18722,298,18796,299
+São Paulo,Aeroporto Internacional de Kansai (Osaka),18722,403,18791,404,18722,298,18791,299
 Amazonas,Aeroporto Internacional de Kuala Lumpur (Sepang),18008,387,18035,388,18008,286,18009,286
-Distrito Federal,Aeroporto Internacional de Kuala Lumpur (Sepang),16401,353,16851,363,16401,261,16579,264
+Bahia,Aeroporto Internacional de Kuala Lumpur (Sepang),15493,333,15844,341,15493,246,15844,252
 Espírito Santo,Aeroporto Internacional de Kuala Lumpur (Sepang),15473,333,16658,358,15473,246,16332,260
-Goiás,Aeroporto Internacional de Kuala Lumpur (Sepang),16853,363,16851,363,16853,268,16579,264
 Minas Gerais,Aeroporto Internacional de Kuala Lumpur (Sepang),15786,340,16753,360,15786,251,16402,261
 Paraná,Aeroporto Internacional de Kuala Lumpur (Sepang),16031,345,17621,379,16031,255,17271,275
+Pernambuco,Aeroporto Internacional de Kuala Lumpur (Sepang),15196,327,15511,334,15196,242,15511,247
+Rio Grande do Norte,Aeroporto Internacional de Kuala Lumpur (Sepang),15459,333,15459,333,15459,246,15459,246
 Rio Grande do Sul,Aeroporto Internacional de Kuala Lumpur (Sepang),15861,341,18152,391,15861,252,17802,283
 Rio de Janeiro,Aeroporto Internacional de Kuala Lumpur (Sepang),15643,337,17049,367,15643,249,16706,266
 Santa Catarina,Aeroporto Internacional de Kuala Lumpur (Sepang),15825,340,17731,382,15825,252,17381,276
 Sergipe,Aeroporto Internacional de Kuala Lumpur (Sepang),15750,339,15587,335,15750,250,15587,248
-São Paulo,Aeroporto Internacional de Kuala Lumpur (Sepang),15905,342,17291,372,15905,253,16941,269
-São Paulo,Aeroporto Internacional de Malta,9174,197,9232,198,9174,146,9189,146
-São Paulo,Aeroporto Internacional de Malé,13405,288,14209,306,13405,213,13939,222
+São Paulo,Aeroporto Internacional de Kuala Lumpur (Sepang),15905,342,17363,374,15905,253,17014,271
+São Paulo,Aeroporto Internacional de Malta,9174,197,9294,200,9174,146,9262,147
+São Paulo,Aeroporto Internacional de Malé,13405,288,14281,307,13405,213,14012,223
 Amapá,Aeroporto Internacional de Narita (Tóquio),15869,341,17116,368,15869,252,17116,272
 Amazonas,Aeroporto Internacional de Narita (Tóquio),15498,333,18061,389,15498,246,18061,287
-Distrito Federal,Aeroporto Internacional de Narita (Tóquio),17653,380,17825,384,17653,281,17825,284
+Bahia,Aeroporto Internacional de Narita (Tóquio),17469,376,17614,379,17469,278,17471,278
+Ceará,Aeroporto Internacional de Narita (Tóquio),16460,354,16948,365,16460,262,16948,270
 Espírito Santo,Aeroporto Internacional de Narita (Tóquio),18284,393,18301,394,18284,291,18293,291
-Goiás,Aeroporto Internacional de Narita (Tóquio),18829,405,17825,384,18829,300,17825,284
 Minas Gerais,Aeroporto Internacional de Narita (Tóquio),18181,391,18188,391,18181,289,18188,289
 Paraná,Aeroporto Internacional de Narita (Tóquio),18532,399,18864,406,18532,295,18864,300
 Pará,Aeroporto Internacional de Narita (Tóquio),16090,346,16793,361,16090,256,16793,267
+Pernambuco,Aeroporto Internacional de Narita (Tóquio),16907,364,17500,377,16907,269,16917,269
 Rio Grande do Sul,Aeroporto Internacional de Narita (Tóquio),18766,404,19421,418,18766,299,19421,309
 Rio de Janeiro,Aeroporto Internacional de Narita (Tóquio),18527,399,18540,399,18527,295,18540,295
 Santa Catarina,Aeroporto Internacional de Narita (Tóquio),18723,403,19034,410,18723,298,19034,303
 Sergipe,Aeroporto Internacional de Narita (Tóquio),17243,371,17517,377,17243,274,17260,275
-São Paulo,Aeroporto Internacional de Narita (Tóquio),18403,396,18619,401,18403,293,18619,296
+São Paulo,Aeroporto Internacional de Narita (Tóquio),18403,396,18614,401,18403,293,18614,296
 Amazonas,Aeroporto Internacional de Noi Bai,17487,376,18269,393,17487,278,17941,285
 Minas Gerais,Aeroporto Internacional de Noi Bai,17709,381,17260,371,17709,282,17025,271
 Rio de Janeiro,Aeroporto Internacional de Noi Bai,16838,362,17572,378,16838,268,17329,276
-São Paulo,Aeroporto Internacional de Noi Bai,17315,373,17795,383,17315,275,17564,279
+São Paulo,Aeroporto Internacional de Noi Bai,17315,373,17857,384,17315,275,17637,281
 Espírito Santo,Aeroporto Internacional de Nursultan Nazarbayev,14869,320,13365,287,14869,236,13314,212
-São Paulo,Aeroporto Internacional de Nursultan Nazarbayev,13941,300,13967,300,13941,222,13946,222
+São Paulo,Aeroporto Internacional de Nursultan Nazarbayev,13941,300,14029,302,13941,222,14019,223
 Amazonas,Aeroporto Internacional de Penang (Penang),17839,384,17915,385,17839,284,17845,284
-Distrito Federal,Aeroporto Internacional de Penang (Penang),16369,352,16731,360,16369,260,16500,262
+Bahia,Aeroporto Internacional de Penang (Penang),15414,332,15724,338,15414,245,15724,250
 Espírito Santo,Aeroporto Internacional de Penang (Penang),15458,333,16538,356,15458,246,16253,259
-Goiás,Aeroporto Internacional de Penang (Penang),16889,363,16731,360,16889,269,16500,262
 Minas Gerais,Aeroporto Internacional de Penang (Penang),15775,339,16633,358,15775,251,16323,260
 Paraná,Aeroporto Internacional de Penang (Penang),16089,346,17501,377,16089,256,17192,273
+Pernambuco,Aeroporto Internacional de Penang (Penang),15076,324,15374,331,15076,240,15374,244
+Rio Grande do Norte,Aeroporto Internacional de Penang (Penang),15339,330,15339,330,15339,244,15339,244
 Rio Grande do Sul,Aeroporto Internacional de Penang (Penang),15965,343,18032,388,15965,254,17723,282
 Rio de Janeiro,Aeroporto Internacional de Penang (Penang),15659,337,16929,364,15659,249,16627,264
 Santa Catarina,Aeroporto Internacional de Penang (Penang),15899,342,17611,379,15899,253,17302,275
 Sergipe,Aeroporto Internacional de Penang (Penang),15671,337,15467,333,15671,249,15467,246
-São Paulo,Aeroporto Internacional de Penang (Penang),15937,343,17171,369,15937,253,16862,268
+São Paulo,Aeroporto Internacional de Penang (Penang),15937,343,17243,371,15937,253,16935,269
 Alagoas,Aeroporto Internacional de Pequim Capital,16643,358,15935,343,16643,265,15619,248
 Amapá,Aeroporto Internacional de Pequim Capital,15391,331,16734,360,15391,245,16244,258
 Amazonas,Aeroporto Internacional de Pequim Capital,15888,342,17669,380,15888,253,17189,273
-Distrito Federal,Aeroporto Internacional de Pequim Capital,16936,364,16964,365,16936,269,16953,270
+Bahia,Aeroporto Internacional de Pequim Capital,16130,347,16287,350,16130,257,16131,257
+Ceará,Aeroporto Internacional de Pequim Capital,15276,329,15710,338,15276,243,15710,250
 Espírito Santo,Aeroporto Internacional de Pequim Capital,16907,364,17109,368,16907,269,16945,270
-Goiás,Aeroporto Internacional de Pequim Capital,16936,364,16964,365,16936,269,16953,270
+Maranhão,Aeroporto Internacional de Pequim Capital,15923,343,15923,343,15923,253,15923,253
 Minas Gerais,Aeroporto Internacional de Pequim Capital,17039,367,17102,368,17039,271,17039,271
 Paraná,Aeroporto Internacional de Pequim Capital,17901,385,17912,385,17901,285,17902,285
 Pará,Aeroporto Internacional de Pequim Capital,15463,333,16414,353,15463,246,15921,253
+Pernambuco,Aeroporto Internacional de Pequim Capital,15483,333,15901,342,15483,246,15548,247
+Rio Grande do Norte,Aeroporto Internacional de Pequim Capital,15285,329,15701,338,15285,243,15701,250
 Rio Grande do Sul,Aeroporto Internacional de Pequim Capital,18438,397,18469,397,18438,293,18439,293
 Rio de Janeiro,Aeroporto Internacional de Pequim Capital,17319,373,17442,375,17319,275,17336,276
+Roraima,Aeroporto Internacional de Pequim Capital,16542,356,17849,384,16542,263,17358,276
 Santa Catarina,Aeroporto Internacional de Pequim Capital,18018,388,18054,388,18018,287,18018,287
-São Paulo,Aeroporto Internacional de Pequim Capital,17578,378,17613,379,17578,280,17578,280
+São Paulo,Aeroporto Internacional de Pequim Capital,17663,380,17648,380,17663,281,17650,281
 Amazonas,Aeroporto Internacional de Pyongyang Sunan,15955,343,18162,391,15955,254,17581,280
+Bahia,Aeroporto Internacional de Pyongyang Sunan,16696,359,16780,361,16696,266,16696,266
 Espírito Santo,Aeroporto Internacional de Pyongyang Sunan,17515,377,17602,379,17515,279,17519,279
 Paraná,Aeroporto Internacional de Pyongyang Sunan,18383,396,18405,396,18383,292,18384,292
 Santa Catarina,Aeroporto Internacional de Pyongyang Sunan,18618,401,18547,399,18618,296,18547,295
-São Paulo,Aeroporto Internacional de Pyongyang Sunan,18106,390,18106,390,18106,288,18106,288
-São Paulo,Aeroporto Internacional de Riga,11049,238,11077,238,11049,176,11050,176
+São Paulo,Aeroporto Internacional de Pyongyang Sunan,18106,390,18141,390,18106,288,18141,289
+São Paulo,Aeroporto Internacional de Riga,11049,238,11112,239,11049,176,11112,177
 Amapá,Aeroporto Internacional de Suvarnabhumi,16572,357,17007,366,16572,264,16805,267
 Amazonas,Aeroporto Internacional de Suvarnabhumi,17610,379,17904,385,17610,280,17750,282
+Bahia,Aeroporto Internacional de Suvarnabhumi,15606,336,15994,344,15606,248,15805,251
 Espírito Santo,Aeroporto Internacional de Suvarnabhumi,15830,341,16828,362,15830,252,16445,262
-Goiás,Aeroporto Internacional de Suvarnabhumi,16657,358,16914,364,16657,265,16692,265
 Minas Gerais,Aeroporto Internacional de Suvarnabhumi,16144,347,16895,364,16144,257,16515,263
 Paraná,Aeroporto Internacional de Suvarnabhumi,16632,358,17753,382,16632,265,17384,277
 Rio Grande do Sul,Aeroporto Internacional de Suvarnabhumi,16622,358,18294,394,16622,264,17915,285
 Rio de Janeiro,Aeroporto Internacional de Suvarnabhumi,16103,346,17207,370,16103,256,16819,268
 Santa Catarina,Aeroporto Internacional de Suvarnabhumi,16488,355,17874,385,16488,262,17494,278
 Sergipe,Aeroporto Internacional de Suvarnabhumi,17571,378,15742,339,17571,280,15548,247
-São Paulo,Aeroporto Internacional de Suvarnabhumi,16441,354,17430,375,16441,261,17054,271
+São Paulo,Aeroporto Internacional de Suvarnabhumi,16581,357,17492,376,16581,264,17127,272
 Alagoas,Aeroporto Internacional de Taiwan Taoyuan,17006,366,17092,368,17006,271,17008,271
 Amapá,Aeroporto Internacional de Taiwan Taoyuan,17106,368,18598,400,17106,272,17890,285
 Amazonas,Aeroporto Internacional de Taiwan Taoyuan,17561,378,19495,420,17561,279,18835,300
-Distrito Federal,Aeroporto Internacional de Taiwan Taoyuan,18498,398,18505,398,18498,294,18504,294
+Bahia,Aeroporto Internacional de Taiwan Taoyuan,17491,376,17585,378,17491,278,17520,279
+Ceará,Aeroporto Internacional de Taiwan Taoyuan,16816,362,17152,369,16816,267,17152,273
 Espírito Santo,Aeroporto Internacional de Taiwan Taoyuan,18059,389,18419,396,18059,287,18330,292
-Goiás,Aeroporto Internacional de Taiwan Taoyuan,18498,398,18505,398,18498,294,18504,294
-Mato Grosso,Aeroporto Internacional de Taiwan Taoyuan,20122,433,19284,415,20122,320,19044,303
+Maranhão,Aeroporto Internacional de Taiwan Taoyuan,17075,367,17783,383,17075,272,17463,278
 Minas Gerais,Aeroporto Internacional de Taiwan Taoyuan,18320,394,18486,398,18320,291,18400,293
 Paraná,Aeroporto Internacional de Taiwan Taoyuan,19064,410,19344,416,19064,303,19269,307
 Pará,Aeroporto Internacional de Taiwan Taoyuan,17162,369,18274,393,17162,273,17567,279
+Pernambuco,Aeroporto Internacional de Taiwan Taoyuan,16872,363,16990,366,16872,268,16990,270
+Rio Grande do Norte,Aeroporto Internacional de Taiwan Taoyuan,21261,458,17241,371,21261,338,17135,273
 Rio Grande do Sul,Aeroporto Internacional de Taiwan Taoyuan,19093,411,19885,428,19093,304,19800,315
 Rio de Janeiro,Aeroporto Internacional de Taiwan Taoyuan,18426,397,18798,405,18426,293,18704,298
 Santa Catarina,Aeroporto Internacional de Taiwan Taoyuan,18969,408,19465,419,18969,302,19379,308
-São Paulo,Aeroporto Internacional de Taiwan Taoyuan,18769,404,19021,409,18769,299,18939,301
+São Paulo,Aeroporto Internacional de Taiwan Taoyuan,18909,407,19083,411,18909,301,19012,302
 Amazonas,Aeroporto Internacional de Tan Son Nhat,18326,394,18574,400,18326,292,18452,294
 Minas Gerais,Aeroporto Internacional de Tan Son Nhat,17393,374,17565,378,17393,277,17125,272
 Rio de Janeiro,Aeroporto Internacional de Tan Son Nhat,16567,356,17877,385,16567,264,17429,277
-São Paulo,Aeroporto Internacional de Tan Son Nhat,16999,366,18100,389,16999,270,17664,281
+São Paulo,Aeroporto Internacional de Tan Son Nhat,16999,366,18162,391,16999,270,17737,282
 Amazonas,Aeroporto Internacional de Viena,9271,199,10583,228,9271,147,9874,157
-Distrito Federal,Aeroporto Internacional de Viena,10956,236,9593,206,10956,174,9529,151
+Bahia,Aeroporto Internacional de Viena,8658,186,8673,186,8658,137,8658,137
+Ceará,Aeroporto Internacional de Viena,7841,168,8240,177,7841,124,8240,131
 Espírito Santo,Aeroporto Internacional de Viena,9448,203,9507,204,9448,150,9472,150
-Goiás,Aeroporto Internacional de Viena,10956,236,9593,206,10956,174,9529,151
+Maranhão,Aeroporto Internacional de Viena,12094,260,8871,191,12094,192,8488,135
 Minas Gerais,Aeroporto Internacional de Viena,9567,206,9574,206,9567,152,9567,152
 Paraná,Aeroporto Internacional de Viena,10431,224,10432,224,10431,166,10432,166
 Pará,Aeroporto Internacional de Viena,8979,193,9362,201,8979,143,8606,137
+Pernambuco,Aeroporto Internacional de Viena,8010,172,8078,174,8010,127,8078,128
+Rio Grande do Norte,Aeroporto Internacional de Viena,7815,168,8266,178,7815,124,8266,131
 Rio Grande do Sul,Aeroporto Internacional de Viena,10966,236,10973,236,10966,174,10966,174
 Rio de Janeiro,Aeroporto Internacional de Viena,9855,212,9886,213,9855,157,9863,157
 Santa Catarina,Aeroporto Internacional de Viena,10546,227,10553,227,10546,168,10545,168
-São Paulo,Aeroporto Internacional de Viena,10105,217,10109,217,10105,161,10105,161
+São Paulo,Aeroporto Internacional de Viena,10177,219,10171,219,10177,162,10177,162
 Amazonas,Aeroporto Internacional de Vilnius,9981,215,11475,247,9981,159,10702,170
-São Paulo,Aeroporto Internacional de Wattay (Vientiane),16903,364,17551,378,16903,269,17255,274
+São Paulo,Aeroporto Internacional de Wattay (Vientiane),16903,364,17613,379,16903,269,17328,276
 Alagoas,Aeroporto Internacional de Xangai Pudong,17663,380,16691,359,17663,281,16642,265
 Amapá,Aeroporto Internacional de Xangai Pudong,16473,354,18197,392,16473,262,17339,276
 Amazonas,Aeroporto Internacional de Xangai Pudong,16887,363,19094,411,16887,269,18284,291
-Distrito Federal,Aeroporto Internacional de Xangai Pudong,18024,388,18104,390,18024,287,18037,287
+Bahia,Aeroporto Internacional de Xangai Pudong,17150,369,17184,370,17150,273,17154,273
+Ceará,Aeroporto Internacional de Xangai Pudong,16349,352,16751,360,16349,260,16751,266
 Espírito Santo,Aeroporto Internacional de Xangai Pudong,17863,384,18018,388,17863,284,17968,286
-Goiás,Aeroporto Internacional de Xangai Pudong,18024,388,18104,390,18024,287,18037,287
+Maranhão,Aeroporto Internacional de Xangai Pudong,16996,366,17382,374,16996,270,16996,270
 Minas Gerais,Aeroporto Internacional de Xangai Pudong,18050,388,18085,389,18050,287,18059,287
 Paraná,Aeroporto Internacional de Xangai Pudong,18921,407,18943,408,18921,301,18928,301
 Pará,Aeroporto Internacional de Xangai Pudong,16557,356,17873,385,16557,263,17016,271
+Pernambuco,Aeroporto Internacional de Xangai Pudong,16506,355,16589,357,16506,263,16589,264
+Rio Grande do Norte,Aeroporto Internacional de Xangai Pudong,16326,351,16774,361,16326,260,16769,267
 Rio Grande do Sul,Aeroporto Internacional de Xangai Pudong,19342,416,19484,419,19342,308,19459,310
 Rio de Janeiro,Aeroporto Internacional de Xangai Pudong,18277,393,18397,396,18277,291,18359,292
+Roraima,Aeroporto Internacional de Xangai Pudong,17541,377,19311,416,17541,279,18453,294
 Santa Catarina,Aeroporto Internacional de Xangai Pudong,18984,409,19064,410,18984,302,19038,303
-São Paulo,Aeroporto Internacional de Xangai Pudong,18519,399,18620,401,18519,295,18598,296
+São Paulo,Aeroporto Internacional de Xangai Pudong,18519,399,18682,402,18519,295,18671,297
 Minas Gerais,Aeroporto Nikola Tesla (Belgrado),9602,206,9625,207,9602,153,9604,153
 Alagoas,Aeroporto de Barcelona-El Prat (Espanha),6786,146,6814,146,6786,108,6786,108
 Amazonas,Aeroporto de Barcelona-El Prat (Espanha),7955,171,9217,198,7955,126,8505,135
-Distrito Federal,Aeroporto de Barcelona-El Prat (Espanha),8156,175,8227,177,8156,129,8156,129
+Bahia,Aeroporto de Barcelona-El Prat (Espanha),7296,157,7307,157,7296,116,7298,116
+Ceará,Aeroporto de Barcelona-El Prat (Espanha),6468,139,6874,148,6468,103,6874,109
 Espírito Santo,Aeroporto de Barcelona-El Prat (Espanha),8096,174,8141,175,8096,129,8112,129
 Minas Gerais,Aeroporto de Barcelona-El Prat (Espanha),8205,176,8208,176,8205,130,8205,130
 Paraná,Aeroporto de Barcelona-El Prat (Espanha),9066,195,9066,195,9066,144,9066,144
 Pará,Aeroporto de Barcelona-El Prat (Espanha),6945,149,7996,172,6945,110,7237,115
+Pernambuco,Aeroporto de Barcelona-El Prat (Espanha),6650,143,6712,144,6650,105,6712,106
+Rio Grande do Norte,Aeroporto de Barcelona-El Prat (Espanha),6449,138,6893,148,6449,102,6893,109
 Rio Grande do Sul,Aeroporto de Barcelona-El Prat (Espanha),9605,206,9607,206,9605,153,9605,153
 Rio de Janeiro,Aeroporto de Barcelona-El Prat (Espanha),8499,183,8520,183,8499,135,8503,135
 Santa Catarina,Aeroporto de Barcelona-El Prat (Espanha),9184,197,9187,197,9184,146,9184,146
-São Paulo,Aeroporto de Barcelona-El Prat (Espanha),8744,188,8743,188,8744,139,8744,139
-São Paulo,Aeroporto de Barcelona-El Prat (Espanha),8744,188,8743,188,8744,139,8744,139
-São Paulo,Aeroporto de Barcelona-El Prat (Espanha),8744,188,8743,188,8744,139,8744,139
-São Paulo,Aeroporto de Barcelona-El Prat (Espanha),8744,188,8743,188,8744,139,8744,139
+São Paulo,Aeroporto de Barcelona-El Prat (Espanha),8817,189,8805,189,8817,140,8817,140
+São Paulo,Aeroporto de Barcelona-El Prat (Espanha),8817,189,8805,189,8817,140,8817,140
+São Paulo,Aeroporto de Barcelona-El Prat (Espanha),8817,189,8805,189,8817,140,8817,140
+São Paulo,Aeroporto de Barcelona-El Prat (Espanha),8817,189,8805,189,8817,140,8817,140
+Bahia,Aeroporto de Bratislava,11597,249,8717,187,11597,184,8702,138
 Minas Gerais,Aeroporto de Bratislava,9611,207,9618,207,9611,153,9610,153
 Rio Grande do Sul,Aeroporto de Bratislava,11013,237,11017,237,11013,175,11010,175
-São Paulo,Aeroporto de Bratislava,10149,218,10153,218,10149,161,10149,161
+São Paulo,Aeroporto de Bratislava,10149,218,10215,220,10149,161,10222,162
 Amazonas,Aeroporto de Bruxelas,8524,183,9702,209,8524,135,9268,147
+Bahia,Aeroporto de Bruxelas,8196,176,8320,179,8196,130,8197,130
 Espírito Santo,Aeroporto de Bruxelas,9017,194,9142,196,9017,143,9019,143
 Minas Gerais,Aeroporto de Bruxelas,9097,196,9135,196,9097,144,9098,144
 Paraná,Aeroporto de Bruxelas,9940,214,9945,214,9940,158,9945,158
+Pernambuco,Aeroporto de Bruxelas,11261,242,7934,170,11261,179,7602,121
 Rio Grande do Sul,Aeroporto de Bruxelas,10492,226,10502,226,10492,167,10497,167
 Rio de Janeiro,Aeroporto de Bruxelas,9408,202,9475,204,9408,149,9409,149
 Santa Catarina,Aeroporto de Bruxelas,10072,217,10087,217,10072,160,10077,160
-São Paulo,Aeroporto de Bruxelas,9628,207,9646,207,9628,153,9633,153
+São Paulo,Aeroporto de Bruxelas,9628,207,9681,208,9628,153,9695,154
 Amazonas,Aeroporto de Dublin,7996,172,9411,202,7996,127,8901,141
-Distrito Federal,Aeroporto de Dublin,8648,186,8706,187,8648,137,8665,138
+Bahia,Aeroporto de Dublin,7959,171,8029,172,7959,126,7961,126
 Espírito Santo,Aeroporto de Dublin,8795,189,8851,190,8795,140,8795,140
-Goiás,Aeroporto de Dublin,10197,219,8706,187,10197,162,8665,138
 Minas Gerais,Aeroporto de Dublin,8838,190,8844,190,8838,140,8844,140
 Paraná,Aeroporto de Dublin,9649,207,9654,208,9649,153,9654,153
 Pará,Aeroporto de Dublin,11604,250,8156,175,11604,184,7633,121
+Pernambuco,Aeroporto de Dublin,7337,158,7643,164,7337,116,7366,117
 Rio Grande do Sul,Aeroporto de Dublin,10209,219,10211,220,10209,162,10211,162
 Rio de Janeiro,Aeroporto de Dublin,9167,197,9184,197,9167,146,9172,146
 Santa Catarina,Aeroporto de Dublin,9797,211,9796,211,9797,156,9796,156
-São Paulo,Aeroporto de Dublin,9376,202,9355,201,9376,149,9355,149
+São Paulo,Aeroporto de Dublin,9461,203,9390,202,9461,150,9390,149
 Amazonas,Aeroporto de Estocolmo-Arlanda,9623,207,10964,236,9623,153,10496,167
-Distrito Federal,Aeroporto de Estocolmo-Arlanda,11751,253,10259,221,11751,187,10259,163
 Espírito Santo,Aeroporto de Estocolmo-Arlanda,11104,239,10404,224,11104,176,10301,164
 Minas Gerais,Aeroporto de Estocolmo-Arlanda,10372,223,10397,224,10372,165,10376,165
 Paraná,Aeroporto de Estocolmo-Arlanda,11206,241,11207,241,11206,178,11207,178
 Pará,Aeroporto de Estocolmo-Arlanda,13349,287,9709,209,13349,212,9228,147
+Pernambuco,Aeroporto de Estocolmo-Arlanda,8839,190,9196,198,8839,140,8880,141
 Rio Grande do Sul,Aeroporto de Estocolmo-Arlanda,11761,253,11764,253,11761,187,11764,187
 Rio de Janeiro,Aeroporto de Estocolmo-Arlanda,10688,230,10737,231,10688,170,10688,170
 Santa Catarina,Aeroporto de Estocolmo-Arlanda,11344,244,11349,244,11344,180,11349,180
-São Paulo,Aeroporto de Estocolmo-Arlanda,10900,234,10908,235,10900,173,10911,173
+São Paulo,Aeroporto de Estocolmo-Arlanda,10900,234,10943,235,10900,173,10973,174
 Alagoas,Aeroporto de Frankfurt,7829,168,8130,175,7829,124,7829,124
 Amazonas,Aeroporto de Frankfurt,8763,188,9864,212,8763,139,9457,150
-Distrito Federal,Aeroporto de Frankfurt,9150,197,9159,197,9150,145,9159,145
+Bahia,Aeroporto de Frankfurt,8336,179,8482,182,8336,132,8340,132
+Ceará,Aeroporto de Frankfurt,7471,160,7907,170,7471,119,7907,126
 Espírito Santo,Aeroporto de Frankfurt,9148,197,9304,200,9148,145,9155,145
-Goiás,Aeroporto de Frankfurt,9150,197,9159,197,9150,145,9159,145
-Mato Grosso,Aeroporto de Frankfurt,9644,207,9830,211,9644,153,9666,154
+Maranhão,Aeroporto de Frankfurt,8118,174,8118,174,8118,129,8118,129
 Minas Gerais,Aeroporto de Frankfurt,9242,199,9297,200,9242,147,9241,147
 Paraná,Aeroporto de Frankfurt,10093,217,10107,217,10093,160,10099,160
 Pará,Aeroporto de Frankfurt,7851,169,8609,185,7851,125,8189,130
+Pernambuco,Aeroporto de Frankfurt,7693,165,8096,174,7693,122,7745,123
+Rio Grande do Norte,Aeroporto de Frankfurt,7482,161,7896,170,7482,119,7896,125
 Rio Grande do Sul,Aeroporto de Frankfurt,10640,229,10664,229,10640,169,10640,169
 Rio de Janeiro,Aeroporto de Frankfurt,9545,205,9637,207,9545,152,9546,152
 Santa Catarina,Aeroporto de Frankfurt,10220,220,10249,220,10220,162,10220,162
 Sergipe,Aeroporto de Frankfurt,8593,185,8280,178,8593,136,8084,128
-São Paulo,Aeroporto de Frankfurt,9722,209,9808,211,9722,154,9776,155
+São Paulo,Aeroporto de Frankfurt,9722,209,9843,212,9722,154,9838,156
 Alagoas,Aeroporto de Gatwick (Londres),11382,245,7751,167,11382,181,7501,119
 Amazonas,Aeroporto de Gatwick (Londres),8235,177,9485,204,8235,131,9026,143
-Distrito Federal,Aeroporto de Gatwick (Londres),8751,188,8780,189,8751,139,8780,139
+Bahia,Aeroporto de Gatwick (Londres),7999,172,8103,174,7999,127,7999,127
+Ceará,Aeroporto de Gatwick (Londres),7092,152,7566,163,7092,113,7566,120
 Espírito Santo,Aeroporto de Gatwick (Londres),8827,190,8925,192,8827,140,8827,140
-Goiás,Aeroporto de Gatwick (Londres),8751,188,8780,189,8751,139,8780,139
 Minas Gerais,Aeroporto de Gatwick (Londres),8894,191,8918,192,8894,141,8900,141
 Paraná,Aeroporto de Gatwick (Londres),9727,209,9728,209,9727,155,9728,155
 Pará,Aeroporto de Gatwick (Londres),7385,159,8230,177,7385,117,7758,123
+Pernambuco,Aeroporto de Gatwick (Londres),7365,158,7717,166,7365,117,7404,117
+Rio Grande do Norte,Aeroporto de Gatwick (Londres),11715,252,7517,161,11715,186,7517,119
 Rio Grande do Sul,Aeroporto de Gatwick (Londres),10282,221,10285,221,10282,163,10285,163
 Rio de Janeiro,Aeroporto de Gatwick (Londres),9212,198,9258,199,9212,146,9212,146
 Santa Catarina,Aeroporto de Gatwick (Londres),9865,212,9870,212,9865,157,9870,157
-São Paulo,Aeroporto de Gatwick (Londres),9432,203,9429,203,9432,150,9435,150
+São Paulo,Aeroporto de Gatwick (Londres),9517,205,9464,203,9517,151,9497,151
 Alagoas,Aeroporto de Heathrow (Londres),11397,245,7765,167,11397,181,7518,119
 Amazonas,Aeroporto de Heathrow (Londres),8235,177,9499,204,8235,131,9036,143
-Distrito Federal,Aeroporto de Heathrow (Londres),8763,188,8794,189,8763,139,8794,140
+Bahia,Aeroporto de Heathrow (Londres),8016,172,8117,174,8016,127,8015,127
+Ceará,Aeroporto de Heathrow (Londres),7106,153,7582,163,7106,113,7582,120
 Espírito Santo,Aeroporto de Heathrow (Londres),8844,190,8939,192,8844,140,8844,140
-Goiás,Aeroporto de Heathrow (Londres),8763,188,8794,189,8763,139,8794,140
 Minas Gerais,Aeroporto de Heathrow (Londres),8910,191,8932,192,8910,141,8916,142
 Paraná,Aeroporto de Heathrow (Londres),9741,209,9742,209,9741,155,9742,155
 Pará,Aeroporto de Heathrow (Londres),7391,159,8244,177,7391,117,7768,123
+Pernambuco,Aeroporto de Heathrow (Londres),7382,159,7731,166,7382,117,7420,118
+Rio Grande do Norte,Aeroporto de Heathrow (Londres),11730,252,7531,162,11730,186,7531,120
 Rio Grande do Sul,Aeroporto de Heathrow (Londres),10297,221,10299,221,10297,164,10299,164
 Rio de Janeiro,Aeroporto de Heathrow (Londres),9228,198,9272,199,9228,147,9228,147
 Santa Catarina,Aeroporto de Heathrow (Londres),9880,212,9884,212,9880,157,9884,157
-São Paulo,Aeroporto de Heathrow (Londres),9448,203,9443,203,9448,150,9443,150
+São Paulo,Aeroporto de Heathrow (Londres),9533,205,9478,204,9533,151,9478,151
 Amazonas,Aeroporto de Helsinque,10022,215,11346,244,10022,159,10888,173
-Distrito Federal,Aeroporto de Helsinque,12128,261,10641,229,12128,193,10641,169
+Bahia,Aeroporto de Helsinque,9847,212,9964,214,9847,156,9848,156
+Ceará,Aeroporto de Helsinque,8953,192,9415,202,8953,142,9415,150
 Espírito Santo,Aeroporto de Helsinque,10668,229,10786,232,10668,170,10670,170
 Minas Gerais,Aeroporto de Helsinque,11412,245,10779,232,11412,181,10749,171
 Paraná,Aeroporto de Helsinque,11586,249,11589,249,11586,184,11589,184
 Pará,Aeroporto de Helsinque,12844,276,10091,217,12844,204,9620,153
+Pernambuco,Aeroporto de Helsinque,9208,198,9578,206,9208,146,9253,147
 Rio Grande do Sul,Aeroporto de Helsinque,12140,261,12146,261,12140,193,12146,193
 Rio de Janeiro,Aeroporto de Helsinque,11059,238,11119,239,11059,176,11060,176
 Santa Catarina,Aeroporto de Helsinque,11721,252,11731,252,11721,186,11728,186
-São Paulo,Aeroporto de Helsinque,11277,242,11290,243,11277,179,11284,179
+São Paulo,Aeroporto de Helsinque,11277,242,11325,244,11277,179,11346,180
 Espírito Santo,Aeroporto de Istambul,11474,247,10001,215,11474,182,9931,158
 Paraná,Aeroporto de Istambul,10874,234,10926,235,10874,173,10886,173
 Santa Catarina,Aeroporto de Ljubljana Joe Pu?nik,10297,221,10302,221,10297,164,10292,164
-São Paulo,Aeroporto de Ljubljana Joe Pu?nik,9853,212,9858,212,9853,157,9852,157
+São Paulo,Aeroporto de Ljubljana Joe Pu?nik,9853,212,9920,213,9853,157,9924,158
 Minas Gerais,Aeroporto de Luxemburgo,9086,195,9136,196,9086,144,9086,144
 Paraná,Aeroporto de Luxemburgo,9935,214,9946,214,9935,158,9944,158
 Santa Catarina,Aeroporto de Luxemburgo,10126,218,10088,217,10126,161,10065,160
-São Paulo,Aeroporto de Luxemburgo,9619,207,9647,207,9619,153,9621,153
+São Paulo,Aeroporto de Luxemburgo,9619,207,9682,208,9619,153,9683,154
 Amazonas,Aeroporto de Milão-Malpensa,8623,185,9939,214,8623,137,9216,146
+Bahia,Aeroporto de Milão-Malpensa,8018,172,8029,172,8018,127,8019,127
+Ceará,Aeroporto de Milão-Malpensa,7189,154,7596,163,7189,114,7596,121
 Espírito Santo,Aeroporto de Milão-Malpensa,8815,189,8863,190,8815,140,8833,140
-Goiás,Aeroporto de Milão-Malpensa,9575,206,8949,192,9575,152,8877,141
+Maranhão,Aeroporto de Milão-Malpensa,7836,168,8227,177,7836,124,7836,124
 Minas Gerais,Aeroporto de Milão-Malpensa,8927,192,8930,192,8927,142,8927,142
 Paraná,Aeroporto de Milão-Malpensa,9788,210,9788,210,9788,155,9788,155
 Pará,Aeroporto de Milão-Malpensa,7644,164,8718,187,7644,121,7948,126
+Pernambuco,Aeroporto de Milão-Malpensa,7371,158,7434,160,7371,117,7434,118
+Rio Grande do Norte,Aeroporto de Milão-Malpensa,7171,154,7614,164,7171,114,7614,121
 Rio Grande do Sul,Aeroporto de Milão-Malpensa,10326,222,10329,222,10326,164,10327,164
 Rio de Janeiro,Aeroporto de Milão-Malpensa,9219,198,9242,199,9219,146,9224,146
 Santa Catarina,Aeroporto de Milão-Malpensa,9906,213,9909,213,9906,157,9906,157
-São Paulo,Aeroporto de Milão-Malpensa,9464,203,9465,203,9464,150,9466,150
+São Paulo,Aeroporto de Milão-Malpensa,9464,203,9527,205,9464,150,9538,151
+Bahia,Aeroporto de Oslo-Gardermoen,9216,198,9303,200,9216,146,9215,146
+Ceará,Aeroporto de Oslo-Gardermoen,8292,178,8782,189,8292,132,8782,139
 Espírito Santo,Aeroporto de Oslo-Gardermoen,10046,216,10125,218,10046,160,10047,160
-Goiás,Aeroporto de Oslo-Gardermoen,10753,231,9980,215,10753,171,9956,158
 Minas Gerais,Aeroporto de Oslo-Gardermoen,10105,217,10118,218,10105,161,10116,161
 Paraná,Aeroporto de Oslo-Gardermoen,10927,235,10928,235,10927,174,10928,174
+Pernambuco,Aeroporto de Oslo-Gardermoen,8585,184,8917,192,8585,136,8620,137
+Rio Grande do Norte,Aeroporto de Oslo-Gardermoen,12498,269,8717,187,12498,199,8717,138
 Rio de Janeiro,Aeroporto de Oslo-Gardermoen,10427,224,10458,225,10427,166,10428,166
 Santa Catarina,Aeroporto de Oslo-Gardermoen,11070,238,11070,238,11070,176,11070,176
-São Paulo,Aeroporto de Oslo-Gardermoen,10643,229,10629,229,10643,169,10629,169
+São Paulo,Aeroporto de Oslo-Gardermoen,10728,231,10664,229,10728,170,10664,169
 Amapá,Aeroporto de Praga,8273,178,9675,208,8273,131,8871,141
 Amazonas,Aeroporto de Praga,9156,197,10572,227,9156,145,9816,156
-Distrito Federal,Aeroporto de Praga,9494,204,9582,206,9494,151,9498,151
+Bahia,Aeroporto de Praga,8653,186,8662,186,8653,137,8655,137
+Ceará,Aeroporto de Praga,7810,168,8229,177,7810,124,8229,131
 Espírito Santo,Aeroporto de Praga,9455,203,9496,204,9455,150,9469,150
+Maranhão,Aeroporto de Praga,11018,237,8860,190,11018,175,8457,134
 Minas Gerais,Aeroporto de Praga,9561,206,9563,206,9561,152,9562,152
 Paraná,Aeroporto de Praga,10420,224,10421,224,10420,166,10421,166
 Pará,Aeroporto de Praga,12295,264,9351,201,12295,195,8548,136
+Pernambuco,Aeroporto de Praga,8007,172,8067,173,8007,127,8067,128
 Rio Grande do Sul,Aeroporto de Praga,10961,236,10962,236,10961,174,10962,174
 Rio de Janeiro,Aeroporto de Praga,9858,212,9875,212,9858,157,9860,157
 Santa Catarina,Aeroporto de Praga,10540,227,10542,227,10540,167,10541,167
-São Paulo,Aeroporto de Praga,10099,217,10098,217,10099,160,10101,160
+São Paulo,Aeroporto de Praga,10184,219,10160,218,10184,162,10174,162
 Minas Gerais,Aeroporto de Pulkovo (São Petersburgo),10987,236,11029,237,10987,175,10987,175
-São Paulo,Aeroporto de Pulkovo (São Petersburgo),11520,248,11540,248,11520,183,11522,183
+São Paulo,Aeroporto de Pulkovo (São Petersburgo),11520,248,11575,249,11520,183,11584,184
 Amazonas,Aeroporto de Roma-Fiumicino,8780,189,9904,213,8780,139,9269,147
+Bahia,Aeroporto de Roma-Fiumicino,7967,171,7994,172,7967,126,7968,126
+Ceará,Aeroporto de Roma-Fiumicino,7191,154,7561,162,7191,114,7561,120
 Espírito Santo,Aeroporto de Roma-Fiumicino,8740,188,8828,190,8740,139,8782,139
-Goiás,Aeroporto de Roma-Fiumicino,9523,205,8914,192,9523,151,8879,141
+Maranhão,Aeroporto de Roma-Fiumicino,7838,168,8192,176,7838,124,7838,124
 Minas Gerais,Aeroporto de Roma-Fiumicino,8875,191,8895,191,8875,141,8876,141
 Paraná,Aeroporto de Roma-Fiumicino,9745,209,9753,210,9745,155,9745,155
 Pará,Aeroporto de Roma-Fiumicino,7735,166,8683,187,7735,123,8001,127
+Pernambuco,Aeroporto de Roma-Fiumicino,7320,157,7399,159,7320,116,7399,117
+Rio Grande do Norte,Aeroporto de Roma-Fiumicino,7136,153,7616,164,7136,113,7583,120
 Rio Grande do Sul,Aeroporto de Roma-Fiumicino,10269,221,10294,221,10269,163,10276,163
 Rio de Janeiro,Aeroporto de Roma-Fiumicino,9151,197,9207,198,9151,145,9173,146
 Santa Catarina,Aeroporto de Roma-Fiumicino,9850,212,9874,212,9850,156,9855,157
-São Paulo,Aeroporto de Roma-Fiumicino,9414,202,9430,203,9414,150,9415,150
+São Paulo,Aeroporto de Roma-Fiumicino,9414,202,9492,204,9414,150,9487,151
 Amazonas,Aeroporto de Schiphol (Amsterdã),8601,185,9821,211,8601,137,9375,149
-Distrito Federal,Aeroporto de Schiphol (Amsterdã),9094,195,9116,196,9094,144,9116,145
+Bahia,Aeroporto de Schiphol (Amsterdã),8323,179,8439,181,8323,132,8323,132
 Espírito Santo,Aeroporto de Schiphol (Amsterdã),9146,197,9261,199,9146,145,9147,145
 Minas Gerais,Aeroporto de Schiphol (Amsterdã),9222,198,9254,199,9222,146,9224,146
 Paraná,Aeroporto de Schiphol (Amsterdã),10061,216,10064,216,10061,160,10064,160
 Pará,Aeroporto de Schiphol (Amsterdã),7742,166,8566,184,7742,123,8107,129
+Pernambuco,Aeroporto de Schiphol (Amsterdã),7685,165,8053,173,7685,122,7728,123
+Rio Grande do Norte,Aeroporto de Schiphol (Amsterdã),7465,160,7853,169,7465,118,7853,125
 Rio Grande do Sul,Aeroporto de Schiphol (Amsterdã),10614,228,10621,228,10614,169,10621,169
 Rio de Janeiro,Aeroporto de Schiphol (Amsterdã),9535,205,9594,206,9535,151,9536,151
 Santa Catarina,Aeroporto de Schiphol (Amsterdã),10195,219,10206,219,10195,162,10203,162
-São Paulo,Aeroporto de Schiphol (Amsterdã),9751,210,9765,210,9751,155,9759,155
+São Paulo,Aeroporto de Schiphol (Amsterdã),9751,210,9800,211,9751,155,9821,156
 Amazonas,Aeroporto de Sófia,9703,209,10745,231,9703,154,10162,161
 Rio de Janeiro,Aeroporto de Sófia,9955,214,10048,216,9955,158,10001,159
-São Paulo,Aeroporto de Sófia,10232,220,10271,221,10232,163,10241,163
+São Paulo,Aeroporto de Sófia,10232,220,10333,222,10232,163,10314,164
 Amazonas,Aeroporto de Tallinn,10004,215,11295,243,10004,159,10846,172
-São Paulo,Aeroporto de Tallinn,11271,242,11239,242,11271,179,11227,178
+São Paulo,Aeroporto de Tallinn,11271,242,11274,242,11271,179,11289,179
 Amapá,Aeroporto de Toulouse-Blagnac (França),7087,152,8466,182,7087,112,7661,122
 Amazonas,Aeroporto de Toulouse-Blagnac (França),7999,172,9363,201,7999,127,8606,137
-Distrito Federal,Aeroporto de Toulouse-Blagnac (França),8280,178,8373,180,8280,131,8284,132
+Bahia,Aeroporto de Toulouse-Blagnac (França),7447,160,7453,160,7447,118,7450,118
 Espírito Santo,Aeroporto de Toulouse-Blagnac (França),8255,177,8287,178,8255,131,8264,131
-Goiás,Aeroporto de Toulouse-Blagnac (França),8280,178,8373,180,8280,131,8284,132
+Maranhão,Aeroporto de Toulouse-Blagnac (França),6846,147,7651,164,6846,109,7243,115
 Minas Gerais,Aeroporto de Toulouse-Blagnac (França),8354,179,8354,179,8354,133,8354,133
 Paraná,Aeroporto de Toulouse-Blagnac (França),9209,198,9212,198,9209,146,9212,146
 Pará,Aeroporto de Toulouse-Blagnac (França),7734,166,8142,175,7734,123,7338,116
+Pernambuco,Aeroporto de Toulouse-Blagnac (França),6802,146,6858,147,6802,108,6858,109
+Rio Grande do Norte,Aeroporto de Toulouse-Blagnac (França),10725,231,7021,151,10725,170,7021,111
 Rio Grande do Sul,Aeroporto de Toulouse-Blagnac (França),9753,210,9753,210,9753,155,9753,155
 Rio de Janeiro,Aeroporto de Toulouse-Blagnac (França),8654,186,8666,186,8654,137,8655,137
 Santa Catarina,Aeroporto de Toulouse-Blagnac (França),9332,201,9333,201,9332,148,9333,148
-São Paulo,Aeroporto de Toulouse-Blagnac (França),8892,191,8889,191,8892,141,8889,141
-São Paulo,Aeroporto de Toulouse-Blagnac (França),8892,191,8889,191,8892,141,8889,141
-São Paulo,Aeroporto de Toulouse-Blagnac (França),8892,191,8889,191,8892,141,8889,141
-São Paulo,Aeroporto de Toulouse-Blagnac (França),8892,191,8889,191,8892,141,8889,141
+São Paulo,Aeroporto de Toulouse-Blagnac (França),8977,193,8951,192,8977,143,8951,142
+São Paulo,Aeroporto de Toulouse-Blagnac (França),8977,193,8951,192,8977,143,8951,142
+São Paulo,Aeroporto de Toulouse-Blagnac (França),8977,193,8951,192,8977,143,8951,142
+São Paulo,Aeroporto de Toulouse-Blagnac (França),8977,193,8951,192,8977,143,8951,142
 Amazonas,Aeroporto de Varsóvia Chopin,9661,208,11090,238,9661,153,10338,164
-Distrito Federal,Aeroporto de Varsóvia Chopin,10016,215,10100,217,10016,159,10019,159
+Bahia,Aeroporto de Varsóvia Chopin,9170,197,9180,197,9170,146,9171,146
+Ceará,Aeroporto de Varsóvia Chopin,8331,179,8747,188,8331,132,8747,139
 Espírito Santo,Aeroporto de Varsóvia Chopin,9968,214,10014,215,9968,158,9985,159
-Goiás,Aeroporto de Varsóvia Chopin,10016,215,10100,217,10016,159,10019,159
-Mato Grosso,Aeroporto de Varsóvia Chopin,11968,257,10879,234,11968,190,10547,168
 Minas Gerais,Aeroporto de Varsóvia Chopin,10078,217,10081,217,10078,160,10079,160
 Paraná,Aeroporto de Varsóvia Chopin,10938,235,10939,235,10938,174,10939,174
 Pará,Aeroporto de Varsóvia Chopin,13064,281,9869,212,13064,208,9070,144
+Pernambuco,Aeroporto de Varsóvia Chopin,8523,183,8585,184,8523,135,8585,136
+Rio Grande do Norte,Aeroporto de Varsóvia Chopin,8322,179,8756,188,8322,132,8756,139
 Rio Grande do Sul,Aeroporto de Varsóvia Chopin,11478,247,11480,247,11478,182,11479,182
 Rio de Janeiro,Aeroporto de Varsóvia Chopin,10372,223,10393,223,10372,165,10376,165
 Santa Catarina,Aeroporto de Varsóvia Chopin,11057,238,11060,238,11057,176,11058,176
-São Paulo,Aeroporto de Varsóvia Chopin,10616,228,10616,228,10616,169,10618,169
+São Paulo,Aeroporto de Varsóvia Chopin,10701,230,10678,230,10701,170,10690,170
 Amazonas,Aeroporto de Zurique,8672,186,10061,216,8672,138,9307,148
-Distrito Federal,Aeroporto de Zurique,10260,221,9071,195,10260,163,8986,143
+Bahia,Aeroporto de Zurique,8143,175,8151,175,8143,129,8145,129
+Ceará,Aeroporto de Zurique,7298,157,7718,166,7298,116,7718,122
 Espírito Santo,Aeroporto de Zurique,8947,192,8985,193,8947,142,8959,142
+Maranhão,Aeroporto de Zurique,7547,162,8349,179,7547,120,7945,126
 Minas Gerais,Aeroporto de Zurique,9051,195,9052,195,9051,144,9052,144
 Paraná,Aeroporto de Zurique,9908,213,9910,213,9908,157,9910,157
 Pará,Aeroporto de Zurique,8436,181,8840,190,8436,134,8039,128
+Pernambuco,Aeroporto de Zurique,7497,161,7556,162,7497,119,7556,120
+Rio Grande do Norte,Aeroporto de Zurique,7760,167,7723,166,7760,123,7723,123
 Rio Grande do Sul,Aeroporto de Zurique,10450,225,10451,225,10450,166,10451,166
 Rio de Janeiro,Aeroporto de Zurique,9348,201,9364,201,9348,148,9350,149
 Santa Catarina,Aeroporto de Zurique,10030,216,10031,216,10030,159,10031,159
-São Paulo,Aeroporto de Zurique,9587,206,9587,206,9587,152,9587,152
+São Paulo,Aeroporto de Zurique,9587,206,9649,207,9587,152,9649,153
