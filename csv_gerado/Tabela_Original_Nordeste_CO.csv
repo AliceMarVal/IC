@@ -1,0 +1,79 @@
+Destino,Origem,Intermerdiario,Final,Distancia,Emissão de CO2
+Alagoas,Aeroporto Internacional de Xangai Pudong,Aeroporto Internacional de Guarulhos,Aeroporto Internacional de Maceió,20542,7684.95
+Alagoas,Aeroporto de Frankfurt,Aeroporto Internacional do Recife,Aeroporto Internacional de Maceió,7829,1116.27
+Alagoas,Aeroporto Internacional de Pequim Capital,Aeroporto Internacional de Guarulhos,Aeroporto Internacional de Maceió,19539,6952.81
+Bahia,Aeroporto Internacional de Suvarnabhumi,*,Aeroporto Internacional de Salvador,15606,248.69
+Bahia,Aeroporto de Bratislava,Aeroporto Internacional de Guarulhos,Aeroporto Internacional de Salvador,11597,2449.33
+Bahia,Aeroporto de Milão-Malpensa,*,Aeroporto Internacional de Salvador,8018,127.77
+Bahia,Aeroporto Internacional de Budapeste Ferenc Liszt,Aeroporto Internacional de Viracopos,Aeroporto Internacional de Salvador,11820,2544.43
+Bahia,Aeroporto Adolfo Suárez Madrid-Barajas,*,Aeroporto Internacional de Salvador,6915,110.19
+Bahia,Aeroporto de Varsóvia Chopin,*,Aeroporto Internacional de Salvador,9170,146.13
+Bahia,Aeroporto Internacional de Kansai (Osaka),*,Aeroporto Internacional de Salvador,17535,279.43
+Bahia,Aeroporto Internacional de Narita (Tóquio),*,Aeroporto Internacional de Salvador,17469,278.38
+Bahia,Aeroporto Internacional de Kuala Lumpur (Sepang),Aeroporto Internacional de Viracopos,Aeroporto Internacional de Salvador,17564,5618.27
+Bahia,Aeroporto Internacional de Taiwan Taoyuan,*,Aeroporto Internacional de Salvador,17491,278.73
+Bahia,Aeroporto de Toulouse-Blagnac (França),*,Aeroporto Internacional de Salvador,7447,118.67
+Bahia,Aeroporto de Heathrow (Londres),Aeroporto Internacional de Viracopos,Aeroporto Internacional de Salvador,10999,2203.24
+Bahia,Aeroporto de Frankfurt,*,Aeroporto Internacional de Salvador,8336,132.84
+Bahia,Aeroporto Internacional de Viena,*,Aeroporto Internacional de Salvador,8658,137.97
+Bahia,Aeroporto Internacional de Haneda (Tóquio),*,Aeroporto Internacional de Salvador,17489,278.69
+Bahia,Aeroporto de Barcelona-El Prat (Espanha),*,Aeroporto Internacional de Salvador,7296,116.26
+Bahia,Aeroporto de Gatwick (Londres),Aeroporto Internacional de Viracopos,Aeroporto Internacional de Salvador,10985,2197.64
+Bahia,Aeroporto Internacional de Changi,Aeroporto Internacional de Guarulhos,Aeroporto Internacional de Salvador,17457,5550.02
+Bahia,Aeroporto de Schiphol (Amsterdã),*,Aeroporto Internacional de Salvador,8323,132.63
+Bahia,Aeroporto Internacional de Noi Bai,Aeroporto Internacional de Viracopos,Aeroporto Internacional de Salvador,18836,6461.5
+Bahia,Aeroporto de Estocolmo-Arlanda,*,Aeroporto Internacional de Salvador,9475,150.99
+Bahia,Aeroporto Internacional de Pequim Capital,*,Aeroporto Internacional de Salvador,16130,257.04
+Bahia,Aeroporto Internacional Don Mueang,*,Aeroporto Internacional de Salvador,15592,248.47
+Bahia,Aeroporto Internacional de Tan Son Nhat,Aeroporto Internacional de Viracopos,Aeroporto Internacional de Salvador,18520,6246.51
+Bahia,Aeroporto de Roma-Fiumicino,*,Aeroporto Internacional de Salvador,7967,126.96
+Bahia,Aeroporto Internacional de Xangai Pudong,*,Aeroporto Internacional de Salvador,17150,273.29
+Bahia,Aeroporto Internacional de Penang (Penang),Aeroporto Internacional de Viracopos,Aeroporto Internacional de Salvador,17600,5641.32
+Ceará,Aeroporto de Roma-Fiumicino,*,Aeroporto Internacional de Fortaleza,7191,114.59
+Ceará,Aeroporto Internacional de Penang (Penang),*,Aeroporto Internacional de Fortaleza,15464,246.43
+Ceará,Aeroporto de Barcelona-El Prat (Espanha),*,Aeroporto Internacional de Fortaleza,6468,103.07
+Ceará,Aeroporto de Toulouse-Blagnac (França),*,Aeroporto Internacional de Fortaleza,6596,105.11
+Ceará,Aeroporto Internacional de Kuala Lumpur (Sepang),*,Aeroporto Internacional de Fortaleza,15616,248.85
+Ceará,Aeroporto Internacional de Hong Kong,Aeroporto Internacional de Viracopos,Aeroporto Internacional de Fortaleza,20534,7678.97
+Ceará,Aeroporto de Frankfurt,*,Aeroporto Internacional de Fortaleza,7471,119.05
+Ceará,Aeroporto Internacional de Viena,*,Aeroporto Internacional de Fortaleza,7841,124.95
+Ceará,Aeroporto Internacional de Taiwan Taoyuan,*,Aeroporto Internacional de Fortaleza,16816,267.97
+Ceará,Aeroporto Adolfo Suárez Madrid-Barajas,*,Aeroporto Internacional de Fortaleza,6059,96.55
+Ceará,Aeroporto Internacional de Pequim Capital,*,Aeroporto Internacional de Fortaleza,15276,243.43
+Ceará,Aeroporto de Milão-Malpensa,*,Aeroporto Internacional de Fortaleza,7189,114.56
+Ceará,Aeroporto Internacional de Budapeste Ferenc Liszt,Aeroporto Internacional de Guarulhos,Aeroporto Internacional de Fortaleza,12567,2876.2
+Ceará,Aeroporto de Varsóvia Chopin,*,Aeroporto Internacional de Fortaleza,8331,132.76
+Ceará,Aeroporto Internacional de Incheon,*,Aeroporto Internacional de Fortaleza,15975,254.57
+Ceará,Aeroporto Internacional de Xangai Pudong,*,Aeroporto Internacional de Fortaleza,16349,260.53
+Maranhão,Aeroporto de Zurique,Aeroporto Internacional do Rio de Janeiro,Aeroporto Internacional de São Luís,11587,2445.11
+Maranhão,Aeroporto de Frankfurt,Aeroporto Internacional de Fortaleza,Aeroporto Internacional de São Luís,8118,1200.2
+Maranhão,Aeroporto Internacional de Pequim Capital,Aeroporto Internacional de Fortaleza,Aeroporto Internacional de São Luís,15923,4617.48
+Maranhão,Aeroporto Internacional de Taiwan Taoyuan,Aeroporto Internacional do Rio de Janeiro,Aeroporto Internacional de São Luís,20670,7781.02
+Maranhão,Aeroporto de Varsóvia Chopin,Aeroporto Internacional de Viracopos,Aeroporto Internacional de São Luís,12989,3072.61
+Maranhão,Aeroporto Internacional de Xangai Pudong,Aeroporto Internacional de Fortaleza,Aeroporto Internacional de São Luís,16996,5260.77
+Pernambuco,Aeroporto Internacional de Xangai Pudong,*,Aeroporto Internacional do Recife,16506,263.03
+Pernambuco,Aeroporto de Helsinque,*,Aeroporto Internacional do Recife,9208,146.73
+Pernambuco,Aeroporto de Schiphol (Amsterdã),*,Aeroporto Internacional do Recife,7685,122.46
+Pernambuco,Aeroporto de Bruxelas,Aeroporto Internacional do Rio de Janeiro,Aeroporto Internacional do Recife,11261,2309.46
+Pernambuco,Aeroporto de Milão-Malpensa,*,Aeroporto Internacional do Recife,7371,117.46
+Pernambuco,Aeroporto Internacional de Hong Kong,Aeroporto Internacional de Viracopos,Aeroporto Internacional do Recife,20329,7526.41
+Pernambuco,Aeroporto de Varsóvia Chopin,*,Aeroporto Internacional do Recife,8523,135.82
+Pernambuco,Aeroporto Internacional de Pequim Capital,*,Aeroporto Internacional do Recife,15483,246.73
+Pernambuco,Aeroporto de Frankfurt,*,Aeroporto Internacional do Recife,7693,122.59
+Pernambuco,Aeroporto Internacional de Budapeste Ferenc Liszt,*,Aeroporto Internacional do Recife,8135,129.63
+Pernambuco,Aeroporto de Zurique,*,Aeroporto Internacional do Recife,7497,119.47
+Pernambuco,Aeroporto Internacional de Taiwan Taoyuan,*,Aeroporto Internacional do Recife,16872,268.86
+Pernambuco,Aeroporto de Toulouse-Blagnac (França),Aeroporto Internacional de Guarulhos,Aeroporto Internacional do Recife,10984,2197.24
+Pernambuco,Aeroporto Internacional de Viena,Aeroporto Internacional de Guarulhos,Aeroporto Internacional do Recife,12200,2710.66
+Pernambuco,Aeroporto de Roma-Fiumicino,*,Aeroporto Internacional do Recife,7320,116.65
+Rio Grande do Norte,Aeroporto Internacional de Xangai Pudong,*,Aeroporto Internacional de Natal,16326,260.16
+Rio Grande do Norte,Aeroporto Internacional de Penang (Penang),Aeroporto Internacional do Recife,Aeroporto Internacional de Natal,15339,4284.99
+Rio Grande do Norte,Aeroporto de Milão-Malpensa,Aeroporto Internacional do Recife,Aeroporto Internacional de Natal,7634,1061.35
+Rio Grande do Norte,Aeroporto Internacional de Viena,Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Natal,8266,1244.36
+Rio Grande do Norte,Aeroporto Internacional de Kuala Lumpur (Sepang),Aeroporto Internacional do Recife,Aeroporto Internacional de Natal,15459,4352.3
+Rio Grande do Norte,Aeroporto Internacional de Pequim Capital,Aeroporto Internacional de Fortaleza,Aeroporto Internacional de Natal,15701,4489.63
+Rio Grande do Norte,Aeroporto de Frankfurt,*,Aeroporto Internacional de Natal,7482,119.23
+Rio Grande do Norte,Aeroporto de Zurique,Aeroporto Internacional do Recife,Aeroporto Internacional de Natal,7760,1096.68
+Rio Grande do Norte,Aeroporto de Roma-Fiumicino,Aeroporto Internacional do Recife,Aeroporto Internacional de Natal,7583,1047.22
+Sergipe,Aeroporto Internacional de Pequim Capital,Aeroporto Internacional de Guarulhos,Aeroporto Internacional de Aracaju,19283,6771.81
+Sergipe,Aeroporto Internacional de Xangai Pudong,Aeroporto Internacional de Guarulhos,Aeroporto Internacional de Aracaju,20286,7494.6
