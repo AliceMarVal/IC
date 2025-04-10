@@ -1,33 +1,44 @@
 Origem,Estado,Emissão hub carga,Emissão original carga
 Aeroporto Adolfo Suárez Madrid-Barajas,Bahia,1246,2501
 Aeroporto Adolfo Suárez Madrid-Barajas,Ceará,1095,1635
+Aeroporto Adolfo Suárez Madrid-Barajas,Ilhéus,1328,1326
 Aeroporto Internacional Don Mueang,Bahia,6546,8304
+Aeroporto Internacional Don Mueang,Ilhéus,6730,6512
 Aeroporto Internacional Don Mueang,Paraíba,6072,6052
 Aeroporto Internacional de Budapeste Ferenc Liszt,Bahia,2016,3550
 Aeroporto Internacional de Budapeste Ferenc Liszt,Ceará,1823,2497
+Aeroporto Internacional de Budapeste Ferenc Liszt,Ilhéus,2120,2111
 Aeroporto Internacional de Budapeste Ferenc Liszt,Paraíba,1707,1768
 Aeroporto Internacional de Budapeste Ferenc Liszt,Pernambuco,1753,3641
 Aeroporto Internacional de Changi,Bahia,6721,8285
+Aeroporto Internacional de Changi,Ilhéus,6904,6591
 Aeroporto Internacional de Haneda (Tóquio),Bahia,8105,10384
+Aeroporto Internacional de Haneda (Tóquio),Ilhéus,8247,8167
 Aeroporto Internacional de Hong Kong,Ceará,7232,8363
 Aeroporto Internacional de Hong Kong,Paraíba,6999,7045
 Aeroporto Internacional de Hong Kong,Pernambuco,7091,9937
 Aeroporto Internacional de Incheon,Ceará,7237,8349
 Aeroporto Internacional de Kansai (Osaka),Bahia,8239,10667
+Aeroporto Internacional de Kansai (Osaka),Ilhéus,8383,8210
 Aeroporto Internacional de Kuala Lumpur (Sepang),Bahia,6535,8224
 Aeroporto Internacional de Kuala Lumpur (Sepang),Ceará,6517,7090
+Aeroporto Internacional de Kuala Lumpur (Sepang),Ilhéus,6715,6430
 Aeroporto Internacional de Kuala Lumpur (Sepang),Paraíba,6097,6097
 Aeroporto Internacional de Kuala Lumpur (Sepang),Rio Grande do Norte,6221,6221
 Aeroporto Internacional de Narita (Tóquio),Bahia,8076,10334
+Aeroporto Internacional de Narita (Tóquio),Ilhéus,8218,8149
 Aeroporto Internacional de Noi Bai,Bahia,6966,9024
+Aeroporto Internacional de Noi Bai,Ilhéus,7158,6950
 Aeroporto Internacional de Noi Bai,Paraíba,6380,6403
 Aeroporto Internacional de Penang (Penang),Bahia,6436,7868
 Aeroporto Internacional de Penang (Penang),Ceará,6418,7023
+Aeroporto Internacional de Penang (Penang),Ilhéus,6615,6366
 Aeroporto Internacional de Penang (Penang),Paraíba,6002,6002
 Aeroporto Internacional de Penang (Penang),Rio Grande do Norte,6125,6125
 Aeroporto Internacional de Pequim Capital,Alagoas,6376,6350
 Aeroporto Internacional de Pequim Capital,Bahia,6784,9423
 Aeroporto Internacional de Pequim Capital,Ceará,6425,7648
+Aeroporto Internacional de Pequim Capital,Ilhéus,6973,6962
 Aeroporto Internacional de Pequim Capital,Maranhão,6600,6600
 Aeroporto Internacional de Pequim Capital,Paraíba,6206,6328
 Aeroporto Internacional de Pequim Capital,Pernambuco,6293,9568
@@ -35,22 +46,27 @@ Aeroporto Internacional de Pequim Capital,Piauí,6477,6477
 Aeroporto Internacional de Pequim Capital,Rio Grande do Norte,6419,6419
 Aeroporto Internacional de Pequim Capital,Sergipe,6573,9679
 Aeroporto Internacional de Suvarnabhumi,Bahia,6560,8308
+Aeroporto Internacional de Suvarnabhumi,Ilhéus,6744,6523
 Aeroporto Internacional de Suvarnabhumi,Paraíba,6086,6066
 Aeroporto Internacional de Taiwan Taoyuan,Bahia,8050,10640
 Aeroporto Internacional de Taiwan Taoyuan,Ceará,7659,8911
+Aeroporto Internacional de Taiwan Taoyuan,Ilhéus,8256,8169
 Aeroporto Internacional de Taiwan Taoyuan,Maranhão,8232,7938
 Aeroporto Internacional de Taiwan Taoyuan,Paraíba,7419,7505
 Aeroporto Internacional de Taiwan Taoyuan,Pernambuco,7514,10711
 Aeroporto Internacional de Tan Son Nhat,Bahia,7116,8721
+Aeroporto Internacional de Tan Son Nhat,Ilhéus,7308,7036
 Aeroporto Internacional de Tan Son Nhat,Paraíba,6632,6595
 Aeroporto Internacional de Viena,Bahia,1958,3474
 Aeroporto Internacional de Viena,Ceará,1768,2433
+Aeroporto Internacional de Viena,Ilhéus,2060,2053
 Aeroporto Internacional de Viena,Pernambuco,1698,3568
 Aeroporto Internacional de Viena,Piauí,1809,1809
 Aeroporto Internacional de Viena,Rio Grande do Norte,1779,1779
 Aeroporto Internacional de Xangai Pudong,Alagoas,7252,7210
 Aeroporto Internacional de Xangai Pudong,Bahia,7687,10443
 Aeroporto Internacional de Xangai Pudong,Ceará,7305,8586
+Aeroporto Internacional de Xangai Pudong,Ilhéus,7889,7858
 Aeroporto Internacional de Xangai Pudong,Maranhão,7865,7519
 Aeroporto Internacional de Xangai Pudong,Paraíba,7071,7185
 Aeroporto Internacional de Xangai Pudong,Pernambuco,7164,10549
@@ -59,45 +75,58 @@ Aeroporto Internacional de Xangai Pudong,Rio Grande do Norte,7325,7325
 Aeroporto Internacional de Xangai Pudong,Sergipe,7463,10713
 Aeroporto de Barcelona-El Prat (Espanha),Bahia,1389,2703
 Aeroporto de Barcelona-El Prat (Espanha),Ceará,1230,1796
+Aeroporto de Barcelona-El Prat (Espanha),Ilhéus,1476,1472
 Aeroporto de Bratislava,Bahia,1978,3501
+Aeroporto de Bratislava,Ilhéus,2081,2073
 Aeroporto de Bruxelas,Pernambuco,1639,3301
 Aeroporto de Copenhague,Bahia,1669,3022
 Aeroporto de Copenhague,Ceará,1547,2097
+Aeroporto de Copenhague,Ilhéus,1758,1745
 Aeroporto de Copenhague,Pernambuco,1512,3157
 Aeroporto de Copenhague,Rio Grande do Norte,1434,1434
 Aeroporto de Estocolmo-Arlanda,Bahia,2390,3969
+Aeroporto de Estocolmo-Arlanda,Ilhéus,2496,2448
 Aeroporto de Frankfurt,Alagoas,1603,1595
 Aeroporto de Frankfurt,Bahia,1810,3279
 Aeroporto de Frankfurt,Ceará,1628,2274
+Aeroporto de Frankfurt,Ilhéus,1909,1907
 Aeroporto de Frankfurt,Maranhão,1715,1715
 Aeroporto de Frankfurt,Paraíba,1518,1584
 Aeroporto de Frankfurt,Pernambuco,1561,3382
 Aeroporto de Frankfurt,Piauí,1653,1653
 Aeroporto de Frankfurt,Rio Grande do Norte,1623,1623
 Aeroporto de Gatwick (Londres),Bahia,1709,3075
+Aeroporto de Gatwick (Londres),Ilhéus,1799,1760
 Aeroporto de Gatwick (Londres),Paraíba,1518,1453
 Aeroporto de Heathrow (Londres),Bahia,1715,3083
+Aeroporto de Heathrow (Londres),Ilhéus,1805,1767
 Aeroporto de Heathrow (Londres),Paraíba,1523,1460
 Aeroporto de Helsinque,Pernambuco,2388,4340
 Aeroporto de Milão-Malpensa,Bahia,1678,3099
 Aeroporto de Milão-Malpensa,Ceará,1502,2122
+Aeroporto de Milão-Malpensa,Ilhéus,1773,1768
 Aeroporto de Milão-Malpensa,Pernambuco,1438,3191
 Aeroporto de Milão-Malpensa,Rio Grande do Norte,1509,1509
 Aeroporto de Praga,Alagoas,1737,1726
 Aeroporto de Praga,Bahia,1953,3470
+Aeroporto de Praga,Ilhéus,2055,2051
 Aeroporto de Praga,Pernambuco,1694,3570
 Aeroporto de Praga,Rio Grande do Norte,1765,1765
 Aeroporto de Roma-Fiumicino,Bahia,1663,3071
 Aeroporto de Roma-Fiumicino,Ceará,1488,2098
+Aeroporto de Roma-Fiumicino,Ilhéus,1758,1746
 Aeroporto de Roma-Fiumicino,Pernambuco,1425,3152
 Aeroporto de Roma-Fiumicino,Rio Grande do Norte,1510,1510
 Aeroporto de Schiphol (Amsterdã),Bahia,1853,3265
+Aeroporto de Schiphol (Amsterdã),Ilhéus,1947,1901
 Aeroporto de Schiphol (Amsterdã),Pernambuco,1688,3376
 Aeroporto de Toulouse-Blagnac (França),Bahia,1446,2781
 Aeroporto de Toulouse-Blagnac (França),Ceará,1283,1862
+Aeroporto de Toulouse-Blagnac (França),Ilhéus,1534,1531
 Aeroporto de Toulouse-Blagnac (França),Pernambuco,1224,2873
 Aeroporto de Varsóvia Chopin,Bahia,2193,3788
 Aeroporto de Varsóvia Chopin,Ceará,1992,2698
+Aeroporto de Varsóvia Chopin,Ilhéus,2302,2297
 Aeroporto de Varsóvia Chopin,Maranhão,2098,2098
 Aeroporto de Varsóvia Chopin,Pernambuco,1918,3890
 Aeroporto de Zurique,Maranhão,1642,1642
