@@ -1,79 +1,105 @@
 Estado,Origem,Distância original carga,Emissão original carga,Distância hub carga,Emissão hub carga,Distância original comercial,Emissão original comercial,Distância hub comercial,Emissão hub comercial
-Bahia,Aeroporto Adolfo Suárez Madrid-Barajas,9803,2509,6919,1061,9803,1750,6919,1061
-Ceará,Aeroporto Adolfo Suárez Madrid-Barajas,6059,130,6059,113,6059,96,6059,113
-Bahia,Aeroporto Internacional Don Mueang,17860,8330,15976,5656,17860,5809,15976,5656
-Bahia,Aeroporto Internacional de Budapeste Ferenc Liszt,11678,3561,8802,1717,11678,2483,8802,1717
-Ceará,Aeroporto Internacional de Budapeste Ferenc Liszt,7982,171,8369,1552,7982,127,8369,1552
-Pernambuco,Aeroporto Internacional de Budapeste Ferenc Liszt,11827,3653,8207,1492,11827,2547,8207,1492
-Bahia,Aeroporto Internacional de Changi,17840,8311,16068,5722,17840,5796,16068,5722
-Bahia,Aeroporto Internacional de Haneda (Tóquio),19972,10417,17645,6900,19972,7264,17645,6900
-Ceará,Aeroporto Internacional de Hong Kong,16414,353,16667,6156,16414,261,16667,6156
-Pernambuco,Aeroporto Internacional de Hong Kong,19538,9969,16505,6037,19538,6952,16505,6037
-Ceará,Aeroporto Internacional de Incheon,15975,344,15975,299,15975,254,15975,299
-Bahia,Aeroporto Internacional de Kansai (Osaka),20243,10701,17791,7015,20243,7462,17791,7015
-Bahia,Aeroporto Internacional de Kuala Lumpur (Sepang),17774,8250,15844,5563,17774,5753,15844,5563
-Ceará,Aeroporto Internacional de Kuala Lumpur (Sepang),16504,7113,15821,5547,16504,4960,15821,5547
-Rio Grande do Norte,Aeroporto Internacional de Kuala Lumpur (Sepang),15459,6241,15459,5296,15459,4352,15459,5296
-Bahia,Aeroporto Internacional de Narita (Tóquio),19924,10367,17614,6876,19924,7229,17614,6876
-Bahia,Aeroporto Internacional de Noi Bai,18619,9053,16359,5931,18619,6313,16359,5931
-Bahia,Aeroporto Internacional de Penang (Penang),17385,7893,15724,5479,17385,5504,15724,5479
-Ceará,Aeroporto Internacional de Penang (Penang),16425,7045,15701,5463,16425,4913,15701,5463
-Rio Grande do Norte,Aeroporto Internacional de Penang (Penang),15339,6144,15339,5214,15339,4284,15339,5214
-Alagoas,Aeroporto Internacional de Pequim Capital,15619,6371,15650,5428,15619,4442,15650,5428
-Bahia,Aeroporto Internacional de Pequim Capital,19026,9453,16143,5775,19026,6592,16143,5775
-Ceará,Aeroporto Internacional de Pequim Capital,15276,329,15276,286,15276,243,15276,286
-Maranhão,Aeroporto Internacional de Pequim Capital,15923,6621,15923,5619,15923,4617,15923,5619
-Pernambuco,Aeroporto Internacional de Pequim Capital,19172,9599,15548,5357,19172,6694,15548,5357
-Rio Grande do Norte,Aeroporto Internacional de Pequim Capital,15701,6438,15701,5463,15701,4489,15701,5463
-Sergipe,Aeroporto Internacional de Pequim Capital,19283,9710,15891,5596,19283,6771,15891,5596
-Bahia,Aeroporto Internacional de Suvarnabhumi,17865,8335,15994,5669,17865,5812,15994,5669
-Bahia,Aeroporto Internacional de Taiwan Taoyuan,20217,10674,17585,6853,20217,7443,17585,6853
-Ceará,Aeroporto Internacional de Taiwan Taoyuan,16816,362,17152,6520,16816,267,17152,6520
-Maranhão,Aeroporto Internacional de Taiwan Taoyuan,17463,7964,17783,7008,17463,5553,17783,7008
-Pernambuco,Aeroporto Internacional de Taiwan Taoyuan,20284,10745,16990,6397,20284,7493,16990,6397
-Bahia,Aeroporto Internacional de Tan Son Nhat,18303,8748,16457,6002,18303,6100,16457,6002
-Bahia,Aeroporto Internacional de Viena,11553,3485,8673,1667,11553,2430,8673,1667
-Ceará,Aeroporto Internacional de Viena,7841,168,8240,1504,7841,124,8240,1504
-Pernambuco,Aeroporto Internacional de Viena,11708,3579,8078,1446,11708,2496,8078,1446
-Rio Grande do Norte,Aeroporto Internacional de Viena,8266,1784,8266,1514,8266,1244,8266,1514
-Alagoas,Aeroporto Internacional de Xangai Pudong,16642,7232,16691,6174,16642,5043,16691,6174
-Bahia,Aeroporto Internacional de Xangai Pudong,20029,10476,17184,6544,20029,7305,17184,6544
-Ceará,Aeroporto Internacional de Xangai Pudong,16349,352,16751,6219,16349,260,16751,6219
-Maranhão,Aeroporto Internacional de Xangai Pudong,16996,7543,17382,6696,16996,5260,17382,6696
-Pernambuco,Aeroporto Internacional de Xangai Pudong,20130,10582,16589,6099,20130,7379,16589,6099
-Rio Grande do Norte,Aeroporto Internacional de Xangai Pudong,16774,7348,16774,6236,16774,5124,16774,6236
-Sergipe,Aeroporto Internacional de Xangai Pudong,20286,10747,16932,6354,20286,7494,16932,6354
-Bahia,Aeroporto de Barcelona-El Prat (Espanha),10190,2711,7307,1183,10190,1891,7307,1183
-Ceará,Aeroporto de Barcelona-El Prat (Espanha),6468,139,6874,1047,6468,103,6874,1047
-Bahia,Aeroporto de Bratislava,11597,3512,8717,1684,11597,2449,8717,1684
-Pernambuco,Aeroporto de Bruxelas,11261,3311,7934,1395,11261,2309,7934,1395
-Bahia,Aeroporto de Estocolmo-Arlanda,12348,3981,9582,2034,12348,2776,9582,2034
-Alagoas,Aeroporto de Frankfurt,7829,1600,7847,1364,7829,1116,7847,1364
-Bahia,Aeroporto de Frankfurt,11224,3290,8340,1541,11224,2294,8340,1541
-Ceará,Aeroporto de Frankfurt,7471,160,7471,140,7471,119,7471,140
-Maranhão,Aeroporto de Frankfurt,8118,1721,8118,1460,8118,1200,8118,1460
-Pernambuco,Aeroporto de Frankfurt,11398,3392,7745,1329,11398,2365,7745,1329
-Rio Grande do Norte,Aeroporto de Frankfurt,7896,1628,7896,1381,7896,1135,7896,1381
-Bahia,Aeroporto de Gatwick (Londres),10869,3085,8103,1455,10869,2151,8103,1455
-Bahia,Aeroporto de Heathrow (Londres),10884,3093,8117,1460,10884,2157,8117,1460
-Pernambuco,Aeroporto de Helsinque,12912,4354,9578,2033,12912,3036,9578,2033
-Bahia,Aeroporto de Milão-Malpensa,10912,3109,8029,1428,10912,2168,8029,1428
-Ceará,Aeroporto de Milão-Malpensa,7189,154,7596,1278,7189,114,7596,1278
-Pernambuco,Aeroporto de Milão-Malpensa,11072,3201,7434,1224,11072,2232,7434,1224
-Rio Grande do Norte,Aeroporto de Milão-Malpensa,7614,1514,7614,1284,7614,1055,7614,1284
-Bahia,Aeroporto de Roma-Fiumicino,10862,3081,7994,1416,10862,2148,7994,1416
-Ceará,Aeroporto de Roma-Fiumicino,7191,154,7561,1267,7191,114,7561,1267
-Pernambuco,Aeroporto de Roma-Fiumicino,11004,3162,7399,1213,11004,2205,7399,1213
-Rio Grande do Norte,Aeroporto de Roma-Fiumicino,7616,1514,7616,1285,7616,1056,7616,1285
-Bahia,Aeroporto de Schiphol (Amsterdã),11199,3275,8439,1578,11199,2284,8439,1578
-Pernambuco,Aeroporto de Schiphol (Amsterdã),11388,3386,8053,1437,11388,2361,8053,1437
-Bahia,Aeroporto de Toulouse-Blagnac (França),10337,2790,7453,1231,10337,1946,7453,1231
-Ceará,Aeroporto de Toulouse-Blagnac (França),6596,142,6596,123,6596,105,6596,123
-Pernambuco,Aeroporto de Toulouse-Blagnac (França),10507,2883,6858,1042,10507,2010,6858,1042
-Bahia,Aeroporto de Varsóvia Chopin,12063,3800,9180,1867,12063,2650,9180,1867
-Ceará,Aeroporto de Varsóvia Chopin,8331,179,8331,156,8331,132,8331,156
-Maranhão,Aeroporto de Varsóvia Chopin,8978,2105,8978,1786,8978,1467,8978,1786
-Pernambuco,Aeroporto de Varsóvia Chopin,12225,3903,8585,1633,12225,2721,8585,1633
-Maranhão,Aeroporto de Zurique,7945,1648,7945,1399,7945,1149,7945,1399
-Pernambuco,Aeroporto de Zurique,11201,3276,7556,1265,11201,2284,7556,1265
-Rio Grande do Norte,Aeroporto de Zurique,7723,1557,7723,1321,7723,1086,7723,1321
+Bahia,Aeroporto Adolfo Suárez Madrid-Barajas,9803,2501,6919,1246,9803,1744,6919,869
+Ceará,Aeroporto Adolfo Suárez Madrid-Barajas,7926,1635,6487,1095,7926,1140,6487,763
+Bahia,Aeroporto Internacional Don Mueang,17860,8304,15858,6546,17860,5790,15858,4565
+Paraíba,Aeroporto Internacional Don Mueang,15248,6052,15273,6072,15248,4220,15273,4234
+Bahia,Aeroporto Internacional de Budapeste Ferenc Liszt,11678,3550,8802,2016,11678,2475,8802,1406
+Ceará,Aeroporto Internacional de Budapeste Ferenc Liszt,9794,2497,8370,1823,9794,1741,8370,1271
+Paraíba,Aeroporto Internacional de Budapeste Ferenc Liszt,8243,1768,8099,1707,8243,1233,8099,1190
+Pernambuco,Aeroporto Internacional de Budapeste Ferenc Liszt,11827,3641,8207,1753,11827,2539,8207,1222
+Bahia,Aeroporto Internacional de Changi,17840,8285,16068,6721,17840,5777,16068,4687
+Bahia,Aeroporto Internacional de Haneda (Tóquio),19972,10384,17645,8105,19972,7241,17645,5652
+Ceará,Aeroporto Internacional de Hong Kong,17924,8363,16668,7232,17924,5832,16668,5043
+Paraíba,Aeroporto Internacional de Hong Kong,16451,7045,16397,6999,16451,4913,16397,4880
+Pernambuco,Aeroporto Internacional de Hong Kong,19538,9937,16505,7091,19538,6930,16505,4945
+Ceará,Aeroporto Internacional de Incheon,17909,8349,16674,7237,17909,5822,16674,5047
+Bahia,Aeroporto Internacional de Kansai (Osaka),20243,10667,17791,8239,20243,7439,17791,5746
+Bahia,Aeroporto Internacional de Kuala Lumpur (Sepang),17774,8224,15844,6535,17774,5735,15844,4557
+Ceará,Aeroporto Internacional de Kuala Lumpur (Sepang),16504,7090,15822,6517,16504,4944,15822,4544
+Paraíba,Aeroporto Internacional de Kuala Lumpur (Sepang),15304,6097,15304,6097,15304,4251,15304,4251
+Rio Grande do Norte,Aeroporto Internacional de Kuala Lumpur (Sepang),15459,6221,15459,6221,15459,4338,15459,4338
+Bahia,Aeroporto Internacional de Narita (Tóquio),19924,10334,17614,8076,19924,7206,17614,5632
+Bahia,Aeroporto Internacional de Noi Bai,18619,9024,16359,6966,18619,6293,16359,4858
+Paraíba,Aeroporto Internacional de Noi Bai,15684,6403,15656,6380,15684,4465,15656,4449
+Bahia,Aeroporto Internacional de Penang (Penang),17385,7868,15724,6436,17385,5486,15724,4488
+Ceará,Aeroporto Internacional de Penang (Penang),16425,7023,15702,6418,16425,4897,15702,4475
+Paraíba,Aeroporto Internacional de Penang (Penang),15184,6002,15184,6002,15184,4185,15184,4185
+Rio Grande do Norte,Aeroporto Internacional de Penang (Penang),15339,6125,15339,6125,15339,4271,15339,4271
+Alagoas,Aeroporto Internacional de Pequim Capital,15619,6350,15650,6376,15619,4428,15650,4446
+Bahia,Aeroporto Internacional de Pequim Capital,19026,9423,16143,6784,19026,6571,16143,4730
+Ceará,Aeroporto Internacional de Pequim Capital,17141,7648,15711,6425,17141,5333,15711,4481
+Maranhão,Aeroporto Internacional de Pequim Capital,15923,6600,15923,6600,15923,4602,15923,4602
+Paraíba,Aeroporto Internacional de Pequim Capital,15591,6328,15440,6206,15591,4412,15440,4327
+Pernambuco,Aeroporto Internacional de Pequim Capital,19172,9568,15548,6293,19172,6672,15548,4388
+Piauí,Aeroporto Internacional de Pequim Capital,15774,6477,15774,6477,15774,4517,15774,4517
+Rio Grande do Norte,Aeroporto Internacional de Pequim Capital,15703,6419,15703,6419,15703,4476,15703,4476
+Sergipe,Aeroporto Internacional de Pequim Capital,19283,9679,15891,6573,19283,6750,15891,4584
+Bahia,Aeroporto Internacional de Suvarnabhumi,17865,8308,15875,6560,17865,5794,15875,4575
+Paraíba,Aeroporto Internacional de Suvarnabhumi,15265,6066,15291,6086,15265,4230,15291,4244
+Bahia,Aeroporto Internacional de Taiwan Taoyuan,20217,10640,17585,8050,20217,7420,17585,5613
+Ceará,Aeroporto Internacional de Taiwan Taoyuan,18502,8911,17153,7659,18502,6214,17153,5341
+Maranhão,Aeroporto Internacional de Taiwan Taoyuan,17462,7938,17783,8232,17462,5535,17783,5741
+Paraíba,Aeroporto Internacional de Taiwan Taoyuan,16980,7505,16882,7419,16980,5234,16882,5174
+Pernambuco,Aeroporto Internacional de Taiwan Taoyuan,20284,10711,16990,7514,20284,7469,16990,5240
+Bahia,Aeroporto Internacional de Tan Son Nhat,18303,8721,16534,7116,18303,6081,16534,4962
+Paraíba,Aeroporto Internacional de Tan Son Nhat,15917,6595,15961,6632,15917,4599,15961,4624
+Bahia,Aeroporto Internacional de Viena,11553,3474,8673,1958,11553,2423,8673,1365
+Ceará,Aeroporto Internacional de Viena,9669,2433,8241,1768,9669,1697,8241,1232
+Pernambuco,Aeroporto Internacional de Viena,11708,3568,8078,1698,11708,2488,8078,1184
+Piauí,Aeroporto Internacional de Viena,8338,1809,8338,1809,8338,1262,8338,1262
+Rio Grande do Norte,Aeroporto Internacional de Viena,8267,1779,8267,1779,8267,1240,8267,1240
+Alagoas,Aeroporto Internacional de Xangai Pudong,16642,7210,16691,7252,16642,5027,16691,5057
+Bahia,Aeroporto Internacional de Xangai Pudong,20029,10443,17184,7687,20029,7282,17184,5360
+Ceará,Aeroporto Internacional de Xangai Pudong,18161,8586,16752,7305,18161,5987,16752,5094
+Maranhão,Aeroporto Internacional de Xangai Pudong,16995,7519,17382,7865,16995,5243,17382,5485
+Paraíba,Aeroporto Internacional de Xangai Pudong,16614,7185,16481,7071,16614,5011,16481,4931
+Pernambuco,Aeroporto Internacional de Xangai Pudong,20130,10549,16589,7164,20130,7356,16589,4995
+Piauí,Aeroporto Internacional de Xangai Pudong,16846,7387,17169,7673,16846,5151,17169,5351
+Rio Grande do Norte,Aeroporto Internacional de Xangai Pudong,16775,7325,16775,7325,16775,5108,16775,5108
+Sergipe,Aeroporto Internacional de Xangai Pudong,20286,10713,16932,7463,20286,7470,16932,5204
+Bahia,Aeroporto de Barcelona-El Prat (Espanha),10190,2703,7307,1389,10190,1885,7307,969
+Ceará,Aeroporto de Barcelona-El Prat (Espanha),8307,1796,6875,1230,8307,1252,6875,858
+Bahia,Aeroporto de Bratislava,11597,3501,8717,1978,11597,2441,8717,1379
+Pernambuco,Aeroporto de Bruxelas,11261,3301,7935,1639,11261,2302,7935,1143
+Bahia,Aeroporto de Copenhague,10775,3022,8008,1669,10775,2107,8008,1164
+Ceará,Aeroporto de Copenhague,8976,2097,7711,1547,8976,1462,7711,1079
+Pernambuco,Aeroporto de Copenhague,11013,3157,7623,1512,11013,2201,7623,1054
+Rio Grande do Norte,Aeroporto de Copenhague,7423,1434,7423,1434,7423,1000,7423,1000
+Bahia,Aeroporto de Estocolmo-Arlanda,12348,3969,9582,2390,12348,2768,9582,1666
+Alagoas,Aeroporto de Frankfurt,7829,1595,7847,1603,7829,1112,7847,1117
+Bahia,Aeroporto de Frankfurt,11224,3279,8340,1810,11224,2287,8340,1262
+Ceará,Aeroporto de Frankfurt,9347,2274,7908,1628,9347,1586,7908,1135
+Maranhão,Aeroporto de Frankfurt,8118,1715,8118,1715,8118,1196,8118,1196
+Paraíba,Aeroporto de Frankfurt,7801,1584,7637,1518,7801,1104,7637,1058
+Pernambuco,Aeroporto de Frankfurt,11398,3382,7745,1561,11398,2358,7745,1088
+Piauí,Aeroporto de Frankfurt,7969,1653,7969,1653,7969,1152,7969,1152
+Rio Grande do Norte,Aeroporto de Frankfurt,7898,1623,7898,1623,7898,1132,7898,1132
+Bahia,Aeroporto de Gatwick (Londres),10869,3075,8103,1709,10869,2144,8103,1191
+Paraíba,Aeroporto de Gatwick (Londres),7473,1453,7637,1518,7473,1013,7637,1058
+Bahia,Aeroporto de Heathrow (Londres),10884,3083,8117,1715,10884,2150,8117,1196
+Paraíba,Aeroporto de Heathrow (Londres),7490,1460,7651,1523,7490,1018,7651,1062
+Pernambuco,Aeroporto de Helsinque,12912,4340,9579,2388,12912,3026,9579,1665
+Bahia,Aeroporto de Milão-Malpensa,10912,3099,8029,1678,10912,2161,8029,1170
+Ceará,Aeroporto de Milão-Malpensa,9029,2122,7597,1502,9029,1479,7597,1047
+Pernambuco,Aeroporto de Milão-Malpensa,11072,3191,7434,1438,11072,2225,7434,1003
+Rio Grande do Norte,Aeroporto de Milão-Malpensa,7615,1509,7615,1509,7615,1052,7615,1052
+Alagoas,Aeroporto de Praga,8143,1726,8169,1737,8143,1203,8169,1211
+Bahia,Aeroporto de Praga,11546,3470,8662,1953,11546,2420,8662,1362
+Pernambuco,Aeroporto de Praga,11711,3570,8067,1694,11711,2489,8067,1181
+Rio Grande do Norte,Aeroporto de Praga,8236,1765,8236,1765,8236,1231,8236,1231
+Bahia,Aeroporto de Roma-Fiumicino,10862,3071,7994,1663,10862,2141,7994,1160
+Ceará,Aeroporto de Roma-Fiumicino,8978,2098,7562,1488,8978,1463,7562,1038
+Pernambuco,Aeroporto de Roma-Fiumicino,11004,3152,7399,1425,11004,2198,7399,993
+Rio Grande do Norte,Aeroporto de Roma-Fiumicino,7617,1510,7617,1510,7617,1053,7617,1053
+Bahia,Aeroporto de Schiphol (Amsterdã),11199,3265,8439,1853,11199,2276,8439,1292
+Pernambuco,Aeroporto de Schiphol (Amsterdã),11388,3376,8054,1688,11388,2354,8054,1177
+Bahia,Aeroporto de Toulouse-Blagnac (França),10337,2781,7453,1446,10337,1939,7453,1008
+Ceará,Aeroporto de Toulouse-Blagnac (França),8458,1862,7021,1283,8458,1298,7021,894
+Pernambuco,Aeroporto de Toulouse-Blagnac (França),10507,2873,6858,1224,10507,2004,6858,853
+Bahia,Aeroporto de Varsóvia Chopin,12063,3788,9180,2193,12063,2641,9180,1529
+Ceará,Aeroporto de Varsóvia Chopin,10181,2698,8748,1992,10181,1881,8748,1389
+Maranhão,Aeroporto de Varsóvia Chopin,8978,2098,8978,2098,8978,1463,8978,1463
+Pernambuco,Aeroporto de Varsóvia Chopin,12225,3890,8585,1918,12225,2713,8585,1338
+Maranhão,Aeroporto de Zurique,7944,1642,7944,1642,7944,1145,7944,1145
+Pernambuco,Aeroporto de Zurique,11201,3266,7556,1486,11201,2277,7556,1036
+Rio Grande do Norte,Aeroporto de Zurique,7724,1553,7724,1553,7724,1083,7724,1083
