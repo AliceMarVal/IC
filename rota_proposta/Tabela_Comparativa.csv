@@ -1,112 +1,112 @@
 Estado,Origem,Distância original,Emissão original,Distância hub,Emissão hub
-Alagoas,Aeroporto Internacional de Pequim Capital,19539,101677.05,15617.0,81267.74
-Alagoas,Aeroporto Internacional Hartsfield-Jackson Atlanta,7111,37004.22,6983.0,36338.14
-Alagoas,Aeroporto Internacional de Xangai Pudong,20542,106896.46,16641.0,86596.44
-Alagoas,Aeroporto de Praga,8143,42374.54,8141.0,42364.14
-Alagoas,Aeroporto de Frankfurt,7829,40740.55,7825.0,40719.74
-Bahia,Aeroporto Internacional Hartsfield-Jackson Atlanta,7099,36941.78,7099.0,36941.78
-Bahia,Aeroporto de Barcelona-El Prat (Espanha),7296,37966.92,7296.0,37966.92
-Bahia,Aeroporto Adolfo Suárez Madrid-Barajas,6915,35984.28,6915.0,35984.28
-Bahia,Aeroporto de Frankfurt,8336,43378.88,8336.0,43378.88
-Bahia,Aeroporto Internacional de Penang (Penang),17600,91586.88,15414.0,80211.37
-Bahia,Aeroporto Internacional de Tan Son Nhat,18520,96374.38,16216.0,84384.82
-Bahia,Aeroporto Internacional de Kuala Lumpur (Sepang),17564,91399.54,15493.0,80622.47
-Bahia,Aeroporto Internacional de Noi Bai,18836,98018.78,16116.0,83864.44
-Bahia,Aeroporto de Praga,8653,45028.48,8653.0,45028.48
-Bahia,Aeroporto Internacional de Changi,17457,90842.74,15688.0,81637.21
-Bahia,Aeroporto Internacional de Pequim Capital,16130,83937.29,16130.0,83937.29
-Bahia,Aeroporto Internacional de Xangai Pudong,17150,89245.17,17150.0,89245.17
-Bahia,Aeroporto de Copenhague,7965,41448.27,7965.0,41448.27
-Bahia,Aeroporto de Estocolmo-Arlanda,9475,49306.0,9475.0,49306.0
-Bahia,Aeroporto Internacional de Budapeste Ferenc Liszt,11820,61508.92,8783.0,45704.98
-Bahia,Aeroporto Internacional de Viena,8658,45054.5,8658.0,45054.5
-Bahia,Aeroporto de Milão-Malpensa,8018,41724.07,8018.0,41724.07
-Bahia,Aeroporto de Roma-Fiumicino,7967,41458.67,7967.0,41458.67
-Bahia,Aeroporto de Varsóvia Chopin,9170,47718.85,9170.0,47718.85
-Bahia,Aeroporto de Toulouse-Blagnac (França),7447,38752.7,7447.0,38752.7
-Bahia,Aeroporto Internacional de Taiwan Taoyuan,17491,91019.67,17491.0,91019.67
-Bahia,Aeroporto de Bratislava,11597,60348.47,8701.0,45278.26
-Bahia,Aeroporto de Heathrow (Londres),10999,57236.6,8016.0,41713.66
-Bahia,Aeroporto de Gatwick (Londres),10985,57163.74,7999.0,41625.2
-Bahia,Aeroporto Internacional de Haneda (Tóquio),17489,91009.26,17489.0,91009.26
-Bahia,Aeroporto Internacional de Narita (Tóquio),17469,90905.18,17469.0,90905.18
-Bahia,Aeroporto Internacional de Kansai (Osaka),17535,91248.63,17535.0,91248.63
-Bahia,Aeroporto Internacional de Suvarnabhumi,15606,81210.5,15606.0,81210.5
-Bahia,Aeroporto Internacional Don Mueang,15592,81137.65,15592.0,81137.65
-Bahia,Aeroporto de Schiphol (Amsterdã),8323,43311.23,8323.0,43311.23
-Ceará,Aeroporto Internacional Hartsfield-Jackson Atlanta,6353,33059.74,6353.0,33059.74
-Ceará,Aeroporto de Varsóvia Chopin,8332,43358.06,8332.0,43358.06
-Ceará,Aeroporto Internacional de Kuala Lumpur (Sepang),15617,81267.74,15617.0,81267.74
-Ceará,Aeroporto Internacional de Penang (Penang),15464,80471.56,15464.0,80471.56
-Ceará,Aeroporto de Toulouse-Blagnac (França),6596,34324.26,6596.0,34324.26
-Ceará,Aeroporto Internacional de Pequim Capital,15277,79498.45,15277.0,79498.45
-Ceará,Aeroporto Internacional de Xangai Pudong,16349,85076.93,16349.0,85076.93
-Ceará,Aeroporto de Frankfurt,7472,38882.79,7472.0,38882.79
-Ceará,Aeroporto Internacional de Hong Kong,20534,106854.83,16415.0,85420.38
-Ceará,Aeroporto Internacional de Taiwan Taoyuan,16816,87507.1,16816.0,87507.1
-Ceará,Aeroporto de Copenhague,11720,60988.54,6997.0,36410.99
-Ceará,Aeroporto Internacional de Incheon,15975,83130.7,15975.0,83130.7
-Ceará,Aeroporto de Barcelona-El Prat (Espanha),6469,33663.38,6469.0,33663.38
-Ceará,Aeroporto Internacional de Budapeste Ferenc Liszt,12567,65396.15,7982.0,41536.73
-Ceará,Aeroporto Adolfo Suárez Madrid-Barajas,6059,31529.82,6059.0,31529.82
-Ceará,Aeroporto Internacional de Viena,7841,40803.0,7841.0,40803.0
-Ceará,Aeroporto de Milão-Malpensa,7189,37410.12,7189.0,37410.12
-Ceará,Aeroporto de Roma-Fiumicino,7191,37420.53,7191.0,37420.53
-Maranhão,Aeroporto Internacional Hartsfield-Jackson Atlanta,9860,51309.47,5818.0,30275.71
-Maranhão,Aeroporto Internacional de Xangai Pudong,16995,88438.58,16524.0,85987.59
-Maranhão,Aeroporto de Varsóvia Chopin,12989,67592.16,8578.0,44638.2
-Maranhão,Aeroporto Internacional de Taiwan Taoyuan,20670,107562.55,17075.0,88854.88
-Maranhão,Aeroporto Internacional de Pequim Capital,15923,82860.11,15429.0,80289.43
-Maranhão,Aeroporto de Zurique,11587,60296.43,7547.0,39273.08
-Maranhão,Aeroporto de Frankfurt,8118,42244.45,7697.0,40053.65
-Paraíba,Aeroporto Internacional de Taiwan Taoyuan,16980,88360.52,16804.0,87444.66
-Paraíba,Aeroporto de Heathrow (Londres),11175,58152.46,7284.0,37904.48
-Paraíba,Aeroporto Internacional de Tan Son Nhat,15917,82828.88,15797.0,82204.43
-Paraíba,Aeroporto de Gatwick (Londres),11159,58069.2,7267.0,37816.01
-Paraíba,Aeroporto Internacional de Xangai Pudong,16614,86455.93,16424.0,85467.21
-Paraíba,Aeroporto Internacional de Budapeste Ferenc Liszt,8243,42894.92,8049.0,41885.39
-Paraíba,Aeroporto Internacional de Noi Bai,15684,81616.4,15535.0,80841.03
-Paraíba,Aeroporto Internacional de Pequim Capital,15591,81132.45,15395.0,80112.5
-Paraíba,Aeroporto Internacional Don Mueang,15248,79347.54,15121.0,78686.66
-Paraíba,Aeroporto Internacional de Hong Kong,20201,105121.96,16293.0,84785.51
-Paraíba,Aeroporto Internacional Hartsfield-Jackson Atlanta,7083,36858.52,6897.0,35890.61
-Paraíba,Aeroporto Internacional de Suvarnabhumi,15265,79436.01,15138.0,78775.12
-Paraíba,Aeroporto de Frankfurt,11492,59802.07,7599.0,39543.68
-Paraíba,Aeroporto Internacional de Kuala Lumpur (Sepang),15304,79638.96,15207.0,79134.19
-Paraíba,Aeroporto Internacional de Penang (Penang),15184,79014.5,15080.0,78473.3
-Pernambuco,Aeroporto Internacional Hartsfield-Jackson Atlanta,6975,36296.5,6975.0,36296.5
-Pernambuco,Aeroporto Internacional de Pequim Capital,15483,80570.44,15483.0,80570.44
-Pernambuco,Aeroporto Internacional de Xangai Pudong,16506,85893.92,16506.0,85893.92
-Pernambuco,Aeroporto de Frankfurt,7693,40032.83,7693.0,40032.83
-Pernambuco,Aeroporto de Copenhague,7359,38294.76,7359.0,38294.76
-Pernambuco,Aeroporto de Milão-Malpensa,7371,38357.21,7371.0,38357.21
-Pernambuco,Aeroporto de Roma-Fiumicino,7320,38091.82,7320.0,38091.82
-Pernambuco,Aeroporto de Schiphol (Amsterdã),7685,39991.2,7685.0,39991.2
-Pernambuco,Aeroporto Internacional de Hong Kong,20329,105788.05,16343.0,85045.7
-Pernambuco,Aeroporto de Zurique,7497,39012.89,7497.0,39012.89
-Pernambuco,Aeroporto de Helsinque,9208,47916.59,9208.0,47916.59
-Pernambuco,Aeroporto de Bruxelas,11261,58599.99,7557.0,39325.12
-Pernambuco,Aeroporto de Toulouse-Blagnac (França),10984,57158.54,6802.0,35396.25
-Pernambuco,Aeroporto Internacional de Viena,12200,63486.36,8010.0,41682.44
-Pernambuco,Aeroporto Internacional de Budapeste Ferenc Liszt,8135,42332.91,8135.0,42332.91
-Pernambuco,Aeroporto Internacional de Taiwan Taoyuan,16872,87798.51,16872.0,87798.51
-Pernambuco,Aeroporto de Varsóvia Chopin,8523,44351.99,8523.0,44351.99
-Pernambuco,Aeroporto de Praga,8007,41666.83,8007.0,41666.83
-Piauí,Aeroporto Internacional de Pequim Capital,19717,102603.32,15617.0,81267.74
-Piauí,Aeroporto Internacional de Xangai Pudong,20749,107973.65,16706.0,86934.68
-Piauí,Aeroporto de Frankfurt,9335,48577.47,7842.0,40808.2
-Piauí,Aeroporto Internacional de Viena,8338,43389.28,8237.0,42863.7
-Rio Grande do Norte,Aeroporto de Copenhague,7423,38627.81,7116.0,37030.24
-Rio Grande do Norte,Aeroporto Internacional Hartsfield-Jackson Atlanta,7238,37665.1,6768.0,35219.32
-Rio Grande do Norte,Aeroporto de Praga,12392,64485.49,7804.0,40610.46
-Rio Grande do Norte,Aeroporto de Frankfurt,7482,38934.83,7482.0,38934.83
-Rio Grande do Norte,Aeroporto Internacional de Pequim Capital,15285,79540.08,15285.0,79540.08
-Rio Grande do Norte,Aeroporto Internacional de Xangai Pudong,16326,84957.24,16326.0,84957.24
-Rio Grande do Norte,Aeroporto Internacional de Kuala Lumpur (Sepang),15459,80445.54,15248.0,79347.54
-Rio Grande do Norte,Aeroporto Internacional de Viena,8273,43051.04,7815.0,40667.7
-Rio Grande do Norte,Aeroporto de Zurique,7760,40381.49,7293.0,37951.31
-Rio Grande do Norte,Aeroporto de Milão-Malpensa,7634,39725.81,7171.0,37316.45
-Rio Grande do Norte,Aeroporto Internacional de Penang (Penang),15339,79821.09,15111.0,78634.62
-Rio Grande do Norte,Aeroporto de Roma-Fiumicino,7583,39460.42,7136.0,37134.32
-Sergipe,Aeroporto Internacional de Pequim Capital,19283,100344.88,15873.0,82599.92
-Sergipe,Aeroporto Internacional de Xangai Pudong,20286,105564.29,16896.0,87923.4
+Alagoas,Aeroporto Internacional Hartsfield-Jackson Atlanta,7111,37.0,6983.0,36.34
+Alagoas,Aeroporto de Praga,8143,42.37,8141.0,42.36
+Alagoas,Aeroporto Internacional de Pequim Capital,19539,101.68,15617.0,81.27
+Alagoas,Aeroporto Internacional de Xangai Pudong,20542,106.9,16641.0,86.6
+Alagoas,Aeroporto de Frankfurt,7829,40.74,7825.0,40.72
+Bahia,Aeroporto Adolfo Suárez Madrid-Barajas,6915,35.98,6915.0,35.98
+Bahia,Aeroporto de Frankfurt,8336,43.38,8336.0,43.38
+Bahia,Aeroporto de Barcelona-El Prat (Espanha),7296,37.97,7296.0,37.97
+Bahia,Aeroporto Internacional Hartsfield-Jackson Atlanta,7099,36.94,7099.0,36.94
+Bahia,Aeroporto Internacional de Kuala Lumpur (Sepang),17564,91.4,15493.0,80.62
+Bahia,Aeroporto Internacional de Noi Bai,18836,98.02,16116.0,83.86
+Bahia,Aeroporto Internacional de Penang (Penang),17600,91.59,15414.0,80.21
+Bahia,Aeroporto Internacional de Tan Son Nhat,18520,96.37,16216.0,84.38
+Bahia,Aeroporto Internacional de Changi,17457,90.84,15688.0,81.64
+Bahia,Aeroporto Internacional de Pequim Capital,16130,83.94,16130.0,83.94
+Bahia,Aeroporto Internacional de Xangai Pudong,17150,89.25,17150.0,89.25
+Bahia,Aeroporto de Praga,8653,45.03,8653.0,45.03
+Bahia,Aeroporto de Estocolmo-Arlanda,9475,49.31,9475.0,49.31
+Bahia,Aeroporto Internacional de Viena,8658,45.05,8658.0,45.05
+Bahia,Aeroporto de Copenhague,7965,41.45,7965.0,41.45
+Bahia,Aeroporto Internacional de Budapeste Ferenc Liszt,11820,61.51,8783.0,45.7
+Bahia,Aeroporto de Roma-Fiumicino,7967,41.46,7967.0,41.46
+Bahia,Aeroporto de Milão-Malpensa,8018,41.72,8018.0,41.72
+Bahia,Aeroporto de Varsóvia Chopin,9170,47.72,9170.0,47.72
+Bahia,Aeroporto de Toulouse-Blagnac (França),7447,38.75,7447.0,38.75
+Bahia,Aeroporto de Gatwick (Londres),10985,57.16,7999.0,41.63
+Bahia,Aeroporto de Bratislava,11597,60.35,8701.0,45.28
+Bahia,Aeroporto Internacional de Taiwan Taoyuan,17491,91.02,17491.0,91.02
+Bahia,Aeroporto de Heathrow (Londres),10999,57.24,8016.0,41.71
+Bahia,Aeroporto Internacional de Suvarnabhumi,15606,81.21,15606.0,81.21
+Bahia,Aeroporto Internacional de Kansai (Osaka),17535,91.25,17535.0,91.25
+Bahia,Aeroporto Internacional de Haneda (Tóquio),17489,91.01,17489.0,91.01
+Bahia,Aeroporto Internacional de Narita (Tóquio),17469,90.91,17469.0,90.91
+Bahia,Aeroporto de Schiphol (Amsterdã),8323,43.31,8323.0,43.31
+Bahia,Aeroporto Internacional Don Mueang,15592,81.14,15592.0,81.14
+Ceará,Aeroporto de Varsóvia Chopin,8332,43.36,8332.0,43.36
+Ceará,Aeroporto Internacional de Penang (Penang),15464,80.47,15464.0,80.47
+Ceará,Aeroporto Internacional de Kuala Lumpur (Sepang),15617,81.27,15617.0,81.27
+Ceará,Aeroporto Internacional Hartsfield-Jackson Atlanta,6353,33.06,6353.0,33.06
+Ceará,Aeroporto de Frankfurt,7472,38.88,7472.0,38.88
+Ceará,Aeroporto de Toulouse-Blagnac (França),6596,34.32,6596.0,34.32
+Ceará,Aeroporto Internacional de Pequim Capital,15277,79.5,15277.0,79.5
+Ceará,Aeroporto Internacional de Xangai Pudong,16349,85.08,16349.0,85.08
+Ceará,Aeroporto de Copenhague,11720,60.99,6997.0,36.41
+Ceará,Aeroporto Internacional de Hong Kong,20534,106.85,16415.0,85.42
+Ceará,Aeroporto Internacional de Incheon,15975,83.13,15975.0,83.13
+Ceará,Aeroporto Internacional de Taiwan Taoyuan,16816,87.51,16816.0,87.51
+Ceará,Aeroporto Internacional de Viena,7841,40.8,7841.0,40.8
+Ceará,Aeroporto Adolfo Suárez Madrid-Barajas,6059,31.53,6059.0,31.53
+Ceará,Aeroporto de Barcelona-El Prat (Espanha),6469,33.66,6469.0,33.66
+Ceará,Aeroporto Internacional de Budapeste Ferenc Liszt,12567,65.4,7982.0,41.54
+Ceará,Aeroporto de Milão-Malpensa,7189,37.41,7189.0,37.41
+Ceará,Aeroporto de Roma-Fiumicino,7191,37.42,7191.0,37.42
+Maranhão,Aeroporto de Varsóvia Chopin,12989,67.59,8578.0,44.64
+Maranhão,Aeroporto Internacional de Xangai Pudong,16995,88.44,16524.0,85.99
+Maranhão,Aeroporto Internacional de Taiwan Taoyuan,20670,107.56,17075.0,88.85
+Maranhão,Aeroporto Internacional Hartsfield-Jackson Atlanta,9860,51.31,5818.0,30.28
+Maranhão,Aeroporto de Frankfurt,8118,42.24,7697.0,40.05
+Maranhão,Aeroporto de Zurique,11587,60.3,7547.0,39.27
+Maranhão,Aeroporto Internacional de Pequim Capital,15923,82.86,15429.0,80.29
+Paraíba,Aeroporto Internacional de Taiwan Taoyuan,16980,88.36,16804.0,87.44
+Paraíba,Aeroporto de Heathrow (Londres),11175,58.15,7284.0,37.9
+Paraíba,Aeroporto Internacional de Tan Son Nhat,15917,82.83,15797.0,82.2
+Paraíba,Aeroporto de Gatwick (Londres),11159,58.07,7267.0,37.82
+Paraíba,Aeroporto Internacional de Budapeste Ferenc Liszt,8243,42.89,8049.0,41.89
+Paraíba,Aeroporto Internacional de Noi Bai,15684,81.62,15535.0,80.84
+Paraíba,Aeroporto Internacional de Xangai Pudong,16614,86.46,16424.0,85.47
+Paraíba,Aeroporto Internacional de Pequim Capital,15591,81.13,15395.0,80.11
+Paraíba,Aeroporto Internacional de Suvarnabhumi,15265,79.44,15138.0,78.78
+Paraíba,Aeroporto Internacional Hartsfield-Jackson Atlanta,7083,36.86,6897.0,35.89
+Paraíba,Aeroporto Internacional Don Mueang,15248,79.35,15121.0,78.69
+Paraíba,Aeroporto Internacional de Hong Kong,20201,105.12,16293.0,84.79
+Paraíba,Aeroporto Internacional de Kuala Lumpur (Sepang),15304,79.64,15207.0,79.13
+Paraíba,Aeroporto de Frankfurt,11492,59.8,7599.0,39.54
+Paraíba,Aeroporto Internacional de Penang (Penang),15184,79.01,15080.0,78.47
+Pernambuco,Aeroporto Internacional Hartsfield-Jackson Atlanta,6975,36.3,6975.0,36.3
+Pernambuco,Aeroporto Internacional de Xangai Pudong,16506,85.89,16506.0,85.89
+Pernambuco,Aeroporto Internacional de Pequim Capital,15483,80.57,15483.0,80.57
+Pernambuco,Aeroporto de Frankfurt,7693,40.03,7693.0,40.03
+Pernambuco,Aeroporto de Roma-Fiumicino,7320,38.09,7320.0,38.09
+Pernambuco,Aeroporto de Milão-Malpensa,7371,38.36,7371.0,38.36
+Pernambuco,Aeroporto de Schiphol (Amsterdã),7685,39.99,7685.0,39.99
+Pernambuco,Aeroporto de Copenhague,7359,38.29,7359.0,38.29
+Pernambuco,Aeroporto de Helsinque,9208,47.92,9208.0,47.92
+Pernambuco,Aeroporto Internacional de Hong Kong,20329,105.79,16343.0,85.05
+Pernambuco,Aeroporto de Bruxelas,11261,58.6,7557.0,39.33
+Pernambuco,Aeroporto de Zurique,7497,39.01,7497.0,39.01
+Pernambuco,Aeroporto Internacional de Budapeste Ferenc Liszt,8135,42.33,8135.0,42.33
+Pernambuco,Aeroporto Internacional de Taiwan Taoyuan,16872,87.8,16872.0,87.8
+Pernambuco,Aeroporto Internacional de Viena,12200,63.49,8010.0,41.68
+Pernambuco,Aeroporto de Toulouse-Blagnac (França),10984,57.16,6802.0,35.4
+Pernambuco,Aeroporto de Varsóvia Chopin,8523,44.35,8523.0,44.35
+Pernambuco,Aeroporto de Praga,8007,41.67,8007.0,41.67
+Piauí,Aeroporto Internacional de Pequim Capital,19717,102.6,15617.0,81.27
+Piauí,Aeroporto Internacional de Xangai Pudong,20749,107.97,16706.0,86.93
+Piauí,Aeroporto Internacional de Viena,8338,43.39,8237.0,42.86
+Piauí,Aeroporto de Frankfurt,9335,48.58,7842.0,40.81
+Rio Grande do Norte,Aeroporto de Praga,12392,64.49,7804.0,40.61
+Rio Grande do Norte,Aeroporto de Frankfurt,7482,38.93,7482.0,38.93
+Rio Grande do Norte,Aeroporto Internacional Hartsfield-Jackson Atlanta,7238,37.67,6768.0,35.22
+Rio Grande do Norte,Aeroporto de Copenhague,7423,38.63,7116.0,37.03
+Rio Grande do Norte,Aeroporto Internacional de Kuala Lumpur (Sepang),15459,80.45,15248.0,79.35
+Rio Grande do Norte,Aeroporto Internacional de Pequim Capital,15285,79.54,15285.0,79.54
+Rio Grande do Norte,Aeroporto Internacional de Viena,8273,43.05,7815.0,40.67
+Rio Grande do Norte,Aeroporto Internacional de Xangai Pudong,16326,84.96,16326.0,84.96
+Rio Grande do Norte,Aeroporto de Roma-Fiumicino,7583,39.46,7136.0,37.13
+Rio Grande do Norte,Aeroporto Internacional de Penang (Penang),15339,79.82,15111.0,78.63
+Rio Grande do Norte,Aeroporto de Milão-Malpensa,7634,39.73,7171.0,37.32
+Rio Grande do Norte,Aeroporto de Zurique,7760,40.38,7293.0,37.95
+Sergipe,Aeroporto Internacional de Xangai Pudong,20286,105.56,16896.0,87.92
+Sergipe,Aeroporto Internacional de Pequim Capital,19283,100.34,15873.0,82.6
